@@ -270,3 +270,62 @@ print(f"Mean of predicted values: {predicted_values.mean():.2f}")
 # Save the updated dataset
 encoded_data.to_csv("updated_dataset_with_predictions.csv", index=False)
 print("\nUpdated dataset saved to 'updated_dataset_with_predictions.csv'")
+
+# After predictions, before plotting:
+
+# Generate polynomial feature names
+poly = PolynomialFeatures(degree=2, interaction_only=False, include_bias=False)
+X_train_poly = poly.fit_transform(X_train)
+feature_names = poly.get_feature_names_out(features)
+
+# Create figure with subplots
+plt.figure(figsize=(15, 10))
+
+# 1. Actual vs Predicted Values
+plt.subplot(2, 2, 1)
+y_pred = best_model.predict(X_train_poly)
+plt.scatter(y_train, y_pred, alpha=0.5)
+plt.plot([-3, 3], [-3, 3], 'r--')  # diagonal line
+plt.xlabel('Actual Values')
+plt.ylabel('Predicted Values')
+plt.title('Actual vs Predicted Values')
+
+# 2. Residuals Plot
+plt.subplot(2, 2, 2)
+residuals = y_train - y_pred
+plt.scatter(y_pred, residuals, alpha=0.5)
+plt.axhline(y=0, color='r', linestyle='--')
+plt.xlabel('Predicted Values')
+plt.ylabel('Residuals')
+plt.title('Residuals vs Predicted Values')
+
+# 3. Distribution of Residuals
+plt.subplot(2, 2, 3)
+sns.histplot(residuals, kde=True)
+plt.xlabel('Residuals')
+plt.ylabel('Count')
+plt.title('Distribution of Residuals')
+
+# 4. Feature Importance (top 10 polynomial terms)
+plt.subplot(2, 2, 4)
+importance_df = pd.DataFrame({
+    'Feature': feature_names,
+    'Coefficient': abs(best_model.coef_)
+}).sort_values('Coefficient', ascending=True).tail(10)
+plt.barh(y=range(len(importance_df)), width=importance_df['Coefficient'])
+plt.yticks(range(len(importance_df)), importance_df['Feature'], rotation=0)
+plt.title('Top 10 Feature Importance')
+
+plt.tight_layout()
+plt.show()
+
+
+# Correlation matrix of top features
+plt.figure(figsize=(12, 8))
+correlation_matrix = encoded_data[features].corr()
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0)
+plt.title('Correlation Matrix of Top Features')
+plt.xticks(rotation=45, ha='right')
+plt.yticks(rotation=0)
+plt.tight_layout()
+plt.show()
