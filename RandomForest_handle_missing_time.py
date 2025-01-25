@@ -299,9 +299,13 @@ cv_scores = {
     'rmse': []
 }
 
-# Perform cross-validation
+# Before cross-validation, convert DataFrames to numpy arrays to avoid feature name warnings
+X = X.to_numpy()
+X_missing = X_missing.to_numpy()
+
+# Modify the cross-validation loop to work with numpy arrays
 for train_idx, val_idx in kfold.split(X):
-    X_train_cv, X_val_cv = X.iloc[train_idx], X.iloc[val_idx]
+    X_train_cv, X_val_cv = X[train_idx], X[val_idx]
     y_train_cv, y_val_cv = y.iloc[train_idx], y.iloc[val_idx]
     
     # Train model
@@ -355,7 +359,7 @@ original_data = original_data.iloc[:,1:]  # Remove first column as done before
 original_data.loc[original_data['Estimated Average Stage Time'].isna(), 'Estimated Average Stage Time'] = missing_predictions
 
 # Save the updated dataset
-output_filename = "HackathonData2025+Fleet_Type_units_AT_updated.csv"
+output_filename = "TrainData_recovered_forest_main.csv"
 original_data.to_csv(output_filename, index=False)
 
 print(f"\nUpdated dataset saved to: {output_filename}")
