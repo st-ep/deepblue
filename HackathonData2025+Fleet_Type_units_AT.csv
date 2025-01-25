@@ -1,0 +1,1083 @@
+# Clusters ,Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Target Formation,Field Area,Ambient Temperature,Grid,Diesel,CNG,Fuel Type,Sand Provider 
+480,85.7,120.5,Fleet 4,Zipper,Pecan Tree,West Campus,35.9,0.0,0.0,22717,Turbine,SAND_C_X
+431,85.7,117.6,Fleet 4,Zipper,Pecan Tree,West Campus,35.9,0.0,0.0,22717,Turbine,SAND_C_R
+507,76.2,87.0,Fleet 8,Zipper,Bluebonnet,Gregory Gym,38.1,0.0,9033.39167192,14690,DGB,SAND_C_R
+565,76.2,87.3,Fleet 8,Zipper,Lone Star,Gregory Gym,38.1,0.0,8954.017497039998,14644,DGB,SAND_C_A
+522,76.2,90.8,Fleet 8,Zipper,Longhorn,Gregory Gym,38.1,0.0,9388.77150036,14975,DGB,SAND_C_X
+270,88.0,97.2,Fleet 12,Simul,Monarch Butterfly,DKR,38.7,0.0,7378.884177,0,Diesel,SAND_C_A
+208,102.4,108.4,Fleet 12,Simul,Rodeo,DKR,38.7,0.0,6919.01352044,0,Diesel,SAND_C_R
+252,,100.5,Fleet 12,Simul,Cowboy,DKR,38.7,0.0,6697.40415456,0,Diesel,SAND_C_A
+231,80.0,104.6,Fleet 12,Simul,Longhorn,DKR,38.7,0.0,6789.683571160001,0,Diesel,SAND_C_A
+221,,104.9,Fleet 12,Simul,Bluebonnet,DKR,38.7,0.0,7758.27053036,0,Diesel,SAND_C_A
+283,80.0,98.2,Fleet 12,Simul,Longhorn,DKR,38.7,0.0,7608.125675080001,0,Diesel,SAND_C_R
+419,72.0,86.7,Fleet 14,Simul,Rodeo,DKR,39.2,0.0,11108.63780012,0,Diesel,SAND_C_A
+434,100.0,,Fleet 14,Simul,Cowboy,DKR,39.2,0.0,13594.63140672,0,Diesel,SAND_C_R
+457,90.0,,Fleet 14,Simul,Longhorn,DKR,39.2,0.0,13913.09946852,0,Diesel,SAND_C_R
+445,80.0,,Fleet 14,Simul,Bluebonnet,DKR,39.2,0.0,12140.22454148,0,Diesel,SAND_C_A
+421,,110.2,Fleet 3,Simul,Bluebonnet,The Tower,39.5,0.0,0.0,23694,Turbine,SAND_C_A
+440,,113.1,Fleet 3,Simul,Bluebonnet,The Tower,39.5,0.0,0.0,23549,Turbine,SAND_C_A
+494,120.0,131.2,Fleet 9,Simul,Lone Star,CPE,39.6,0.0,5104.92507952,4235,DGB,SAND_C_X
+495,120.0,129.0,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,5790.8456152399995,4222,DGB,SAND_C_A
+426,120.0,131.4,Fleet 9,Simul,Lone Star,CPE,39.6,0.0,6192.85083312,4235,DGB,SAND_C_X
+495,,,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,6518.6734950400005,4132,DGB,SAND_C_A
+466,120.0,133.3,Fleet 9,Simul,Lone Star,CPE,39.6,0.0,6525.611797040001,4249,DGB,SAND_C_R
+468,120.0,129.7,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,5550.91913208,4112,DGB,SAND_C_R
+215,57.1,75.5,Fleet 8,Zipper,Longhorn,DKR,40.1,0.0,3398.3803196000003,6411,DGB,SAND_C_X
+218,57.1,70.8,Fleet 8,Zipper,Cowboy,DKR,40.1,0.0,3424.60710116,6014,DGB,SAND_C_X
+204,73.1,86.0,Fleet 8,Zipper,Rodeo,DKR,40.1,0.0,3219.7884261199997,5682,DGB,SAND_C_X
+305,95.2,,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,15192.7998894,0,Diesel,SAND_C_A
+260,,111.1,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,14672.427239400002,0,Diesel,SAND_C_X
+265,85.7,108.1,Fleet 10,Zipper,Longhorn,DKR,40.1,0.0,14340.360105680002,0,Diesel,SAND_C_R
+281,95.2,111.4,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,15118.69882404,0,Diesel,SAND_C_X
+295,85.7,,Fleet 10,Zipper,Longhorn,DKR,40.1,0.0,14659.2444656,0,Diesel,SAND_C_X
+302,85.7,113.2,Fleet 10,Zipper,Longhorn,DKR,40.1,0.0,14837.00376284,0,Diesel,SAND_C_X
+422,85.7,110.2,Fleet 6,Zipper,Longhorn,CPE,40.3,0.0,8632.080284239999,12644,DGB,SAND_C_X
+413,,111.4,Fleet 6,Zipper,Longhorn,CPE,40.3,0.0,9098.1954126,12779,DGB,SAND_C_X
+496,85.7,101.8,Fleet 6,Zipper,Lone Star,CPE,40.3,0.0,7961.007714799999,12878,DGB,SAND_C_A
+401,85.7,105.8,Fleet 6,Zipper,Lone Star,CPE,40.3,0.0,8015.95906664,12945,DGB,SAND_C_X
+497,85.7,104.6,Fleet 6,Zipper,Longhorn,CPE,40.3,0.0,8174.152352239999,12912,DGB,SAND_C_A
+328,96.0,122.3,Fleet 12,Simul,Rodeo,DKR,40.5,0.0,9906.368829560002,0,Diesel,SAND_C_X
+303,96.0,108.1,Fleet 12,Simul,Rodeo,DKR,40.5,0.0,8605.02090644,0,Diesel,SAND_C_A
+278,96.0,109.7,Fleet 12,Simul,Rodeo,DKR,40.5,0.0,10557.736621320002,0,Diesel,SAND_C_A
+293,,75.0,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,10672.218604320002,0,Diesel,SAND_C_A
+286,106.7,19.2,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,10522.351281120002,0,Diesel,SAND_C_A
+333,106.7,117.4,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,11364.52237788,0,Diesel,SAND_C_X
+393,,87.5,Fleet 15,Zipper,Bluebonnet,West Campus,41.7,0.0,12081.80403864,0,Diesel,SAND_C_R
+341,76.2,90.0,Fleet 15,Zipper,Bluebonnet,West Campus,41.7,0.0,11993.27130512,0,Diesel,SAND_C_X
+297,76.2,,Fleet 15,Zipper,Bluebonnet,West Campus,41.7,0.0,11952.75162144,0,Diesel,SAND_C_X
+377,,123.6,Fleet 1,Simul,Cowboy,Moody Center,41.8,0.0,0.0,10439,Turbine,SAND_C_R
+327,106.7,121.9,Fleet 1,Simul,Bluebonnet,Moody Center,41.8,0.0,0.0,9780,Turbine,SAND_C_X
+339,106.7,122.3,Fleet 1,Simul,Bluebonnet,Moody Center,41.8,0.0,0.0,9894,Turbine,SAND_C_R
+280,102.4,124.9,Fleet 1,Simul,Rodeo,Moody Center,41.8,0.0,0.0,8639,Turbine,SAND_C_A
+311,,,Fleet 1,Simul,Monarch Butterfly,Moody Center,41.8,0.0,0.0,9469,Turbine,SAND_C_A
+390,120.0,141.0,Fleet 12,Simul,Longhorn,The Tower,42.2,0.0,14960.08924032,0,Diesel,SAND_C_A
+392,133.3,,Fleet 12,Simul,Cowboy,The Tower,42.2,0.0,15090.1130198,0,Diesel,SAND_C_A
+337,133.3,117.7,Fleet 12,Simul,Lone Star,The Tower,42.2,0.0,14143.17356284,0,Diesel,SAND_C_X
+344,,140.7,Fleet 12,Simul,Cowboy,The Tower,42.45,0.0,14506.18552348,0,Diesel,SAND_C_X
+479,72.0,84.4,Fleet 14,Simul,Rodeo,DKR,42.7,0.0,14691.160654800002,0,Diesel,SAND_C_A
+409,,89.3,Fleet 14,Simul,Bluebonnet,DKR,42.7,0.0,12053.35700044,0,Diesel,SAND_C_X
+419,80.0,100.1,Fleet 14,Simul,Bluebonnet,DKR,42.7,0.0,11061.7348786,0,Diesel,SAND_C_X
+433,90.0,99.7,Fleet 14,Simul,Longhorn,DKR,42.7,0.0,10327.662527,0,Diesel,SAND_C_X
+481,100.0,87.3,Fleet 14,Simul,Cowboy,DKR,42.7,0.0,14045.065972560002,0,Diesel,SAND_C_X
+407,100.0,,Fleet 14,Simul,Cowboy,DKR,42.7,0.0,14509.65467448,0,Diesel,SAND_C_X
+240,102.4,116.3,Fleet 2,Simul,Rodeo,Guadalupe,42.7,0.0,0.0,7081,Turbine,SAND_C_R
+195,,116.9,Fleet 2,Simul,Rodeo,Guadalupe,42.7,0.0,0.0,5951,Turbine,SAND_C_X
+306,106.7,118.6,Fleet 2,Simul,Longhorn,Guadalupe,42.7,0.0,0.0,7631,Turbine,SAND_C_X
+323,106.7,125.3,Fleet 2,Simul,Longhorn,Guadalupe,42.7,0.0,0.0,7855,Turbine,SAND_C_R
+275,106.7,,Fleet 2,Simul,Bluebonnet,Guadalupe,42.7,0.0,0.0,7771,Turbine,SAND_C_R
+305,106.7,,Fleet 2,Simul,Bluebonnet,Guadalupe,42.7,0.0,0.0,7262,Turbine,SAND_C_A
+718,90.0,103.9,Fleet 1,Simul,Longhorn,The Tower,42.8,0.0,0.0,23442,Turbine,SAND_C_A
+705,90.0,103.2,Fleet 1,Simul,Longhorn,The Tower,42.8,0.0,0.0,22707,Turbine,SAND_C_A
+663,,132.9,Fleet 1,Simul,Lone Star,The Tower,42.8,0.0,0.0,28638,Turbine,SAND_C_X
+734,120.0,133.7,Fleet 1,Simul,Lone Star,The Tower,42.8,0.0,0.0,28284,Turbine,SAND_C_A
+481,120.0,125.6,Fleet 14,Simul,Lone Star,Gregory Gym,42.9,0.0,14331.201547039998,0,Diesel,SAND_C_X
+421,120.0,124.0,Fleet 14,Simul,Lone Star,Gregory Gym,42.9,0.0,13674.0055816,0,Diesel,SAND_C_A
+405,120.0,124.7,Fleet 14,Simul,Lone Star,Gregory Gym,42.9,0.0,14966.05618004,0,Diesel,SAND_C_R
+484,,124.5,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,15452.708682320002,0,Diesel,SAND_C_A
+388,,126.0,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,14737.92481028,0,Diesel,SAND_C_X
+458,106.7,125.6,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,15624.3622738,0,Diesel,SAND_C_A
+186,73.1,91.2,Fleet 6,Zipper,Rodeo,West Campus,43.1,0.0,8375.36311024,0,Diesel,SAND_C_X
+306,76.2,,Fleet 6,Zipper,Bluebonnet,West Campus,43.1,0.0,10868.850083,0,Diesel,SAND_C_A
+270,76.2,101.1,Fleet 6,Zipper,Bluebonnet,West Campus,43.1,0.0,11416.559642880002,0,Diesel,SAND_C_R
+247,73.1,,Fleet 6,Zipper,Rodeo,West Campus,43.1,0.0,8606.68609892,0,Diesel,SAND_C_X
+305,76.2,,Fleet 6,Zipper,Bluebonnet,West Campus,43.1,0.0,10902.8477628,0,Diesel,SAND_C_R
+501,68.6,88.2,Fleet 15,Zipper,Longhorn,Gregory Gym,43.150000000000006,0.0,17832.407502280003,0,Diesel,SAND_C_R
+540,68.6,,Fleet 15,Zipper,Lone Star,Gregory Gym,43.2,0.0,18408.286568280004,0,Diesel,SAND_C_X
+481,76.2,,Fleet 15,Zipper,Bluebonnet,Gregory Gym,43.2,0.0,18144.07602812,0,Diesel,SAND_C_A
+269,102.4,110.2,Fleet 2,Simul,Rodeo,Guadalupe,43.3,0.0,0.0,8887,Turbine,SAND_C_X
+360,,108.8,Fleet 2,Simul,Cowboy,Guadalupe,43.3,0.0,0.0,10862,Turbine,SAND_C_X
+354,96.0,,Fleet 2,Simul,Longhorn,Guadalupe,43.3,0.0,0.0,11762,Turbine,SAND_C_R
+325,76.2,91.7,Fleet 4,Zipper,Longhorn,West Campus,43.4,0.0,0.0,14545,Turbine,SAND_C_A
+324,76.2,100.6,Fleet 4,Zipper,Longhorn,West Campus,43.4,0.0,0.0,15796,Turbine,SAND_C_A
+320,106.7,93.6,Fleet 2,Simul,Bluebonnet,West Campus,44.0,0.0,11956.35953848,0,Diesel,SAND_C_X
+375,106.7,,Fleet 2,Simul,Bluebonnet,West Campus,44.0,0.0,12381.399919,0,Diesel,SAND_C_X
+335,106.7,108.2,Fleet 2,Simul,Bluebonnet,West Campus,44.0,0.0,12475.89959224,0,Diesel,SAND_C_A
+250,115.2,100.4,Fleet 2,Simul,Rodeo,West Campus,44.0,0.0,11056.73930116,0,Diesel,SAND_C_A
+343,115.2,,Fleet 2,Simul,Rodeo,West Campus,44.0,0.0,11682.15784344,0,Diesel,SAND_C_A
+335,76.2,,Fleet 11,Zipper,Bluebonnet,West Campus,44.0,0.0,12874.296893080002,0,Diesel,SAND_C_A
+386,95.2,-66.3,Fleet 11,Zipper,Cowboy,West Campus,44.0,0.0,15862.76233052,0,Diesel,SAND_C_A
+353,68.6,84.9,Fleet 11,Zipper,Rodeo,West Campus,44.0,0.0,11304.714214640002,0,Diesel,SAND_C_R
+357,85.7,0.0,Fleet 11,Zipper,Longhorn,West Campus,44.0,0.0,14423.06466552,0,Diesel,SAND_C_A
+398,76.2,94.0,Fleet 6,Zipper,Cowboy,Guadalupe,44.5,0.0,11544.77946384,3653,DGB,SAND_C_A
+347,76.2,92.1,Fleet 6,Zipper,Cowboy,Guadalupe,44.5,0.0,11477.894232560002,3547,DGB,SAND_C_A
+320,,94.7,Fleet 6,Zipper,Longhorn,Guadalupe,44.5,0.0,11526.87864468,3645,DGB,SAND_C_R
+376,76.2,95.1,Fleet 6,Zipper,Longhorn,Guadalupe,44.5,0.0,11663.285662,3529,DGB,SAND_C_X
+451,,138.2,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,18054.8494644,0,Diesel,SAND_C_A
+415,120.0,,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,18610.6074546,0,Diesel,SAND_C_R
+465,120.0,138.0,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,19964.270174800004,0,Diesel,SAND_C_X
+401,133.3,139.8,Fleet 12,Simul,Lone Star,CPE,44.6,0.0,20421.78180868,0,Diesel,SAND_C_R
+459,133.3,,Fleet 12,Simul,Lone Star,CPE,44.6,0.0,21324.31613284,0,Diesel,SAND_C_A
+417,133.3,138.8,Fleet 12,Simul,Lone Star,CPE,44.6,0.0,20436.90730704,0,Diesel,SAND_C_X
+315,106.7,99.7,Fleet 2,Simul,Bluebonnet,Guadalupe,44.7,0.0,13292.3989716,0,Diesel,SAND_C_A
+376,,103.8,Fleet 2,Simul,Bluebonnet,Guadalupe,44.7,0.0,13959.863624,0,Diesel,SAND_C_X
+336,106.7,97.3,Fleet 2,Simul,Monarch Butterfly,Guadalupe,44.7,0.0,13649.582758560002,0,Diesel,SAND_C_A
+303,106.7,100.3,Fleet 2,Simul,Monarch Butterfly,Guadalupe,44.7,0.0,13390.09026376,0,Diesel,SAND_C_A
+355,106.7,97.2,Fleet 2,Simul,Rodeo,Guadalupe,44.7,0.0,13210.804540080002,0,Diesel,SAND_C_X
+353,106.7,,Fleet 2,Simul,Rodeo,Guadalupe,44.7,0.0,12918.00819568,0,Diesel,SAND_C_A
+251,140.0,119.8,Fleet 2,Simul,Armadillo,Guadalupe,45.0,0.0,11130.28530236,0,Diesel,SAND_C_X
+233,140.0,74.9,Fleet 2,Simul,Armadillo,Guadalupe,45.0,0.0,12181.576821400002,0,Diesel,SAND_C_R
+264,140.0,,Fleet 2,Simul,Armadillo,Guadalupe,45.0,0.0,11389.08396696,0,Diesel,SAND_C_R
+530,72.0,84.8,Fleet 14,Simul,Rodeo,DKR,45.4,0.0,13396.4735016,0,Diesel,SAND_C_R
+551,72.0,85.0,Fleet 14,Simul,Rodeo,DKR,45.4,0.0,13392.72681852,0,Diesel,SAND_C_A
+526,72.0,71.8,Fleet 14,Simul,Rodeo,DKR,45.4,0.0,13664.56949088,0,Diesel,SAND_C_X
+615,,88.2,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,13020.69506528,0,Diesel,SAND_C_X
+550,80.0,-6883214.2,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,12416.50772712,0,Diesel,SAND_C_X
+535,80.0,91.5,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,13183.051332080002,0,Diesel,SAND_C_R
+394,,105.0,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
+386,85.7,,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
+310,85.7,101.3,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_X
+360,95.2,109.4,Fleet 4,Zipper,Lone Star,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_R
+353,95.2,108.8,Fleet 4,Zipper,Lone Star,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
+349,95.2,,Fleet 4,Zipper,Lone Star,CPE,45.4,0.0,0.0,15899,Turbine,SAND_C_R
+257,,111.3,Fleet 2,Simul,Rodeo,Guadalupe,45.4,0.0,0.0,7693,Turbine,SAND_C_A
+406,,108.1,Fleet 2,Simul,Magnolia,Guadalupe,45.4,0.0,0.0,9511,Turbine,SAND_C_A
+370,106.7,114.1,Fleet 2,Simul,Bluebonnet,Guadalupe,45.4,0.0,0.0,10169,Turbine,SAND_C_X
+335,96.0,111.0,Fleet 2,Simul,Cowboy,Guadalupe,45.4,0.0,0.0,9275,Turbine,SAND_C_X
+339,96.0,,Fleet 2,Simul,Cowboy,Guadalupe,45.4,0.0,0.0,9365,Turbine,SAND_C_X
+320,,120.1,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12290.36939676,0,Diesel,SAND_C_X
+349,106.7,,Fleet 14,Simul,Longhorn,Guadalupe,45.5,0.0,11702.00138716,0,Diesel,SAND_C_X
+343,,,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12297.03016668,0,Diesel,SAND_C_X
+391,106.7,,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12622.43653048,0,Diesel,SAND_C_R
+366,106.7,119.9,Fleet 14,Simul,Longhorn,Guadalupe,45.5,0.0,12260.257166080002,0,Diesel,SAND_C_X
+352,68.6,86.9,Fleet 15,Zipper,Bluebonnet,West Campus,45.65,0.0,11931.7979494,0,Diesel,SAND_C_X
+290,82.3,100.8,Fleet 15,Zipper,Rodeo,West Campus,45.8,0.0,11877.6791938,0,Diesel,SAND_C_R
+324,68.6,87.9,Fleet 15,Zipper,Bluebonnet,West Campus,45.8,0.0,11875.73646924,0,Diesel,SAND_C_A
+306,68.6,88.6,Fleet 15,Zipper,Bluebonnet,West Campus,45.8,0.0,11589.0458306,0,Diesel,SAND_C_R
+398,128.6,97.2,Fleet 8,Zipper,Cowboy,The Tower,46.6,0.0,7603.54639576,16705,DGB,SAND_C_R
+380,128.6,108.4,Fleet 8,Zipper,Cowboy,The Tower,46.6,0.0,7640.4581624,16594,DGB,SAND_C_R
+365,128.6,100.5,Fleet 8,Zipper,Cowboy,The Tower,46.6,0.0,7665.71358168,17166,DGB,SAND_C_R
+553,96.0,109.8,Fleet 14,Simul,Longhorn,Gregory Gym,46.7,0.0,16647.20675464,0,Diesel,SAND_C_A
+476,106.7,119.8,Fleet 14,Simul,Bluebonnet,Gregory Gym,46.7,0.0,16271.98338248,0,Diesel,SAND_C_X
+482,96.0,109.5,Fleet 14,Simul,Lone Star,Gregory Gym,46.7,0.0,16713.81445384,0,Diesel,SAND_C_A
+531,96.0,109.0,Fleet 14,Simul,Lone Star,Gregory Gym,46.7,0.0,16647.0679886,0,Diesel,SAND_C_X
+571,106.7,119.0,Fleet 14,Simul,Bluebonnet,Gregory Gym,46.8,0.0,16490.67866152,0,Diesel,SAND_C_A
+373,106.7,99.4,Fleet 2,Simul,Bluebonnet,Gregory Gym,46.9,0.0,15569.27215592,0,Diesel,SAND_C_X
+322,106.7,95.3,Fleet 2,Simul,Bluebonnet,Gregory Gym,46.9,0.0,13422.145219,0,Diesel,SAND_C_A
+319,,124.1,Fleet 2,Simul,Longhorn,Gregory Gym,46.9,0.0,14938.858036200005,0,Diesel,SAND_C_X
+345,,113.4,Fleet 2,Simul,Longhorn,Gregory Gym,46.9,0.0,13342.771044120002,0,Diesel,SAND_C_X
+337,106.7,93.8,Fleet 2,Simul,Lone Star,Gregory Gym,46.9,0.0,14944.13114572,0,Diesel,SAND_C_A
+399,,99.9,Fleet 8,Zipper,Longhorn,CPE,47.2,0.0,7680.145249840001,15396,DGB,SAND_C_R
+478,85.7,99.8,Fleet 8,Zipper,Longhorn,CPE,47.2,0.0,7968.084782840001,14943,DGB,SAND_C_X
+448,85.7,102.5,Fleet 8,Zipper,Longhorn,CPE,47.2,0.0,8288.4955692,15478,DGB,SAND_C_X
+452,95.2,112.6,Fleet 8,Zipper,Lone Star,CPE,47.2,0.0,8506.49701804,17001,DGB,SAND_C_X
+385,,113.7,Fleet 8,Zipper,Lone Star,CPE,47.2,0.0,8489.15126304,16878,DGB,SAND_C_R
+431,95.2,115.6,Fleet 8,Zipper,Lone Star,CPE,47.2,0.0,8902.39653016,16774,DGB,SAND_C_A
+343,68.6,84.4,Fleet 10,Zipper,Rodeo,DKR,47.4,0.0,12365.99688856,0,Diesel,SAND_C_X
+307,68.6,84.6,Fleet 10,Zipper,Rodeo,DKR,47.4,0.0,12121.9074242,0,Diesel,SAND_C_A
+350,68.6,,Fleet 10,Zipper,Bluebonnet,DKR,47.4,0.0,12732.061702080002,0,Diesel,SAND_C_A
+333,68.6,85.4,Fleet 10,Zipper,Bluebonnet,DKR,47.4,0.0,12843.21330012,0,Diesel,SAND_C_A
+521,133.3,147.3,Fleet 12,Simul,Cowboy,CPE,47.6,0.0,25444.973690640003,0,Diesel,SAND_C_A
+483,133.3,148.6,Fleet 12,Simul,Cowboy,CPE,47.6,0.0,24930.0129162,0,Diesel,SAND_C_A
+555,133.3,146.3,Fleet 12,Simul,Lone Star,CPE,47.6,0.0,25945.91909504,0,Diesel,SAND_C_A
+557,133.3,149.5,Fleet 12,Simul,Lone Star,CPE,47.6,0.0,24943.05692396,0,Diesel,SAND_C_X
+507,85.7,111.7,Fleet 11,Zipper,Longhorn,CPE,47.650000000000006,0.0,26126.176181,0,Diesel,SAND_C_A
+496,85.7,111.8,Fleet 11,Zipper,Longhorn,CPE,47.7,0.0,25470.78417408,0,Diesel,SAND_C_X
+568,,111.8,Fleet 11,Zipper,Longhorn,CPE,47.7,0.0,25689.34068708,0,Diesel,SAND_C_R
+393,96.0,85.3,Fleet 2,Simul,Rodeo,West Campus,48.1,0.0,11096.56515464,0,Diesel,SAND_C_A
+312,106.7,78.9,Fleet 2,Simul,Monarch Butterfly,West Campus,48.1,0.0,11464.295160640002,0,Diesel,SAND_C_X
+400,106.7,97.3,Fleet 2,Simul,Monarch Butterfly,West Campus,48.1,0.0,11971.3462708,0,Diesel,SAND_C_A
+362,106.7,119.9,Fleet 1,Simul,Monarch Butterfly,Moody Center,48.2,0.0,0.0,10395,Turbine,SAND_C_R
+376,,121.8,Fleet 1,Simul,Monarch Butterfly,Moody Center,48.2,0.0,0.0,10222,Turbine,SAND_C_X
+332,102.4,120.5,Fleet 1,Simul,Rodeo,Moody Center,48.2,0.0,0.0,7151,Turbine,SAND_C_X
+337,106.7,123.0,Fleet 1,Simul,Bluebonnet,Moody Center,48.2,0.0,0.0,9223,Turbine,SAND_C_X
+362,106.7,123.0,Fleet 1,Simul,Cowboy,Moody Center,48.2,0.0,0.0,10426,Turbine,SAND_C_A
+232,76.2,86.5,Fleet 15,Zipper,Bluebonnet,Guadalupe,48.5,0.0,8638.32475604,0,Diesel,SAND_C_X
+300,76.2,86.9,Fleet 15,Zipper,Bluebonnet,Guadalupe,48.5,0.0,8732.5468972,0,Diesel,SAND_C_X
+323,76.2,86.0,Fleet 15,Zipper,Bluebonnet,Guadalupe,48.5,0.0,10024.18119752,0,Diesel,SAND_C_X
+276,106.7,,Fleet 12,Simul,Longhorn,DKR,48.5,0.0,11699.50359844,0,Diesel,SAND_C_A
+301,106.7,123.8,Fleet 12,Simul,Bluebonnet,DKR,48.5,0.0,10648.212079400002,0,Diesel,SAND_C_A
+343,106.7,120.9,Fleet 12,Simul,Bluebonnet,DKR,48.5,0.0,11306.6569392,0,Diesel,SAND_C_X
+275,106.7,122.1,Fleet 12,Simul,Cowboy,DKR,48.5,0.0,12267.05670204,0,Diesel,SAND_C_A
+286,,121.8,Fleet 12,Simul,Cowboy,DKR,48.5,0.0,12254.01269428,0,Diesel,SAND_C_X
+268,102.4,,Fleet 12,Simul,Rodeo,DKR,48.5,0.0,8713.67471576,0,Diesel,SAND_C_R
+352,106.7,121.1,Fleet 12,Simul,Monarch Butterfly,DKR,48.5,0.0,10248.982182320002,0,Diesel,SAND_C_X
+284,106.7,119.3,Fleet 12,Simul,Monarch Butterfly,DKR,48.5,0.0,10027.9278806,0,Diesel,SAND_C_X
+318,77.1,92.5,Fleet 8,Zipper,Longhorn,Guadalupe,49.0,0.0,4532.376398480001,8772,DGB,SAND_C_R
+315,,93.7,Fleet 8,Zipper,Bluebonnet,Guadalupe,49.0,0.0,5057.46709384,9726,DGB,SAND_C_X
+341,77.1,86.2,Fleet 8,Zipper,Cowboy,Guadalupe,49.0,0.0,4681.133593359999,8884,DGB,SAND_C_X
+264,73.1,86.6,Fleet 8,Zipper,Rodeo,Guadalupe,49.0,0.0,3903.62747124,7571,DGB,SAND_C_R
+313,76.2,85.2,Fleet 8,Zipper,Monarch Butterfly,Guadalupe,49.0,0.0,4764.1156852799995,9024,DGB,SAND_C_A
+524,100.0,109.0,Fleet 12,Simul,Lone Star,Gregory Gym,49.0,0.0,15591.47472232,0,Diesel,SAND_C_A
+478,100.0,104.8,Fleet 12,Simul,Lone Star,Gregory Gym,49.0,0.0,15601.18834512,0,Diesel,SAND_C_R
+484,90.0,106.7,Fleet 12,Simul,Longhorn,Gregory Gym,49.0,0.0,12649.49590828,0,Diesel,SAND_C_A
+407,90.0,,Fleet 12,Simul,Longhorn,Gregory Gym,49.0,0.0,13332.50235716,0,Diesel,SAND_C_A
+436,90.0,100.0,Fleet 12,Simul,Longhorn,Gregory Gym,49.0,0.0,14627.88334056,0,Diesel,SAND_C_X
+447,,111.8,Fleet 12,Simul,Lone Star,Gregory Gym,49.0,0.0,13657.21489076,0,Diesel,SAND_C_A
+288,73.1,90.5,Fleet 4,Zipper,Rodeo,Guadalupe,49.2,0.0,0.0,9436,Turbine,SAND_C_X
+349,,91.8,Fleet 4,Zipper,Longhorn,Guadalupe,49.2,0.0,0.0,12120,Turbine,SAND_C_A
+361,,90.0,Fleet 4,Zipper,Cowboy,Guadalupe,49.2,0.0,0.0,11830,Turbine,SAND_C_A
+297,114.3,,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,4942.98511084,11677,DGB,SAND_C_R
+288,,103.6,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,4754.4020624800005,12178,DGB,SAND_C_A
+303,114.3,113.1,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,5263.950961359999,11616,DGB,SAND_C_A
+339,102.4,120.4,Fleet 1,Simul,Rodeo,Gregory Gym,49.5,0.0,0.0,10313,Turbine,SAND_C_R
+374,106.7,125.4,Fleet 1,Simul,Longhorn,Gregory Gym,49.5,0.0,0.0,15059,Turbine,SAND_C_R
+370,106.7,130.9,Fleet 1,Simul,Longhorn,Gregory Gym,49.5,0.0,0.0,11305,Turbine,SAND_C_X
+341,160.0,,Fleet 1,Simul,Lone Star,Gregory Gym,49.5,0.0,0.0,16608,Turbine,SAND_C_R
+660,57.1,69.3,Fleet 6,Zipper,Longhorn,West Campus,49.6,0.0,7465.33541992,15608,DGB,SAND_C_X
+708,57.1,,Fleet 6,Zipper,Longhorn,West Campus,49.6,0.0,7294.930722799999,15817,DGB,SAND_C_R
+372,96.0,115.7,Fleet 2,Simul,Longhorn,Guadalupe,49.6,0.0,0.0,10749,Turbine,SAND_C_A
+331,,119.0,Fleet 2,Simul,Bluebonnet,Guadalupe,49.6,0.0,0.0,11119,Turbine,SAND_C_A
+354,96.0,112.6,Fleet 2,Simul,Longhorn,Guadalupe,49.6,0.0,0.0,10643,Turbine,SAND_C_A
+373,96.0,112.5,Fleet 2,Simul,Cowboy,Guadalupe,49.6,0.0,0.0,10343,Turbine,SAND_C_A
+281,,111.5,Fleet 2,Simul,Rodeo,Guadalupe,49.7,0.0,0.0,8416,Turbine,SAND_C_A
+257,102.4,,Fleet 2,Simul,Rodeo,Guadalupe,49.7,0.0,0.0,8552,Turbine,SAND_C_R
+387,106.7,123.8,Fleet 2,Simul,Longhorn,Guadalupe,49.7,0.0,0.0,11327,Turbine,SAND_C_A
+310,106.7,119.8,Fleet 2,Simul,Bluebonnet,Guadalupe,49.7,0.0,0.0,11508,Turbine,SAND_C_R
+391,106.7,124.7,Fleet 2,Simul,Lone Star,Guadalupe,49.7,0.0,0.0,11764,Turbine,SAND_C_A
+390,106.7,119.2,Fleet 2,Simul,Bluebonnet,Guadalupe,49.7,0.0,0.0,11165,Turbine,SAND_C_R
+399,106.7,123.7,Fleet 2,Simul,Lone Star,Guadalupe,49.7,0.0,0.0,11628,Turbine,SAND_C_A
+326,76.2,89.5,Fleet 6,Zipper,Monarch Butterfly,DKR,50.3,0.0,3877.40068968,9852,DGB,SAND_C_A
+268,73.1,85.4,Fleet 6,Zipper,Rodeo,DKR,50.3,0.0,3547.41504656,7780,DGB,SAND_C_X
+351,85.7,102.6,Fleet 6,Zipper,Longhorn,DKR,50.3,0.0,4853.8973131600005,11713,DGB,SAND_C_A
+315,95.2,109.7,Fleet 6,Zipper,Cowboy,DKR,50.3,0.0,5223.8475758,12046,DGB,SAND_C_X
+363,76.2,92.2,Fleet 6,Zipper,Bluebonnet,DKR,50.3,0.0,4447.590348040001,10041,DGB,SAND_C_A
+389,76.2,92.4,Fleet 6,Zipper,Bluebonnet,DKR,50.3,0.0,4247.35095232,9836,DGB,SAND_C_R
+307,88.0,101.6,Fleet 12,Simul,Monarch Butterfly,DKR,50.5,0.0,7209.450842160001,0,Diesel,SAND_C_A
+273,,100.5,Fleet 12,Simul,Monarch Butterfly,DKR,50.5,0.0,7354.32258792,0,Diesel,SAND_C_X
+177,102.4,109.0,Fleet 12,Simul,Rodeo,DKR,50.5,0.0,6529.636012200001,0,Diesel,SAND_C_X
+294,88.0,104.3,Fleet 12,Simul,Bluebonnet,DKR,50.5,0.0,7998.33577956,0,Diesel,SAND_C_X
+264,80.0,101.1,Fleet 12,Simul,Cowboy,DKR,50.5,0.0,8096.02707172,0,Diesel,SAND_C_R
+287,88.0,109.7,Fleet 12,Simul,Bluebonnet,DKR,50.5,0.0,8031.084565,0,Diesel,SAND_C_R
+551,76.2,92.2,Fleet 6,Zipper,Monarch Butterfly,Moody Center,50.6,0.0,8134.88156292,14225,DGB,SAND_C_X
+392,73.1,81.1,Fleet 6,Zipper,Rodeo,Moody Center,50.6,0.0,5827.75738188,8481,DGB,SAND_C_A
+495,76.2,96.3,Fleet 6,Zipper,Cowboy,Moody Center,50.6,0.0,8807.758090880001,15098,DGB,SAND_C_X
+538,95.2,122.9,Fleet 6,Zipper,Bluebonnet,Moody Center,50.6,0.0,10557.04279112,19684,DGB,SAND_C_A
+373,106.7,117.8,Fleet 1,Simul,Monarch Butterfly,Guadalupe,50.6,0.0,0.0,11366,Turbine,SAND_C_A
+275,102.4,114.2,Fleet 1,Simul,Rodeo,Guadalupe,50.6,0.0,0.0,8728,Turbine,SAND_C_A
+384,96.0,117.9,Fleet 1,Simul,Cowboy,Guadalupe,50.6,0.0,0.0,9918,Turbine,SAND_C_A
+351,,115.8,Fleet 1,Simul,Longhorn,Guadalupe,50.6,0.0,0.0,10748,Turbine,SAND_C_R
+399,106.7,122.3,Fleet 1,Simul,Bluebonnet,Guadalupe,50.6,0.0,0.0,10042,Turbine,SAND_C_R
+356,114.3,126.3,Fleet 4,Zipper,Lone Star,Gregory Gym,51.0,0.0,0.0,19614,Turbine,SAND_C_X
+353,114.3,130.2,Fleet 4,Zipper,Lone Star,Gregory Gym,51.0,0.0,0.0,19640,Turbine,SAND_C_X
+353,76.2,,Fleet 4,Zipper,Longhorn,Gregory Gym,51.0,0.0,0.0,15348,Turbine,SAND_C_A
+357,,131.1,Fleet 6,Zipper,Pecan Tree,DKR,51.2,0.0,10956.68898632,15062,DGB,SAND_C_X
+360,,131.0,Fleet 6,Zipper,Pecan Tree,DKR,51.2,0.0,10522.76757924,15222,DGB,SAND_C_R
+345,,84.3,Fleet 10,Zipper,Bluebonnet,DKR,51.3,0.0,12653.24259136,0,Diesel,SAND_C_A
+359,68.6,88.4,Fleet 10,Zipper,Rodeo,DKR,51.3,0.0,12189.902783800002,0,Diesel,SAND_C_A
+350,133.3,98.3,Fleet 9,Simul,Cowboy,DKR,51.349999999999994,0.0,4487.97126568,10335,DGB,SAND_C_A
+346,120.0,,Fleet 9,Simul,Longhorn,DKR,51.4,0.0,3444.866943,10811,DGB,SAND_C_X
+325,120.0,115.0,Fleet 9,Simul,Longhorn,DKR,51.4,0.0,3985.49943484,9520,DGB,SAND_C_A
+302,102.4,105.1,Fleet 9,Simul,Rodeo,DKR,51.4,0.0,2614.21342756,6531,DGB,SAND_C_A
+338,106.7,90.4,Fleet 9,Simul,Monarch Butterfly,DKR,51.4,0.0,3280.01288748,8905,DGB,SAND_C_A
+422,73.1,84.7,Fleet 8,Zipper,Rodeo,West Campus,51.8,0.0,6004.96161496,12483,DGB,SAND_C_A
+443,,84.8,Fleet 8,Zipper,Rodeo,West Campus,51.8,0.0,5899.221892480001,12706,DGB,SAND_C_R
+509,76.2,92.8,Fleet 8,Zipper,Lone Star,West Campus,51.8,0.0,8453.21085868,16479,DGB,SAND_C_R
+560,76.2,87.4,Fleet 8,Zipper,Bluebonnet,West Campus,51.8,0.0,8309.03294312,15702,DGB,SAND_C_R
+563,85.7,100.6,Fleet 8,Zipper,Longhorn,West Campus,51.8,0.0,8405.47534092,18180,DGB,SAND_C_X
+508,133.3,146.7,Fleet 9,Simul,Bluebonnet,Moody Center,51.849999999999994,0.0,12459.8027316,14774,DGB,SAND_C_A
+511,,132.3,Fleet 9,Simul,Cowboy,Moody Center,51.9,0.0,7319.492311880001,13726,DGB,SAND_C_A
+451,102.4,119.5,Fleet 9,Simul,Rodeo,Moody Center,51.9,0.0,8145.150249880001,10022,DGB,SAND_C_X
+535,106.7,121.0,Fleet 9,Simul,Monarch Butterfly,Moody Center,51.9,0.0,7511.68327728,11515,DGB,SAND_C_R
+307,76.2,93.3,Fleet 6,Zipper,Bluebonnet,Guadalupe,52.3,0.0,5552.445558519999,9119,DGB,SAND_C_X
+318,76.2,92.7,Fleet 6,Zipper,Bluebonnet,Guadalupe,52.3,0.0,5454.4767342800005,9105,DGB,SAND_C_X
+367,76.2,86.0,Fleet 6,Zipper,Rodeo,Guadalupe,52.3,0.0,4604.5347392799995,8483,DGB,SAND_C_A
+302,76.2,85.2,Fleet 6,Zipper,Rodeo,Guadalupe,52.3,0.0,4361.55540324,8652,DGB,SAND_C_A
+332,76.2,87.0,Fleet 6,Zipper,Monarch Butterfly,Guadalupe,52.3,0.0,5141.836846160001,8391,DGB,SAND_C_R
+377,76.2,85.8,Fleet 6,Zipper,Monarch Butterfly,Guadalupe,52.3,0.0,4560.2683725199995,8720,DGB,SAND_C_A
+578,,90.2,Fleet 4,Zipper,Bluebonnet,Gregory Gym,52.3,0.0,0.0,20676,Turbine,SAND_C_X
+532,76.2,90.1,Fleet 4,Zipper,Bluebonnet,Gregory Gym,52.3,0.0,0.0,20787,Turbine,SAND_C_A
+541,76.2,90.5,Fleet 4,Zipper,Lone Star,Gregory Gym,52.3,0.0,0.0,20823,Turbine,SAND_C_R
+547,,88.6,Fleet 4,Zipper,Lone Star,Gregory Gym,52.3,0.0,0.0,21103,Turbine,SAND_C_X
+488,76.2,92.9,Fleet 4,Zipper,Longhorn,Gregory Gym,52.3,0.0,0.0,21659,Turbine,SAND_C_A
+490,76.2,97.4,Fleet 4,Zipper,Longhorn,Gregory Gym,52.3,0.0,0.0,22219,Turbine,SAND_C_A
+235,133.3,144.3,Fleet 14,Simul,Lone Star,West Campus,52.6,0.0,11227.00523224,0,Diesel,SAND_C_X
+274,133.3,140.6,Fleet 14,Simul,Lone Star,West Campus,52.6,0.0,9625.36759856,0,Diesel,SAND_C_X
+274,120.0,137.1,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,10332.79687048,0,Diesel,SAND_C_X
+244,133.3,147.2,Fleet 14,Simul,Lone Star,West Campus,52.6,0.0,10805.29523668,0,Diesel,SAND_C_A
+217,,147.8,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,9035.7506946,0,Diesel,SAND_C_X
+255,120.0,132.5,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,10041.8044846,0,Diesel,SAND_C_X
+417,76.2,92.0,Fleet 8,Zipper,Bluebonnet,Guadalupe,53.6,0.0,5925.448674040001,13436,DGB,SAND_C_X
+380,77.1,92.7,Fleet 8,Zipper,Armadillo,Guadalupe,53.6,0.0,5210.94233408,11678,DGB,SAND_C_X
+441,77.1,88.5,Fleet 8,Zipper,Lone Star,Guadalupe,53.6,0.0,4833.77623736,12024,DGB,SAND_C_A
+354,73.1,83.3,Fleet 8,Zipper,Rodeo,Guadalupe,53.8,0.0,4209.606589440001,10369,DGB,SAND_C_R
+350,76.2,89.0,Fleet 15,Zipper,Lone Star,Gregory Gym,54.0,0.0,12366.41318668,0,Diesel,SAND_C_X
+343,85.7,109.9,Fleet 15,Zipper,Longhorn,Gregory Gym,54.0,0.0,14726.129696880002,0,Diesel,SAND_C_A
+358,76.2,89.5,Fleet 15,Zipper,Bluebonnet,Gregory Gym,54.0,0.0,12591.49170356,0,Diesel,SAND_C_A
+258,102.4,115.1,Fleet 2,Simul,Rodeo,Moody Center,54.0,0.0,0.0,9195,Turbine,SAND_C_X
+307,102.4,115.0,Fleet 2,Simul,Rodeo,Moody Center,54.0,0.0,0.0,8698,Turbine,SAND_C_R
+483,80.0,90.7,Fleet 2,Simul,Monarch Butterfly,Moody Center,54.0,0.0,0.0,10783,Turbine,SAND_C_R
+422,80.0,89.5,Fleet 2,Simul,Monarch Butterfly,Moody Center,54.0,0.0,0.0,10959,Turbine,SAND_C_X
+420,80.0,92.1,Fleet 2,Simul,Longhorn,Moody Center,54.0,0.0,0.0,11608,Turbine,SAND_C_X
+476,80.0,92.9,Fleet 2,Simul,Longhorn,Moody Center,54.0,0.0,0.0,11517,Turbine,SAND_C_A
+425,80.0,90.6,Fleet 2,Simul,Bluebonnet,Moody Center,54.0,0.0,0.0,11483,Turbine,SAND_C_X
+493,,91.5,Fleet 2,Simul,Bluebonnet,Moody Center,54.0,0.0,0.0,11572,Turbine,SAND_C_R
+425,80.0,,Fleet 2,Simul,Cowboy,Moody Center,54.0,0.0,0.0,11390,Turbine,SAND_C_X
+504,80.0,91.6,Fleet 2,Simul,Cowboy,Moody Center,54.0,0.0,0.0,11240,Turbine,SAND_C_R
+352,114.3,97.2,Fleet 8,Zipper,Pecan Tree,DKR,54.2,0.0,10261.887424039998,14467,DGB,SAND_C_X
+358,114.3,108.4,Fleet 8,Zipper,Pecan Tree,DKR,54.2,0.0,10054.70972632,14906,DGB,SAND_C_R
+503,133.3,,Fleet 14,Simul,Cowboy,DKR,54.3,0.0,22352.98878736,0,Diesel,SAND_C_A
+519,133.3,143.8,Fleet 14,Simul,Cowboy,DKR,54.3,0.0,22632.87989004,0,Diesel,SAND_C_X
+536,,132.7,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,20881.92999732,0,Diesel,SAND_C_X
+503,133.3,139.7,Fleet 14,Simul,Cowboy,DKR,54.6,0.0,22190.63252056,0,Diesel,SAND_C_X
+510,,132.2,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,20841.54907968,0,Diesel,SAND_C_A
+508,120.0,,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,22334.67167008,0,Diesel,SAND_C_R
+268,73.1,83.1,Fleet 6,Zipper,Rodeo,West Campus,55.7,0.0,3146.10365888,8124,DGB,SAND_C_X
+390,76.2,89.1,Fleet 6,Zipper,Bluebonnet,West Campus,55.7,0.0,5027.354863160001,9790,DGB,SAND_C_R
+326,85.7,99.3,Fleet 6,Zipper,Longhorn,West Campus,55.7,0.0,5499.02063312,11342,DGB,SAND_C_A
+391,,91.4,Fleet 6,Zipper,Cowboy,West Campus,55.7,0.0,4956.584182760001,10694,DGB,SAND_C_A
+470,102.4,,Fleet 14,Simul,Rodeo,West Campus,56.0,0.0,13631.95947148,0,Diesel,SAND_C_X
+561,106.7,,Fleet 14,Simul,Bluebonnet,West Campus,56.0,0.0,17029.64596088,0,Diesel,SAND_C_X
+505,120.0,126.7,Fleet 14,Simul,Longhorn,West Campus,56.0,0.0,19152.35007476,0,Diesel,SAND_C_R
+518,106.7,121.2,Fleet 14,Simul,Lone Star,West Campus,56.0,0.0,16135.160067039998,0,Diesel,SAND_C_A
+566,,,Fleet 14,Simul,Lone Star,West Campus,56.0,0.0,17296.63182184,0,Diesel,SAND_C_X
+554,106.7,119.3,Fleet 14,Simul,Bluebonnet,West Campus,56.05,0.0,14507.15688576,0,Diesel,SAND_C_X
+373,133.3,104.9,Fleet 9,Simul,Bluebonnet,Moody Center,56.1,0.0,5484.0339008,12024,DGB,SAND_C_R
+328,106.7,106.4,Fleet 9,Simul,Monarch Butterfly,Moody Center,56.1,0.0,4304.10626268,8005,DGB,SAND_C_X
+357,106.7,103.9,Fleet 9,Simul,Monarch Butterfly,Moody Center,56.1,0.0,5341.93747584,8042,DGB,SAND_C_X
+278,73.1,85.1,Fleet 6,Zipper,Rodeo,Moody Center,56.150000000000006,0.0,4257.3421072,7734,DGB,SAND_C_A
+359,76.2,91.0,Fleet 6,Zipper,Cowboy,Moody Center,56.2,0.0,5776.55271312,10666,DGB,SAND_C_X
+344,76.2,89.6,Fleet 6,Zipper,Cowboy,Moody Center,56.2,0.0,5864.53038248,10160,DGB,SAND_C_A
+357,133.3,,Fleet 9,Simul,Monarch Butterfly,Moody Center,56.2,0.0,2560.233438,11782,DGB,SAND_C_X
+363,133.3,97.6,Fleet 9,Simul,Monarch Butterfly,Moody Center,56.2,0.0,4447.451582,12179,DGB,SAND_C_X
+400,133.3,84.5,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,4172.83358884,12050,DGB,SAND_C_A
+330,133.3,97.2,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,2786.0057850800004,12199,DGB,SAND_C_R
+316,,91.0,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,2528.3172488,11950,DGB,SAND_C_A
+308,76.2,91.6,Fleet 6,Zipper,Longhorn,Moody Center,56.4,0.0,4908.987431040001,10085,DGB,SAND_C_X
+332,76.2,98.3,Fleet 6,Zipper,Longhorn,Moody Center,56.4,0.0,4988.639138,10367,DGB,SAND_C_A
+368,76.2,92.3,Fleet 6,Zipper,Cowboy,Moody Center,56.4,0.0,4775.35573452,10149,DGB,SAND_C_A
+389,76.2,94.9,Fleet 6,Zipper,Cowboy,Moody Center,56.4,0.0,5093.407498200001,10240,DGB,SAND_C_X
+396,178.7,187.7,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,21651.6652212,0,Diesel,SAND_C_A
+353,178.7,198.0,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,21673.59025552,0,Diesel,SAND_C_X
+349,,196.3,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,22275.27980496,0,Diesel,SAND_C_A
+363,120.0,,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14032.57702896,0,Diesel,SAND_C_X
+347,,141.6,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14710.86543248,0,Diesel,SAND_C_X
+348,120.0,137.0,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14528.24932384,0,Diesel,SAND_C_X
+380,85.7,110.7,Fleet 4,Zipper,Longhorn,CPE,56.8,0.0,0.0,16311,Turbine,SAND_C_X
+379,,105.7,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16322,Turbine,SAND_C_A
+333,85.7,107.6,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16311,Turbine,SAND_C_R
+383,85.7,107.7,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16311,Turbine,SAND_C_R
+321,85.7,117.7,Fleet 4,Zipper,Longhorn,CPE,56.9,0.0,0.0,16311,Turbine,SAND_C_A
+476,,115.6,Fleet 1,Simul,Armadillo,Guadalupe,57.5,0.0,0.0,14596,Turbine,SAND_C_R
+484,106.7,119.1,Fleet 1,Simul,Bluebonnet,Guadalupe,57.5,0.0,0.0,14148,Turbine,SAND_C_X
+489,96.0,113.5,Fleet 1,Simul,Lone Star,Guadalupe,57.5,0.0,0.0,13220,Turbine,SAND_C_X
+413,,116.8,Fleet 1,Simul,Rodeo,Guadalupe,57.5,0.0,0.0,11294,Turbine,SAND_C_A
+353,102.4,116.7,Fleet 1,Simul,Rodeo,Guadalupe,57.5,0.0,0.0,11696,Turbine,SAND_C_X
+401,,,Fleet 1,Simul,Armadillo,Guadalupe,57.5,0.0,0.0,12928,Turbine,SAND_C_X
+404,133.3,,Fleet 12,Simul,Cowboy,CPE,57.7,0.0,21636.95602096,0,Diesel,SAND_C_R
+443,133.3,148.0,Fleet 12,Simul,Cowboy,CPE,57.7,0.0,21709.53065988,0,Diesel,SAND_C_X
+476,133.3,149.6,Fleet 12,Simul,Lone Star,CPE,57.7,0.0,22181.47396192,0,Diesel,SAND_C_A
+401,,149.5,Fleet 12,Simul,Lone Star,CPE,57.7,0.0,23085.8122446,0,Diesel,SAND_C_R
+489,76.2,93.1,Fleet 4,Zipper,Bluebonnet,Guadalupe,57.7,0.0,0.0,17379,Turbine,SAND_C_X
+391,73.1,75.6,Fleet 4,Zipper,Rodeo,Guadalupe,57.7,0.0,0.0,13704,Turbine,SAND_C_X
+477,77.1,96.0,Fleet 4,Zipper,Magnolia,Guadalupe,57.7,0.0,0.0,19142,Turbine,SAND_C_X
+504,76.2,,Fleet 4,Zipper,Bluebonnet,Guadalupe,57.7,0.0,0.0,24875,Turbine,SAND_C_A
+516,77.1,93.1,Fleet 4,Zipper,Cowboy,Guadalupe,57.7,0.0,0.0,18705,Turbine,SAND_C_A
+433,73.1,88.0,Fleet 4,Zipper,Rodeo,Guadalupe,57.7,0.0,0.0,16381,Turbine,SAND_C_X
+536,76.2,93.5,Fleet 4,Zipper,Monarch Butterfly,Guadalupe,57.7,0.0,0.0,23744,Turbine,SAND_C_X
+481,85.7,84.9,Fleet 11,Zipper,Longhorn,CPE,58.4,0.0,20686.82494508,0,Diesel,SAND_C_X
+384,,84.2,Fleet 11,Zipper,Longhorn,CPE,58.46666666666667,0.0,21273.94406032,0,Diesel,SAND_C_A
+434,85.7,84.1,Fleet 11,Zipper,Longhorn,CPE,58.53333333333333,0.0,21046.78405284,0,Diesel,SAND_C_X
+397,106.7,91.5,Fleet 2,Simul,Cowboy,West Campus,58.6,0.0,13549.94874184,0,Diesel,SAND_C_R
+383,106.7,96.2,Fleet 2,Simul,Longhorn,West Campus,58.6,0.0,13716.3292238,0,Diesel,SAND_C_A
+314,106.7,92.4,Fleet 2,Simul,Cowboy,West Campus,58.6,0.0,13084.52744368,0,Diesel,SAND_C_R
+370,106.7,93.4,Fleet 2,Simul,Longhorn,West Campus,58.6,0.0,13168.34213184,0,Diesel,SAND_C_A
+320,106.7,94.4,Fleet 2,Simul,Longhorn,West Campus,58.6,0.0,13533.43558308,0,Diesel,SAND_C_X
+262,114.3,130.2,Fleet 6,Zipper,Lone Star,Gregory Gym,59.2,0.0,5179.997507160001,9784,DGB,SAND_C_X
+281,114.3,125.1,Fleet 6,Zipper,Lone Star,Gregory Gym,59.2,0.0,5457.39082112,9628,DGB,SAND_C_R
+356,133.3,153.3,Fleet 9,Simul,Cowboy,DKR,59.2,0.0,4437.46042712,12706,DGB,SAND_C_A
+331,133.3,,Fleet 9,Simul,Cowboy,DKR,59.2,0.0,4135.227992,12856,DGB,SAND_C_X
+311,,126.1,Fleet 9,Simul,Bluebonnet,DKR,59.2,0.0,4715.82510336,9881,DGB,SAND_C_X
+285,102.4,114.0,Fleet 9,Simul,Rodeo,DKR,59.2,0.0,3636.50284424,7453,DGB,SAND_C_X
+326,106.7,117.3,Fleet 9,Simul,Monarch Butterfly,DKR,59.2,0.0,4412.20500784,8953,DGB,SAND_C_A
+378,120.0,128.7,Fleet 9,Simul,Longhorn,DKR,59.2,0.0,4608.6977204800005,9910,DGB,SAND_C_R
+355,85.7,119.0,Fleet 8,Zipper,Longhorn,The Tower,59.25,0.0,6797.038171280001,12017,DGB,SAND_C_R
+407,85.7,124.4,Fleet 8,Zipper,Longhorn,The Tower,59.3,0.0,6201.038029480001,12118,DGB,SAND_C_X
+335,114.3,,Fleet 8,Zipper,Lone Star,The Tower,59.3,0.0,7348.63318028,16075,DGB,SAND_C_X
+322,114.3,124.9,Fleet 8,Zipper,Lone Star,The Tower,59.3,0.0,6961.198396600001,15440,DGB,SAND_C_X
+395,,119.7,Fleet 8,Zipper,Lone Star,The Tower,59.3,0.0,7492.672329799999,15661,DGB,SAND_C_X
+384,85.7,127.0,Fleet 8,Zipper,Longhorn,The Tower,59.3,0.0,6254.74048696,11766,DGB,SAND_C_A
+565,68.6,,Fleet 10,Zipper,Rodeo,DKR,59.3,0.0,19393.52545228,0,Diesel,SAND_C_A
+495,,87.4,Fleet 10,Zipper,Rodeo,DKR,59.3,0.0,19151.51747852,0,Diesel,SAND_C_A
+477,68.6,88.8,Fleet 10,Zipper,Rodeo,DKR,59.3,0.0,20095.12655052,0,Diesel,SAND_C_A
+480,76.2,,Fleet 10,Zipper,Bluebonnet,DKR,59.3,0.0,21867.72394548,0,Diesel,SAND_C_R
+506,76.2,94.8,Fleet 10,Zipper,Bluebonnet,DKR,59.3,0.0,21562.29989144,0,Diesel,SAND_C_X
+496,76.2,93.3,Fleet 10,Zipper,Bluebonnet,DKR,59.3,0.0,21482.09312032,0,Diesel,SAND_C_A
+316,76.2,93.4,Fleet 11,Zipper,Bluebonnet,Gregory Gym,59.5,0.0,12676.69405212,0,Diesel,SAND_C_A
+314,76.2,94.3,Fleet 11,Zipper,Cowboy,Gregory Gym,59.5,0.0,13168.75842996,0,Diesel,SAND_C_A
+303,,78.1,Fleet 11,Zipper,Longhorn,Gregory Gym,59.5,0.0,14496.05560256,0,Diesel,SAND_C_X
+303,85.7,102.2,Fleet 11,Zipper,Longhorn,Gregory Gym,59.5,0.0,14344.106788760002,0,Diesel,SAND_C_A
+528,106.7,112.8,Fleet 1,Simul,Monarch Butterfly,Guadalupe,59.5,0.0,0.0,15622,Turbine,SAND_C_R
+543,,,Fleet 1,Simul,Cowboy,Guadalupe,59.5,0.0,0.0,16650,Turbine,SAND_C_X
+546,96.0,112.6,Fleet 1,Simul,Cowboy,Guadalupe,59.5,0.0,0.0,15649,Turbine,SAND_C_X
+512,,119.5,Fleet 1,Simul,Bluebonnet,Guadalupe,59.5,0.0,0.0,18266,Turbine,SAND_C_X
+542,96.0,110.7,Fleet 1,Simul,Longhorn,Guadalupe,59.7,0.0,0.0,15868,Turbine,SAND_C_R
+454,102.4,114.1,Fleet 1,Simul,Rodeo,Guadalupe,59.9,0.0,0.0,13203,Turbine,SAND_C_X
+280,102.4,113.7,Fleet 2,Simul,Rodeo,West Campus,60.1,0.0,0.0,8360,Turbine,SAND_C_A
+352,106.7,119.8,Fleet 2,Simul,Bluebonnet,West Campus,60.1,0.0,0.0,10559,Turbine,SAND_C_X
+363,120.0,134.5,Fleet 2,Simul,Longhorn,West Campus,60.1,0.0,0.0,11891,Turbine,SAND_C_A
+351,,134.3,Fleet 2,Simul,Longhorn,West Campus,60.1,0.0,0.0,12096,Turbine,SAND_C_X
+385,106.7,120.4,Fleet 2,Simul,Cowboy,West Campus,60.1,0.0,0.0,10731,Turbine,SAND_C_R
+292,115.2,129.5,Fleet 14,Simul,Rodeo,DKR,60.4,0.0,10203.32815516,0,Diesel,SAND_C_X
+314,106.7,,Fleet 14,Simul,Bluebonnet,DKR,60.4,0.0,13370.107954,0,Diesel,SAND_C_X
+345,120.0,132.1,Fleet 14,Simul,Longhorn,DKR,60.4,0.0,13300.44740192,0,Diesel,SAND_C_X
+370,133.3,,Fleet 14,Simul,Cowboy,DKR,60.4,0.0,14264.03878368,0,Diesel,SAND_C_R
+369,133.3,,Fleet 14,Simul,Cowboy,DKR,60.5,0.0,16239.650895160004,0,Diesel,SAND_C_X
+361,133.3,,Fleet 2,Simul,Monarch Butterfly,Moody Center,60.6,0.0,14886.820771200002,0,Diesel,SAND_C_A
+396,133.3,98.7,Fleet 2,Simul,Monarch Butterfly,Moody Center,60.7,0.0,15572.04747672,0,Diesel,SAND_C_R
+331,133.3,112.0,Fleet 2,Simul,Monarch Butterfly,Moody Center,60.7,0.0,14936.36024748,0,Diesel,SAND_C_X
+324,133.3,114.0,Fleet 2,Simul,Monarch Butterfly,Moody Center,60.7,0.0,15934.78190528,0,Diesel,SAND_C_X
+325,73.1,78.4,Fleet 4,Zipper,Rodeo,Guadalupe,60.7,0.0,0.0,13741,Turbine,SAND_C_A
+438,,101.6,Fleet 4,Zipper,Bluebonnet,Guadalupe,60.7,0.0,0.0,18672,Turbine,SAND_C_X
+316,114.3,83.0,Fleet 8,Zipper,Pecan Tree,DKR,61.0,0.0,11522.29936536,13891,DGB,SAND_C_X
+371,120.0,131.0,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,5025.55090464,9915,DGB,SAND_C_R
+349,120.0,130.5,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,4690.15338596,10088,DGB,SAND_C_X
+375,,132.2,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,4532.7926966,9617,DGB,SAND_C_A
+314,120.0,,Fleet 9,Simul,Longhorn,CPE,61.1,0.0,5085.914132040001,9544,DGB,SAND_C_A
+314,120.0,139.7,Fleet 9,Simul,Longhorn,CPE,61.1,0.0,4906.489642320001,9880,DGB,SAND_C_R
+388,120.0,,Fleet 9,Simul,Longhorn,CPE,61.1,0.0,4786.59578376,9534,DGB,SAND_C_X
+332,68.6,,Fleet 15,Zipper,Rodeo,Moody Center,61.6,0.0,11378.53774792,0,Diesel,SAND_C_X
+307,68.6,82.6,Fleet 15,Zipper,Rodeo,Moody Center,61.6,0.0,12127.31929976,0,Diesel,SAND_C_R
+382,68.6,83.2,Fleet 15,Zipper,Rodeo,Moody Center,61.6,0.0,11369.93425344,0,Diesel,SAND_C_X
+339,82.3,98.3,Fleet 15,Zipper,Rodeo,DKR,62.8,0.0,12133.98006968,0,Diesel,SAND_C_A
+246,82.3,98.1,Fleet 15,Zipper,Rodeo,DKR,62.8,0.0,12290.785694880002,0,Diesel,SAND_C_R
+337,95.2,115.0,Fleet 15,Zipper,Cowboy,DKR,62.8,0.0,15634.492194720002,0,Diesel,SAND_C_A
+349,85.7,105.1,Fleet 15,Zipper,Longhorn,DKR,62.8,0.0,15090.1130198,0,Diesel,SAND_C_X
+332,85.7,106.3,Fleet 15,Zipper,Longhorn,DKR,62.8,0.0,15238.31515052,0,Diesel,SAND_C_A
+362,76.2,90.4,Fleet 15,Zipper,Bluebonnet,DKR,62.8,0.0,13498.18900892,0,Diesel,SAND_C_X
+326,106.7,100.5,Fleet 2,Simul,Bluebonnet,West Campus,63.8,0.0,13669.565068320002,0,Diesel,SAND_C_X
+381,106.7,96.9,Fleet 2,Simul,Bluebonnet,West Campus,63.8,0.0,13651.24795104,0,Diesel,SAND_C_X
+395,106.7,97.3,Fleet 2,Simul,Cowboy,West Campus,63.8,0.0,13261.45414468,0,Diesel,SAND_C_R
+332,133.3,143.6,Fleet 9,Simul,Rodeo,Moody Center,63.9,0.0,3491.7698645200003,15017,DGB,SAND_C_X
+344,133.3,143.5,Fleet 9,Simul,Rodeo,Moody Center,63.9,0.0,3747.79320832,15943,DGB,SAND_C_X
+371,,146.9,Fleet 9,Simul,Magnolia,Moody Center,63.9,0.0,2361.38170268,16479,DGB,SAND_C_X
+323,133.3,145.6,Fleet 9,Simul,Magnolia,Moody Center,63.9,0.0,2256.89087456,16162,DGB,SAND_C_A
+347,133.3,145.2,Fleet 9,Simul,Rodeo,Moody Center,63.9,0.0,2395.7956806,15972,DGB,SAND_C_R
+567,133.3,147.1,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,20039.62013452,0,Diesel,SAND_C_R
+486,133.3,140.6,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,19590.01816492,0,Diesel,SAND_C_R
+565,,147.1,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,19155.2641616,0,Diesel,SAND_C_A
+531,120.0,133.1,Fleet 14,Simul,Longhorn,Gregory Gym,64.0,0.0,20238.333103800003,0,Diesel,SAND_C_X
+529,120.0,139.6,Fleet 14,Simul,Longhorn,Gregory Gym,64.0,0.0,19252.95545376,0,Diesel,SAND_C_A
+335,,,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,18594,Turbine,SAND_C_R
+375,,109.6,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,17575,Turbine,SAND_C_R
+350,,110.0,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,18444,Turbine,SAND_C_R
+326,,87.6,Fleet 3,Simul,Monarch Butterfly,Moody Center,64.0,0.0,0.0,14671,Turbine,SAND_C_A
+303,,86.9,Fleet 3,Simul,Monarch Butterfly,Moody Center,64.0,0.0,0.0,14200,Turbine,SAND_C_A
+552,120.0,141.8,Fleet 12,Simul,Longhorn,DKR,64.1,0.0,24021.23412024,0,Diesel,SAND_C_X
+607,106.7,124.2,Fleet 12,Simul,Bluebonnet,DKR,64.1,0.0,20680.441707240003,0,Diesel,SAND_C_X
+593,106.7,122.4,Fleet 12,Simul,Bluebonnet,DKR,64.1,0.0,19920.97517032,0,Diesel,SAND_C_X
+542,133.3,150.9,Fleet 12,Simul,Cowboy,DKR,64.1,0.0,25425.68521108,0,Diesel,SAND_C_R
+597,106.7,120.1,Fleet 12,Simul,Monarch Butterfly,DKR,64.1,0.0,18128.256699560003,0,Diesel,SAND_C_R
+607,,121.1,Fleet 12,Simul,Monarch Butterfly,DKR,64.1,0.0,18577.44237104,0,Diesel,SAND_C_A
+316,,87.4,Fleet 2,Simul,Monarch Butterfly,DKR,64.4,0.0,0.0,10722,Turbine,SAND_C_R
+303,102.4,,Fleet 2,Simul,Rodeo,DKR,64.4,0.0,0.0,9246,Turbine,SAND_C_X
+341,120.0,89.0,Fleet 2,Simul,Longhorn,DKR,64.4,0.0,0.0,12705,Turbine,SAND_C_A
+313,106.7,92.0,Fleet 2,Simul,Bluebonnet,DKR,64.4,0.0,0.0,13493,Turbine,SAND_C_A
+300,,90.4,Fleet 2,Simul,Cowboy,DKR,64.4,0.0,0.0,14595,Turbine,SAND_C_R
+310,133.3,147.5,Fleet 2,Simul,Cowboy,DKR,64.4,0.0,0.0,14748,Turbine,SAND_C_A
+559,62.9,,Fleet 8,Zipper,Monarch Butterfly,DKR,64.6,0.0,8696.05142868,14518,DGB,SAND_C_A
+482,76.2,100.7,Fleet 6,Zipper,Longhorn,Gregory Gym,64.8,0.0,7800.31664048,14665,DGB,SAND_C_R
+557,76.2,93.5,Fleet 6,Zipper,Longhorn,Gregory Gym,64.8,0.0,7501.83088844,14685,DGB,SAND_C_X
+484,76.2,98.4,Fleet 6,Zipper,Longhorn,Gregory Gym,64.8,0.0,7954.208178840001,14675,DGB,SAND_C_A
+538,85.7,98.7,Fleet 6,Zipper,Lone Star,Gregory Gym,64.8,0.0,8527.866988200001,16035,DGB,SAND_C_R
+478,85.7,98.7,Fleet 6,Zipper,Lone Star,Gregory Gym,64.8,0.0,8163.606133200001,17303,DGB,SAND_C_X
+500,85.7,99.0,Fleet 6,Zipper,Lone Star,Gregory Gym,64.8,0.0,8973.72227472,16384,DGB,SAND_C_X
+314,106.7,119.9,Fleet 2,Simul,Monarch Butterfly,Moody Center,65.1,0.0,0.0,11277,Turbine,SAND_C_R
+353,,121.3,Fleet 2,Simul,Monarch Butterfly,Moody Center,65.1,0.0,0.0,12007,Turbine,SAND_C_A
+258,102.4,117.4,Fleet 2,Simul,Rodeo,Moody Center,65.1,0.0,0.0,9724,Turbine,SAND_C_R
+262,102.4,117.7,Fleet 2,Simul,Rodeo,Moody Center,65.1,0.0,0.0,9781,Turbine,SAND_C_A
+354,106.7,120.8,Fleet 2,Simul,Longhorn,Moody Center,65.1,0.0,0.0,11609,Turbine,SAND_C_A
+327,106.7,129.7,Fleet 2,Simul,Longhorn,Moody Center,65.1,0.0,0.0,12390,Turbine,SAND_C_X
+372,106.7,121.0,Fleet 2,Simul,Cowboy,Moody Center,65.1,0.0,0.0,11142,Turbine,SAND_C_X
+312,106.7,121.0,Fleet 2,Simul,Bluebonnet,Moody Center,65.1,0.0,0.0,11789,Turbine,SAND_C_X
+317,106.7,124.3,Fleet 2,Simul,Bluebonnet,Moody Center,65.1,0.0,0.0,11172,Turbine,SAND_C_R
+489,76.2,91.6,Fleet 4,Zipper,Armadillo,West Campus,65.6,0.0,0.0,20319,Turbine,SAND_C_X
+562,76.2,71.6,Fleet 4,Zipper,Armadillo,West Campus,66.1,0.0,0.0,20306,Turbine,SAND_C_R
+548,76.2,97.9,Fleet 4,Zipper,Armadillo,West Campus,66.1,0.0,0.0,20319,Turbine,SAND_C_X
+398,95.2,118.0,Fleet 4,Zipper,Armadillo,Guadalupe,66.3,0.0,0.0,23434,Turbine,SAND_C_X
+468,95.2,114.9,Fleet 4,Zipper,Armadillo,Guadalupe,66.5,0.0,0.0,22479,Turbine,SAND_C_X
+384,62.9,,Fleet 4,Zipper,Monarch Butterfly,CPE,66.7,0.0,0.0,13114,Turbine,SAND_C_X
+330,62.9,80.1,Fleet 4,Zipper,Monarch Butterfly,CPE,66.7,0.0,0.0,13206,Turbine,SAND_C_R
+253,73.1,86.3,Fleet 4,Zipper,Rodeo,CPE,66.7,0.0,0.0,10307,Turbine,SAND_C_X
+277,73.1,85.6,Fleet 4,Zipper,Rodeo,CPE,66.7,0.0,0.0,10247,Turbine,SAND_C_A
+491,84.0,92.9,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,13404.52193192,0,Diesel,SAND_C_A
+492,,96.3,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,13855.23402984,0,Diesel,SAND_C_X
+458,84.0,98.7,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,10943.92251064,0,Diesel,SAND_C_X
+484,92.0,,Fleet 12,Simul,Lone Star,Gregory Gym,66.8,0.0,13997.3304548,0,Diesel,SAND_C_X
+463,92.0,,Fleet 12,Simul,Lone Star,Gregory Gym,66.8,0.0,10988.60517552,0,Diesel,SAND_C_A
+457,92.0,99.4,Fleet 12,Simul,Lone Star,Gregory Gym,66.8,0.0,12786.5967558,0,Diesel,SAND_C_X
+288,102.4,111.9,Fleet 7,Simul,Rodeo,DKR,66.9,0.0,1847.53105656,5468,DGB,SAND_C_R
+325,120.0,,Fleet 7,Simul,Longhorn,DKR,66.9,0.0,2539.00223388,10105,DGB,SAND_C_A
+393,106.7,119.0,Fleet 7,Simul,Bluebonnet,DKR,66.9,0.0,2742.98831268,8101,DGB,SAND_C_A
+304,120.0,135.0,Fleet 7,Simul,Longhorn,DKR,66.9,0.0,2526.2357582,10108,DGB,SAND_C_A
+304,106.7,,Fleet 7,Simul,Monarch Butterfly,DKR,66.93333333333334,0.0,2720.5082141999997,8117,DGB,SAND_C_R
+292,102.4,113.3,Fleet 7,Simul,Rodeo,DKR,66.96666666666667,0.0,1801.32196524,5550,DGB,SAND_C_X
+294,106.7,107.1,Fleet 9,Simul,Bluebonnet,Gregory Gym,67.0,0.0,3301.66038972,4370,DGB,SAND_C_X
+203,106.7,126.5,Fleet 9,Simul,Bluebonnet,Gregory Gym,67.0,0.0,3151.65430048,5458,DGB,SAND_C_R
+229,106.7,,Fleet 9,Simul,Lone Star,Gregory Gym,67.0,0.0,3035.92342312,4586,DGB,SAND_C_A
+256,120.0,127.1,Fleet 9,Simul,Longhorn,Gregory Gym,67.0,0.0,4067.51016448,5458,DGB,SAND_C_R
+389,96.0,108.0,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,8733.518259479999,0,Diesel,SAND_C_X
+312,96.0,105.7,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9361.98965464,0,Diesel,SAND_C_R
+338,,103.7,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9035.47316252,0,Diesel,SAND_C_X
+370,96.0,,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9664.49962184,0,Diesel,SAND_C_X
+337,96.0,104.9,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9126.6424508,0,Diesel,SAND_C_X
+511,57.1,75.3,Fleet 6,Zipper,Longhorn,Moody Center,67.4,0.0,4997.936462680001,10823,DGB,SAND_C_X
+454,57.1,73.8,Fleet 6,Zipper,Longhorn,Moody Center,67.4,0.0,4848.346671560001,10723,DGB,SAND_C_A
+489,57.1,77.3,Fleet 6,Zipper,Cowboy,Moody Center,67.4,0.0,4907.18347252,10956,DGB,SAND_C_X
+465,57.1,74.5,Fleet 6,Zipper,Cowboy,Moody Center,67.4,0.0,4795.060512200001,10822,DGB,SAND_C_A
+360,106.7,111.7,Fleet 9,Simul,Bluebonnet,DKR,67.43333333333334,0.0,3666.892607,9435,DGB,SAND_C_A
+341,106.7,111.8,Fleet 9,Simul,Bluebonnet,DKR,67.46666666666667,0.0,2891.6067415200005,9432,DGB,SAND_C_A
+345,120.0,111.8,Fleet 9,Simul,Longhorn,DKR,67.5,0.0,3268.4953061600004,11118,DGB,SAND_C_X
+309,120.0,130.4,Fleet 9,Simul,Longhorn,DKR,67.5,0.0,4183.37980788,11210,DGB,SAND_C_R
+282,102.4,114.0,Fleet 9,Simul,Rodeo,DKR,67.5,0.0,3248.5129964,7213,DGB,SAND_C_R
+342,102.4,115.4,Fleet 9,Simul,Rodeo,DKR,67.6,0.0,2643.7705940800006,7332,DGB,SAND_C_A
+456,73.1,85.4,Fleet 8,Zipper,Rodeo,DKR,67.7,0.0,7545.12589292,627,DGB,SAND_C_X
+611,85.7,103.6,Fleet 8,Zipper,Longhorn,DKR,67.7,0.0,10760.612571799998,1515,DGB,SAND_C_R
+561,95.2,113.1,Fleet 8,Zipper,Cowboy,DKR,67.7,0.0,12512.67259284,1521,DGB,SAND_C_A
+550,106.7,124.4,Fleet 9,Simul,Monarch Butterfly,Moody Center,68.2,0.0,6039.930657040001,12530,DGB,SAND_C_R
+485,106.7,117.4,Fleet 9,Simul,Monarch Butterfly,Moody Center,68.2,0.0,8716.72756864,12344,DGB,SAND_C_A
+565,106.7,116.6,Fleet 9,Simul,Monarch Butterfly,Moody Center,68.2,0.0,6181.47201784,11938,DGB,SAND_C_X
+539,,147.2,Fleet 9,Simul,Bluebonnet,Moody Center,68.2,0.0,7446.879536600001,15481,DGB,SAND_C_X
+527,133.3,138.6,Fleet 9,Simul,Bluebonnet,Moody Center,68.2,0.0,9518.101449640002,13636,DGB,SAND_C_X
+527,133.3,146.9,Fleet 9,Simul,Bluebonnet,Moody Center,68.2,0.0,8866.03982768,15625,DGB,SAND_C_A
+343,,107.2,Fleet 3,Zipper,Rodeo,CPE,68.3,0.0,0.0,17010,Turbine,SAND_C_X
+318,,106.7,Fleet 3,Zipper,Rodeo,CPE,68.4,0.0,0.0,17647,Turbine,SAND_C_X
+556,106.7,122.1,Fleet 12,Simul,Bluebonnet,DKR,68.5,0.0,20938.13024352,0,Diesel,SAND_C_R
+550,,136.5,Fleet 12,Simul,Longhorn,DKR,68.5,0.0,23368.8949662,0,Diesel,SAND_C_X
+591,,,Fleet 12,Simul,Cowboy,DKR,68.5,0.0,27359.1124464,0,Diesel,SAND_C_A
+529,102.4,113.1,Fleet 12,Simul,Rodeo,DKR,68.5,0.0,10397.323079080004,0,Diesel,SAND_C_A
+486,102.4,,Fleet 12,Simul,Rodeo,DKR,68.5,0.0,14581.81301528,0,Diesel,SAND_C_X
+556,,118.7,Fleet 12,Simul,Monarch Butterfly,DKR,68.5,0.0,19444.17505688,0,Diesel,SAND_C_A
+521,76.2,94.2,Fleet 4,Zipper,Bluebonnet,Gregory Gym,68.55,0.0,0.0,19244,Turbine,SAND_C_R
+546,85.7,106.8,Fleet 4,Zipper,Longhorn,Gregory Gym,68.6,0.0,0.0,19244,Turbine,SAND_C_A
+550,76.2,92.7,Fleet 4,Zipper,Lone Star,Gregory Gym,68.6,0.0,0.0,19244,Turbine,SAND_C_X
+273,102.4,120.3,Fleet 14,Simul,Rodeo,DKR,69.3,0.0,12426.498882,0,Diesel,SAND_C_X
+362,133.3,145.6,Fleet 14,Simul,Cowboy,DKR,69.3,0.0,13772.807002080002,0,Diesel,SAND_C_A
+382,133.3,147.8,Fleet 14,Simul,Cowboy,DKR,69.3,0.0,14358.1221588,0,Diesel,SAND_C_X
+375,120.0,125.6,Fleet 14,Simul,Longhorn,DKR,69.3,0.0,13460.30588,0,Diesel,SAND_C_A
+348,106.7,120.4,Fleet 14,Simul,Bluebonnet,DKR,69.3,0.0,12908.43333892,0,Diesel,SAND_C_X
+402,115.2,,Fleet 9,Simul,Rodeo,West Campus,69.6,0.0,1464.95308428,14851,DGB,SAND_C_R
+582,,109.8,Fleet 9,Simul,Bluebonnet,West Campus,69.6,0.0,3130.14556428,16293,DGB,SAND_C_A
+499,96.0,111.7,Fleet 9,Simul,Bluebonnet,West Campus,69.6,0.0,3466.65321128,17394,DGB,SAND_C_X
+534,96.0,108.6,Fleet 9,Simul,Longhorn,West Campus,69.6,0.0,1773.56875724,17486,DGB,SAND_C_A
+493,,107.4,Fleet 9,Simul,Cowboy,West Campus,69.6,0.0,1727.49843196,17386,DGB,SAND_C_R
+553,96.0,110.1,Fleet 9,Simul,Cowboy,West Campus,69.6,0.0,3360.2196586000005,17813,DGB,SAND_C_A
+312,96.0,84.7,Fleet 2,Simul,Lone Star,West Campus,69.9,0.0,12447.313788,0,Diesel,SAND_C_R
+332,96.0,86.8,Fleet 2,Simul,Longhorn,West Campus,69.9,0.0,24315.9731892,0,Diesel,SAND_C_X
+333,,84.5,Fleet 2,Simul,Lone Star,West Campus,69.9,0.0,12055.9935552,0,Diesel,SAND_C_R
+394,96.0,85.0,Fleet 2,Simul,Longhorn,West Campus,69.9,0.0,11522.29936536,0,Diesel,SAND_C_R
+338,96.0,84.6,Fleet 2,Simul,Longhorn,West Campus,69.9,0.0,11680.908949080002,0,Diesel,SAND_C_R
+258,,115.6,Fleet 7,Simul,Rodeo,Moody Center,70.5,0.0,2481.1367951999996,6135,DGB,SAND_C_A
+351,102.4,84.3,Fleet 7,Simul,Rodeo,Moody Center,70.5,0.0,2513.0529844,6093,DGB,SAND_C_X
+404,,119.7,Fleet 7,Simul,Monarch Butterfly,Moody Center,70.5,0.0,3037.03355144,8124,DGB,SAND_C_R
+381,,85.7,Fleet 7,Simul,Monarch Butterfly,Moody Center,70.5,0.0,2958.4919728,7581,DGB,SAND_C_A
+328,96.0,88.3,Fleet 7,Simul,Longhorn,Moody Center,70.5,0.0,3345.78799044,8441,DGB,SAND_C_R
+374,96.0,110.4,Fleet 7,Simul,Longhorn,Moody Center,70.5,0.0,3321.3651674,8394,DGB,SAND_C_R
+310,,119.0,Fleet 7,Simul,Bluebonnet,Moody Center,70.5,0.0,3152.0705986000003,8503,DGB,SAND_C_X
+387,96.0,,Fleet 7,Simul,Cowboy,Moody Center,70.5,0.0,3081.71621632,8287,DGB,SAND_C_A
+374,96.0,108.9,Fleet 7,Simul,Cowboy,Moody Center,70.5,0.0,3100.31086568,8269,DGB,SAND_C_X
+539,,148.8,Fleet 12,Simul,Lone Star,CPE,71.0,0.0,24219.39202536,0,Diesel,SAND_C_R
+529,133.3,,Fleet 12,Simul,Cowboy,CPE,71.0,0.0,25337.430009640004,0,Diesel,SAND_C_A
+532,133.3,140.8,Fleet 12,Simul,Cowboy,CPE,71.0,0.0,23556.922950400003,0,Diesel,SAND_C_R
+557,120.0,133.1,Fleet 12,Simul,Longhorn,CPE,71.0,0.0,22972.16285784,0,Diesel,SAND_C_A
+530,120.0,132.0,Fleet 12,Simul,Longhorn,CPE,71.0,0.0,25312.03582432,0,Diesel,SAND_C_A
+574,120.0,137.3,Fleet 12,Simul,Longhorn,CPE,71.0,0.0,22774.69878292,0,Diesel,SAND_C_X
+368,96.0,,Fleet 14,Simul,Bluebonnet,DKR,71.1,0.0,9850.72364752,0,Diesel,SAND_C_X
+333,96.0,104.9,Fleet 14,Simul,Bluebonnet,DKR,71.1,0.0,9860.437270320002,0,Diesel,SAND_C_X
+333,96.0,103.9,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,10300.88068128,0,Diesel,SAND_C_X
+314,,,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,9990.59981584,0,Diesel,SAND_C_X
+307,96.0,106.4,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,9973.39282688,0,Diesel,SAND_C_R
+465,120.0,127.9,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,15475.32754684,0,Diesel,SAND_C_R
+469,120.0,125.2,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,15060.278321200003,0,Diesel,SAND_C_X
+394,,129.3,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,17001.476454760003,0,Diesel,SAND_C_X
+325,109.3,115.8,Fleet 12,Simul,Longhorn,CPE,71.5,0.0,11789.42399236,0,Diesel,SAND_C_R
+303,109.3,133.6,Fleet 12,Simul,Longhorn,CPE,71.5,0.0,14738.47987444,0,Diesel,SAND_C_R
+330,,121.6,Fleet 12,Simul,Longhorn,CPE,71.5,0.0,14064.07692004,0,Diesel,SAND_C_A
+297,102.4,121.0,Fleet 1,Simul,Rodeo,Moody Center,71.6,0.0,0.0,11170,Turbine,SAND_C_R
+296,102.4,122.2,Fleet 1,Simul,Rodeo,Moody Center,71.6,0.0,0.0,11313,Turbine,SAND_C_R
+339,106.7,122.8,Fleet 1,Simul,Monarch Butterfly,Moody Center,71.6,0.0,0.0,12108,Turbine,SAND_C_X
+321,,134.0,Fleet 1,Simul,Bluebonnet,Moody Center,71.6,0.0,0.0,12253,Turbine,SAND_C_A
+306,68.6,85.2,Fleet 11,Zipper,Bluebonnet,DKR,71.7,0.0,10709.269137,0,Diesel,SAND_C_R
+341,68.6,89.9,Fleet 11,Zipper,Bluebonnet,DKR,71.7,0.0,11096.84268672,0,Diesel,SAND_C_X
+295,68.6,60.5,Fleet 11,Zipper,Bluebonnet,DKR,71.7,0.0,11126.39985324,0,Diesel,SAND_C_X
+315,68.6,,Fleet 11,Zipper,Rodeo,DKR,71.7,0.0,10416.75032468,0,Diesel,SAND_C_A
+322,68.6,84.2,Fleet 11,Zipper,Rodeo,DKR,71.7,0.0,10677.76924592,0,Diesel,SAND_C_R
+327,68.6,64.8,Fleet 11,Zipper,Rodeo,DKR,71.80000000000001,0.0,11179.13094844,0,Diesel,SAND_C_X
+311,68.6,84.2,Fleet 15,Zipper,Bluebonnet,West Campus,71.9,0.0,11346.62155872,0,Diesel,SAND_C_A
+300,68.6,84.1,Fleet 15,Zipper,Bluebonnet,West Campus,71.9,0.0,10998.73509644,0,Diesel,SAND_C_A
+480,77.1,,Fleet 8,Zipper,Cowboy,Guadalupe,72.2,0.0,8377.02830272,14161,DGB,SAND_C_X
+565,76.2,86.6,Fleet 8,Zipper,Bluebonnet,Guadalupe,72.2,0.0,8457.235073840002,15582,DGB,SAND_C_X
+443,73.1,86.4,Fleet 8,Zipper,Rodeo,Guadalupe,72.2,0.0,6681.02976184,11884,DGB,SAND_C_A
+464,73.1,,Fleet 8,Zipper,Rodeo,Guadalupe,72.2,0.0,6994.22471412,11690,DGB,SAND_C_R
+259,95.2,111.2,Fleet 6,Zipper,Pecan Tree,West Campus,72.25,0.0,6824.23631512,8576,DGB,SAND_C_X
+219,95.2,,Fleet 6,Zipper,Pecan Tree,West Campus,72.3,0.0,6278.608245840001,8282,DGB,SAND_C_A
+299,95.2,109.0,Fleet 6,Zipper,Pecan Tree,West Campus,72.43333333333334,0.0,6314.8261822800005,8357,DGB,SAND_C_A
+464,71.4,136.3,Fleet 4,Zipper,Taco,DKR,72.56666666666666,0.0,0.0,10930,Turbine,SAND_C_A
+505,71.4,128.5,Fleet 4,Zipper,Chili,DKR,72.7,0.0,0.0,27661,Turbine,SAND_C_A
+343,76.2,90.9,Fleet 6,Zipper,Bluebonnet,Guadalupe,73.0,0.0,3632.8949272,10673,DGB,SAND_C_R
+306,77.1,,Fleet 6,Zipper,Cowboy,Guadalupe,73.0,0.0,3447.5034977600003,9849,DGB,SAND_C_A
+343,,92.6,Fleet 6,Zipper,Longhorn,Guadalupe,73.0,0.0,3571.8378696000004,9934,DGB,SAND_C_R
+322,76.2,87.0,Fleet 6,Zipper,Monarch Butterfly,Guadalupe,73.0,0.0,3482.0562417200003,9554,DGB,SAND_C_A
+298,73.1,84.5,Fleet 6,Zipper,Rodeo,Guadalupe,73.0,0.0,2833.4637707599995,8524,DGB,SAND_C_X
+257,73.1,84.8,Fleet 6,Zipper,Rodeo,Guadalupe,73.05,0.0,2756.7261506400005,7925,DGB,SAND_C_A
+309,73.1,119.0,Fleet 8,Zipper,Rodeo,Guadalupe,73.1,0.0,3490.7985022400003,8315,DGB,SAND_C_X
+299,73.1,124.4,Fleet 8,Zipper,Rodeo,Guadalupe,73.1,0.0,3602.78269652,8243,DGB,SAND_C_X
+313,76.2,122.0,Fleet 8,Zipper,Bluebonnet,Guadalupe,73.1,0.0,4397.634573640001,9972,DGB,SAND_C_A
+404,76.2,124.9,Fleet 8,Zipper,Bluebonnet,Guadalupe,73.1,0.0,4741.35805472,10342,DGB,SAND_C_A
+356,76.2,88.3,Fleet 8,Zipper,Bluebonnet,Moody Center,73.1,0.0,4027.12924684,9706,DGB,SAND_C_X
+372,76.2,86.7,Fleet 8,Zipper,Cowboy,Moody Center,73.1,0.0,3858.80604032,9667,DGB,SAND_C_R
+368,76.2,85.7,Fleet 8,Zipper,Monarch Butterfly,Moody Center,73.1,0.0,3890.4446974400007,9504,DGB,SAND_C_X
+264,73.1,83.1,Fleet 8,Zipper,Rodeo,Moody Center,73.1,0.0,2675.27048516,8048,DGB,SAND_C_R
+343,102.4,114.1,Fleet 2,Simul,Rodeo,West Campus,73.3,2356.9243,0.0,0,Grid,SAND_C_X
+324,106.7,126.8,Fleet 2,Simul,Bluebonnet,West Campus,73.3,3367.818012,0.0,0,Grid,SAND_C_R
+343,120.0,127.3,Fleet 2,Simul,Longhorn,West Campus,73.3,3323.291412,0.0,0,Grid,SAND_C_X
+233,73.1,80.5,Fleet 6,Zipper,Rodeo,Moody Center,73.6,0.0,2788.3648077599996,5636,DGB,SAND_C_X
+356,76.2,,Fleet 6,Zipper,Monarch Butterfly,Moody Center,73.6,0.0,3960.10524952,6869,DGB,SAND_C_R
+329,76.2,88.2,Fleet 6,Zipper,Bluebonnet,Moody Center,73.6,0.0,4468.68278612,7516,DGB,SAND_C_R
+246,102.4,111.8,Fleet 14,Simul,Rodeo,Guadalupe,73.6,0.0,7286.465994360001,0,Diesel,SAND_C_R
+398,106.7,,Fleet 14,Simul,Monarch Butterfly,Guadalupe,73.6,0.0,9588.733364,0,Diesel,SAND_C_R
+323,96.0,107.3,Fleet 14,Simul,Longhorn,Guadalupe,73.6,0.0,9993.79143476,0,Diesel,SAND_C_R
+378,106.7,116.4,Fleet 14,Simul,Bluebonnet,Guadalupe,73.6,0.0,9692.94666004,0,Diesel,SAND_C_X
+360,96.0,107.5,Fleet 14,Simul,Cowboy,Guadalupe,73.6,0.0,10369.70863712,0,Diesel,SAND_C_A
+345,106.7,79.9,Fleet 1,Simul,Longhorn,Guadalupe,73.7,0.0,0.0,13159,Turbine,SAND_C_A
+377,106.7,80.3,Fleet 1,Simul,Longhorn,Guadalupe,73.7,0.0,0.0,13801,Turbine,SAND_C_X
+258,102.4,76.4,Fleet 1,Simul,Rodeo,Guadalupe,73.7,0.0,0.0,10540,Turbine,SAND_C_X
+286,102.4,91.8,Fleet 1,Simul,Rodeo,Guadalupe,73.7,0.0,0.0,10839,Turbine,SAND_C_A
+339,102.4,93.4,Fleet 1,Simul,Rodeo,Guadalupe,73.7,0.0,0.0,10539,Turbine,SAND_C_R
+335,73.1,,Fleet 5,Zipper,Rodeo,Moody Center,74.0,0.0,0.0,12919,Turbine,SAND_C_R
+502,57.1,,Fleet 5,Zipper,Monarch Butterfly,Moody Center,74.0,0.0,0.0,12919,Turbine,SAND_C_R
+328,76.2,87.6,Fleet 5,Zipper,Monarch Butterfly,Moody Center,74.0,0.0,0.0,12919,Turbine,SAND_C_R
+322,76.2,,Fleet 5,Zipper,Cowboy,Moody Center,74.0,0.0,0.0,12919,Turbine,SAND_C_R
+441,57.1,69.1,Fleet 5,Zipper,Bluebonnet,Moody Center,74.0,0.0,0.0,12919,Turbine,SAND_C_A
+321,76.2,88.9,Fleet 5,Zipper,Bluebonnet,Moody Center,74.0,0.0,0.0,12919,Turbine,SAND_C_R
+356,76.2,95.7,Fleet 15,Zipper,Monarch Butterfly,DKR,74.2,0.0,13366.08373884,0,Diesel,SAND_C_A
+346,76.2,93.7,Fleet 15,Zipper,Monarch Butterfly,DKR,74.2,0.0,12545.421378280002,0,Diesel,SAND_C_R
+330,76.2,94.5,Fleet 15,Zipper,Monarch Butterfly,DKR,74.30000000000001,0.0,13173.476475320002,0,Diesel,SAND_C_A
+536,,,Fleet 7,Simul,Bluebonnet,DKR,74.4,0.0,4587.18898428,13916,DGB,SAND_C_X
+541,,,Fleet 7,Simul,Bluebonnet,DKR,74.4,0.0,4798.529663200001,15205,DGB,SAND_C_A
+490,102.4,,Fleet 7,Simul,Rodeo,DKR,74.4,0.0,3620.96104776,12104,DGB,SAND_C_A
+519,120.0,,Fleet 7,Simul,Longhorn,DKR,74.4,0.0,4737.888903720001,16136,DGB,SAND_C_X
+530,106.7,,Fleet 7,Simul,Cowboy,DKR,74.4,0.0,4643.52799652,15913,DGB,SAND_C_A
+571,106.7,,Fleet 7,Simul,Cowboy,DKR,74.4,0.0,4615.219724359999,15517,DGB,SAND_C_A
+363,,145.4,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,23946.57799072,0,Diesel,SAND_C_A
+375,160.0,143.7,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,25548.2156244,0,Diesel,SAND_C_X
+345,,144.8,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,25208.65512452,0,Diesel,SAND_C_X
+446,47.1,55.8,Fleet 4,Zipper,Rodeo,DKR,74.4,0.0,0.0,14111,Turbine,SAND_C_A
+259,73.1,82.3,Fleet 4,Zipper,Rodeo,DKR,74.4,0.0,0.0,7883,Turbine,SAND_C_A
+368,76.2,86.7,Fleet 4,Zipper,Cowboy,DKR,74.4,0.0,0.0,18641,Turbine,SAND_C_A
+373,85.7,101.6,Fleet 4,Zipper,Longhorn,DKR,74.4,0.0,0.0,22619,Turbine,SAND_C_A
+485,64.3,79.7,Fleet 4,Zipper,Longhorn,DKR,74.4,0.0,0.0,21183,Turbine,SAND_C_X
+268,160.0,184.2,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,6064.075948,7257,DGB,SAND_C_A
+300,120.0,135.5,Fleet 9,Simul,Longhorn,Turtle Pond,74.5,0.0,4528.21341728,7202,DGB,SAND_C_X
+252,,175.4,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,5520.25183724,8873,DGB,SAND_C_R
+250,,138.5,Fleet 9,Simul,Longhorn,Turtle Pond,74.5,0.0,4310.350734480001,7338,DGB,SAND_C_X
+264,160.0,164.6,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,5948.62260272,8639,DGB,SAND_C_R
+503,96.0,112.3,Fleet 2,Simul,Cowboy,West Campus,74.5,4816.10624,0.0,0,Grid,SAND_C_X
+573,96.0,111.8,Fleet 2,Simul,Longhorn,West Campus,74.5,4714.312632,0.0,0,Grid,SAND_C_X
+503,96.0,111.1,Fleet 2,Simul,Bluebonnet,West Campus,74.5,4790.744844,0.0,0,Grid,SAND_C_X
+475,115.2,127.7,Fleet 2,Simul,Rodeo,West Campus,74.5,4743.66948,0.0,0,Grid,SAND_C_R
+441,120.0,84.9,Fleet 9,Simul,Longhorn,The Tower,74.6,0.0,4122.18398424,16932,DGB,SAND_C_A
+398,160.0,84.2,Fleet 9,Simul,Lone Star,The Tower,74.6,0.0,4593.01715796,22270,DGB,SAND_C_X
+496,120.0,84.1,Fleet 9,Simul,Longhorn,The Tower,74.6,0.0,4371.13026,18782,DGB,SAND_C_X
+315,85.7,111.4,Fleet 10,Zipper,Lone Star,Gregory Gym,74.6,0.0,15733.84867936,0,Diesel,SAND_C_A
+359,,110.2,Fleet 10,Zipper,Lone Star,Gregory Gym,74.6,0.0,15734.26497748,0,Diesel,SAND_C_A
+364,78.1,101.4,Fleet 10,Zipper,Longhorn,Gregory Gym,74.6,0.0,14438.46769596,0,Diesel,SAND_C_X
+311,78.1,108.5,Fleet 10,Zipper,Longhorn,Gregory Gym,74.6,0.0,14429.5866694,0,Diesel,SAND_C_R
+357,114.3,133.8,Fleet 4,Zipper,Pecan Tree,Guadalupe,74.6,0.0,0.0,23740,Turbine,SAND_C_A
+337,76.2,115.3,Fleet 4,Zipper,Bluebonnet,Guadalupe,74.6,0.0,0.0,13963,Turbine,SAND_C_A
+271,77.1,,Fleet 4,Zipper,Cowboy,Guadalupe,74.6,0.0,0.0,12281,Turbine,SAND_C_X
+272,77.1,95.6,Fleet 4,Zipper,Cowboy,Guadalupe,74.6,0.0,0.0,11182,Turbine,SAND_C_A
+305,77.1,,Fleet 4,Zipper,Longhorn,Guadalupe,74.6,0.0,0.0,12007,Turbine,SAND_C_X
+288,73.1,60.0,Fleet 4,Zipper,Rodeo,Guadalupe,74.6,0.0,0.0,9520,Turbine,SAND_C_X
+356,76.2,87.7,Fleet 4,Zipper,Monarch Butterfly,Guadalupe,74.6,0.0,0.0,12682,Turbine,SAND_C_A
+391,85.7,103.2,Fleet 5,Zipper,Longhorn,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_A
+461,62.9,75.8,Fleet 5,Zipper,Monarch Butterfly,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_R
+448,76.2,90.8,Fleet 5,Zipper,Cowboy,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_X
+477,,88.3,Fleet 5,Zipper,Bluebonnet,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_X
+373,73.1,83.3,Fleet 5,Zipper,Rodeo,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_R
+310,160.0,,Fleet 1,Simul,Lone Star,The Tower,74.6,0.0,0.0,24394,Turbine,SAND_C_R
+342,,,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,20454,Turbine,SAND_C_X
+314,,,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,21337,Turbine,SAND_C_X
+355,120.0,137.6,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,19401,Turbine,SAND_C_R
+314,160.0,,Fleet 1,Simul,Lone Star,The Tower,74.6,0.0,0.0,25593,Turbine,SAND_C_R
+394,76.2,91.8,Fleet 15,Zipper,Bluebonnet,CPE,74.7,0.0,13250.907925640002,0,Diesel,SAND_C_A
+356,76.2,93.7,Fleet 15,Zipper,Bluebonnet,CPE,74.73333333333333,0.0,12058.35257788,0,Diesel,SAND_C_R
+363,76.2,88.7,Fleet 8,Zipper,Monarch Butterfly,Moody Center,74.76666666666667,0.0,3240.7420981600003,8370,DGB,SAND_C_X
+319,76.2,86.8,Fleet 8,Zipper,Monarch Butterfly,Moody Center,74.8,0.0,2874.6772846400004,8472,DGB,SAND_C_R
+342,73.1,85.7,Fleet 8,Zipper,Rodeo,Moody Center,74.8,0.0,2431.73608496,6991,DGB,SAND_C_X
+333,76.2,90.4,Fleet 8,Zipper,Bluebonnet,Moody Center,74.8,0.0,2954.4677576400004,8566,DGB,SAND_C_X
+381,76.2,94.4,Fleet 8,Zipper,Cowboy,Moody Center,74.8,0.0,2993.0447167599996,8602,DGB,SAND_C_A
+365,76.2,90.6,Fleet 8,Zipper,Bluebonnet,Moody Center,75.05,0.0,2975.00513156,8581,DGB,SAND_C_X
+363,76.2,92.4,Fleet 4,Zipper,Longhorn,Guadalupe,75.3,0.0,0.0,15595,Turbine,SAND_C_A
+404,76.2,90.7,Fleet 4,Zipper,Longhorn,Guadalupe,75.3,0.0,0.0,15841,Turbine,SAND_C_R
+420,78.1,97.5,Fleet 15,Zipper,Longhorn,CPE,75.5,0.0,17069.47181436,0,Diesel,SAND_C_X
+459,78.1,97.6,Fleet 15,Zipper,Longhorn,CPE,75.5,0.0,17214.482326160003,0,Diesel,SAND_C_X
+405,78.1,,Fleet 15,Zipper,Longhorn,CPE,75.5,0.0,17335.347547,0,Diesel,SAND_C_X
+417,106.7,,Fleet 2,Simul,Longhorn,West Campus,75.7,0.0,18150.73679804,0,Diesel,SAND_C_R
+413,,101.9,Fleet 2,Simul,Bluebonnet,West Campus,75.7,0.0,17977.97307824,0,Diesel,SAND_C_A
+395,106.7,100.4,Fleet 2,Simul,Cowboy,West Campus,75.7,0.0,17856.275261160004,0,Diesel,SAND_C_A
+464,106.7,106.3,Fleet 2,Simul,Longhorn,West Campus,75.7,0.0,16661.222124680004,0,Diesel,SAND_C_A
+403,102.4,96.1,Fleet 2,Simul,Rodeo,West Campus,75.7,0.0,16623.89405992,0,Diesel,SAND_C_X
+363,106.7,126.3,Fleet 2,Simul,Cowboy,DKR,76.0,3190.608968,0.0,0,Grid,SAND_C_X
+445,66.0,,Fleet 2,Simul,Rodeo,DKR,76.0,2257.723812,0.0,0,Grid,SAND_C_R
+502,66.0,77.9,Fleet 2,Simul,Rodeo,DKR,76.0,2524.586568,0.0,0,Grid,SAND_C_R
+330,106.7,128.4,Fleet 2,Simul,Bluebonnet,DKR,76.0,3079.309528,0.0,0,Grid,SAND_C_X
+404,102.4,95.3,Fleet 7,Simul,Rodeo,DKR,76.1,0.0,4086.659878,10759,DGB,SAND_C_X
+450,106.7,91.3,Fleet 7,Simul,Cowboy,DKR,76.1,0.0,4584.552429519999,13876,DGB,SAND_C_A
+509,88.0,92.5,Fleet 7,Simul,Monarch Butterfly,DKR,76.1,0.0,4541.95125524,11784,DGB,SAND_C_A
+440,,104.5,Fleet 7,Simul,Rodeo,DKR,76.1,0.0,4151.8799168000005,9488,DGB,SAND_C_X
+488,120.0,,Fleet 7,Simul,Longhorn,DKR,76.1,0.0,5333.33398136,14570,DGB,SAND_C_X
+497,106.7,93.8,Fleet 7,Simul,Bluebonnet,DKR,76.1,0.0,4301.0534098,11875,DGB,SAND_C_X
+288,102.4,115.3,Fleet 12,Simul,Rodeo,Moody Center,76.3,0.0,9381.55566628,0,Diesel,SAND_C_A
+395,133.3,146.8,Fleet 12,Simul,Monarch Butterfly,Moody Center,76.3,0.0,14895.1467336,0,Diesel,SAND_C_X
+370,133.3,144.1,Fleet 12,Simul,Monarch Butterfly,Moody Center,76.3,0.0,14746.667070800002,0,Diesel,SAND_C_X
+348,133.3,,Fleet 12,Simul,Bluebonnet,Moody Center,76.3,0.0,16571.99556096,0,Diesel,SAND_C_X
+424,106.7,115.9,Fleet 12,Simul,Cowboy,Moody Center,76.3,0.0,13892.423328560002,0,Diesel,SAND_C_A
+358,133.3,,Fleet 12,Simul,Bluebonnet,Moody Center,76.3,0.0,16410.05559228,0,Diesel,SAND_C_X
+405,,121.1,Fleet 2,Simul,Bluebonnet,Guadalupe,76.3,0.0,0.0,11618,Turbine,SAND_C_X
+406,106.7,120.4,Fleet 2,Simul,Bluebonnet,Guadalupe,76.3,0.0,0.0,11618,Turbine,SAND_C_X
+384,88.0,103.6,Fleet 2,Simul,Monarch Butterfly,Guadalupe,76.3,0.0,0.0,11618,Turbine,SAND_C_X
+368,88.0,108.3,Fleet 2,Simul,Monarch Butterfly,Guadalupe,76.3,0.0,0.0,11618,Turbine,SAND_C_A
+251,102.4,117.9,Fleet 2,Simul,Rodeo,Guadalupe,76.3,0.0,0.0,11618,Turbine,SAND_C_A
+304,102.4,116.8,Fleet 2,Simul,Rodeo,Guadalupe,76.3,0.0,0.0,11618,Turbine,SAND_C_X
+410,95.2,172.4,Fleet 4,Zipper,Armadillo,Guadalupe,76.3,0.0,0.0,21727,Turbine,SAND_C_R
+441,95.2,164.4,Fleet 4,Zipper,Armadillo,Guadalupe,76.3,0.0,0.0,21094,Turbine,SAND_C_X
+449,76.2,94.2,Fleet 10,Zipper,Bluebonnet,West Campus,76.4,0.0,17783.5618562,0,Diesel,SAND_C_X
+399,76.2,95.1,Fleet 10,Zipper,Longhorn,West Campus,76.4,0.0,18317.94987624,0,Diesel,SAND_C_X
+462,76.2,94.1,Fleet 10,Zipper,Cowboy,West Campus,76.4,0.0,18402.87469272,0,Diesel,SAND_C_R
+338,,91.8,Fleet 10,Zipper,Rodeo,West Campus,76.4,0.0,14333.838101800002,0,Diesel,SAND_C_A
+455,85.7,,Fleet 4,Zipper,Longhorn,CPE,76.6,0.0,1420.68671752,21030,DGB,SAND_C_A
+426,85.7,104.4,Fleet 4,Zipper,Longhorn,CPE,76.6,0.0,1420.68671752,21053,DGB,SAND_C_A
+471,85.7,105.9,Fleet 4,Zipper,Longhorn,CPE,76.6,0.0,1420.68671752,20752,DGB,SAND_C_X
+458,68.6,96.0,Fleet 8,Zipper,Bluebonnet,CPE,76.7,0.0,15009.906248680005,0,Diesel,SAND_C_R
+445,,85.6,Fleet 8,Zipper,Bluebonnet,CPE,76.7,0.0,14690.88312272,0,Diesel,SAND_C_A
+398,68.6,87.6,Fleet 8,Zipper,Bluebonnet,CPE,76.7,0.0,13857.31552044,0,Diesel,SAND_C_X
+391,133.3,148.7,Fleet 12,Simul,Bluebonnet,West Campus,76.7,0.0,14446.238594200002,0,Diesel,SAND_C_X
+365,140.0,,Fleet 12,Simul,Armadillo,West Campus,76.7,0.0,15694.85542212,0,Diesel,SAND_C_A
+280,140.0,153.3,Fleet 12,Simul,Armadillo,West Campus,76.7,0.0,15929.37002972,0,Diesel,SAND_C_A
+377,133.3,145.8,Fleet 12,Simul,Bluebonnet,West Campus,76.7,0.0,14509.51590844,0,Diesel,SAND_C_A
+299,140.0,,Fleet 12,Simul,Armadillo,West Campus,76.7,0.0,16515.517782680003,0,Diesel,SAND_C_X
+308,114.3,93.6,Fleet 4,Zipper,Lone Star,Turtle Pond,76.8,0.0,0.0,21420,Turbine,SAND_C_X
+393,,93.3,Fleet 4,Zipper,Lone Star,Turtle Pond,76.8,0.0,0.0,18643,Turbine,SAND_C_A
+349,114.3,108.2,Fleet 4,Zipper,Lone Star,Turtle Pond,76.8,0.0,0.0,21030,Turbine,SAND_C_X
+261,76.2,92.5,Fleet 15,Zipper,Bluebonnet,CPE,76.9,0.0,10590.34664072,0,Diesel,SAND_C_A
+262,76.2,93.7,Fleet 15,Zipper,Bluebonnet,CPE,76.9,0.0,10100.50251952,0,Diesel,SAND_C_A
+221,73.1,86.2,Fleet 15,Zipper,Rodeo,CPE,76.9,0.0,7738.70451872,0,Diesel,SAND_C_A
+191,73.1,86.6,Fleet 15,Zipper,Rodeo,CPE,76.95,0.0,7510.156850840001,0,Diesel,SAND_C_X
+301,106.7,111.4,Fleet 14,Simul,Bluebonnet,DKR,77.0,0.0,14674.64749604,0,Diesel,SAND_C_X
+382,120.0,110.2,Fleet 14,Simul,Longhorn,DKR,77.0,0.0,11525.35221824,0,Diesel,SAND_C_X
+366,133.3,,Fleet 14,Simul,Cowboy,DKR,77.0,0.0,13380.792939080002,0,Diesel,SAND_C_A
+373,120.0,108.5,Fleet 14,Simul,Longhorn,DKR,77.0,0.0,12355.0343714,0,Diesel,SAND_C_R
+400,,142.6,Fleet 11,Zipper,Pecan Tree,CPE,77.3,0.0,25242.097740160003,0,Diesel,SAND_C_A
+323,114.3,145.6,Fleet 11,Zipper,Pecan Tree,CPE,77.3,0.0,25802.712541760004,0,Diesel,SAND_C_X
+351,114.3,,Fleet 11,Zipper,Pecan Tree,CPE,77.3,0.0,25686.42660024,0,Diesel,SAND_C_X
+273,73.1,88.4,Fleet 4,Zipper,Rodeo,Turtle Pond,77.35,0.0,0.0,9874,Turbine,SAND_C_X
+275,,84.7,Fleet 4,Zipper,Rodeo,Turtle Pond,77.4,0.0,0.0,10401,Turbine,SAND_C_A
+343,114.3,104.9,Fleet 11,Zipper,Pecan Tree,West Campus,77.5,0.0,22426.53478856,0,Diesel,SAND_C_A
+384,114.3,106.4,Fleet 11,Zipper,Pecan Tree,West Campus,77.5,0.0,29779.8860142,0,Diesel,SAND_C_A
+504,120.0,,Fleet 14,Simul,Longhorn,CPE,77.5,0.0,22554.338311400003,0,Diesel,SAND_C_A
+563,133.3,143.7,Fleet 14,Simul,Lone Star,CPE,77.5,0.0,22039.79383508,0,Diesel,SAND_C_R
+554,,144.9,Fleet 14,Simul,Lone Star,CPE,77.5,0.0,21454.47867836,0,Diesel,SAND_C_A
+537,120.0,140.8,Fleet 14,Simul,Longhorn,CPE,77.5,0.0,21658.325991120004,0,Diesel,SAND_C_R
+510,120.0,,Fleet 14,Simul,Longhorn,CPE,77.5,0.0,20561.51921096,0,Diesel,SAND_C_X
+366,68.6,87.4,Fleet 11,Zipper,Bluebonnet,CPE,77.6,0.0,10588.126384080002,0,Diesel,SAND_C_X
+356,68.6,88.1,Fleet 11,Zipper,Bluebonnet,CPE,77.6,0.0,10772.26891916,0,Diesel,SAND_C_A
+361,68.6,89.0,Fleet 11,Zipper,Bluebonnet,CPE,77.6,0.0,11024.961878,0,Diesel,SAND_C_X
+299,73.1,92.0,Fleet 11,Zipper,Rodeo,CPE,77.6,0.0,8574.76990972,0,Diesel,SAND_C_A
+335,73.1,90.4,Fleet 11,Zipper,Rodeo,CPE,77.6,0.0,8361.208974160001,0,Diesel,SAND_C_X
+528,96.0,113.6,Fleet 7,Simul,Longhorn,Guadalupe,78.3,0.0,5592.68771012,13417,DGB,SAND_C_R
+580,96.0,111.2,Fleet 7,Simul,Cowboy,Guadalupe,78.3,0.0,5374.54749524,12979,DGB,SAND_C_R
+508,96.0,110.7,Fleet 7,Simul,Cowboy,Guadalupe,78.3,0.0,5312.241543280001,12854,DGB,SAND_C_X
+522,106.7,119.0,Fleet 7,Simul,Bluebonnet,Guadalupe,78.3,0.0,5381.06949912,13574,DGB,SAND_C_R
+433,102.4,114.9,Fleet 7,Simul,Rodeo,Guadalupe,78.3,0.0,4769.52756084,10040,DGB,SAND_C_A
+482,106.7,116.0,Fleet 7,Simul,Monarch Butterfly,Guadalupe,78.3,0.0,5674.69843976,12902,DGB,SAND_C_X
+373,64.3,76.0,Fleet 8,Zipper,Magnolia,DKR,78.5,0.0,3667.72520324,8847,DGB,SAND_C_R
+211,76.2,87.3,Fleet 8,Zipper,Monarch Butterfly,DKR,78.5,0.0,3178.29738016,7279,DGB,SAND_C_X
+224,73.1,83.0,Fleet 8,Zipper,Rodeo,DKR,78.5,0.0,2676.65814556,5901,DGB,SAND_C_X
+418,160.0,169.5,Fleet 9,Simul,Pecan Tree,CPE,78.6,0.0,7933.11574076,16317,DGB,SAND_C_R
+414,,,Fleet 9,Simul,Pecan Tree,CPE,78.6,0.0,9617.8742324,16551,DGB,SAND_C_X
+495,,,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,7198.765857080001,12389,DGB,SAND_C_X
+420,120.0,130.6,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,6222.685531720001,12381,DGB,SAND_C_R
+446,,133.5,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,6189.104150040001,13139,DGB,SAND_C_A
+545,109.3,98.5,Fleet 2,Simul,Longhorn,Turtle Pond,78.8,0.0,21432.83117612,0,Diesel,SAND_C_R
+514,120.0,106.5,Fleet 2,Simul,Lone Star,Turtle Pond,78.8,0.0,22864.480410800003,0,Diesel,SAND_C_A
+543,120.0,110.9,Fleet 2,Simul,Cowboy,Turtle Pond,78.8,0.0,22449.70871724,0,Diesel,SAND_C_A
+415,68.6,,Fleet 10,Zipper,Bluebonnet,Turtle Pond,78.9,0.0,16784.16883612,0,Diesel,SAND_C_X
+411,68.6,86.2,Fleet 10,Zipper,Bluebonnet,Turtle Pond,78.9,0.0,17049.35073856,0,Diesel,SAND_C_X
+480,68.6,85.3,Fleet 10,Zipper,Bluebonnet,Turtle Pond,78.9,0.0,17311.618554160003,0,Diesel,SAND_C_X
+306,73.1,86.9,Fleet 15,Zipper,Rodeo,Guadalupe,79.2,0.0,9674.21324464,0,Diesel,SAND_C_A
+344,68.6,100.8,Fleet 15,Zipper,Monarch Butterfly,Guadalupe,79.2,0.0,11248.375202400002,0,Diesel,SAND_C_X
+333,70.7,87.9,Fleet 15,Zipper,Cowboy,Guadalupe,79.2,0.0,11113.49461152,0,Diesel,SAND_C_X
+398,68.6,88.6,Fleet 15,Zipper,Bluebonnet,Guadalupe,79.2,0.0,11943.45429676,0,Diesel,SAND_C_A
+299,70.7,85.4,Fleet 15,Zipper,Cowboy,Guadalupe,79.2,0.0,11756.81397296,0,Diesel,SAND_C_X
+325,70.7,87.8,Fleet 15,Zipper,Longhorn,Guadalupe,79.2,0.0,11105.72371328,0,Diesel,SAND_C_X
+475,106.7,133.9,Fleet 1,Simul,Bluebonnet,Guadalupe,79.7,0.0,0.0,24483,Turbine,SAND_C_X
+535,96.0,132.9,Fleet 1,Simul,Cowboy,Guadalupe,79.7,0.0,0.0,22066,Turbine,SAND_C_A
+524,96.0,134.5,Fleet 1,Simul,Cowboy,Guadalupe,79.7,0.0,0.0,21393,Turbine,SAND_C_R
+543,96.0,,Fleet 1,Simul,Longhorn,Guadalupe,79.7,0.0,0.0,22741,Turbine,SAND_C_R
+441,102.4,125.9,Fleet 1,Simul,Rodeo,Guadalupe,79.7,0.0,0.0,17832,Turbine,SAND_C_X
+424,85.7,100.5,Fleet 10,Zipper,Lone Star,CPE,79.8,0.0,21255.07187888,0,Diesel,SAND_C_A
+478,68.6,85.7,Fleet 10,Zipper,Bluebonnet,CPE,79.8,0.0,16827.463840599998,0,Diesel,SAND_C_R
+386,85.7,101.7,Fleet 10,Zipper,Lone Star,CPE,79.8,0.0,20642.00351416,0,Diesel,SAND_C_R
+440,85.7,101.7,Fleet 10,Zipper,Lone Star,CPE,79.8,0.0,20162.011781800004,0,Diesel,SAND_C_R
+319,73.1,87.6,Fleet 10,Zipper,Rodeo,CPE,79.8,0.0,13624.88240344,0,Diesel,SAND_C_R
+589,106.7,122.9,Fleet 1,Simul,Bluebonnet,DKR,79.8,5297.314248,0.0,0,Grid,SAND_C_X
+492,102.4,120.5,Fleet 1,Simul,Rodeo,DKR,79.8,4218.259012,0.0,0,Grid,SAND_C_A
+600,120.0,138.7,Fleet 1,Simul,Longhorn,DKR,79.8,0.0,0.0,29279,Turbine,SAND_C_X
+613,106.7,123.7,Fleet 1,Simul,Monarch Butterfly,DKR,79.8,0.0,0.0,23465,Turbine,SAND_C_R
+487,,,Fleet 1,Simul,Rodeo,DKR,79.8,0.0,0.0,17701,Turbine,SAND_C_X
+392,120.0,126.8,Fleet 12,Simul,Cowboy,CPE,80.0,0.0,13650.83165292,0,Diesel,SAND_C_A
+339,109.3,,Fleet 12,Simul,Longhorn,CPE,80.0,0.0,12583.16574116,0,Diesel,SAND_C_A
+394,120.0,121.5,Fleet 12,Simul,Cowboy,CPE,80.0,0.0,13826.37069352,0,Diesel,SAND_C_X
+374,,,Fleet 12,Simul,Longhorn,CPE,80.0,0.0,12788.40071432,0,Diesel,SAND_C_X
+348,,128.0,Fleet 12,Simul,Cowboy,CPE,80.0,0.0,12993.91321956,0,Diesel,SAND_C_R
+235,114.3,,Fleet 6,Zipper,Pecan Tree,West Campus,80.2,0.0,7993.06267004,10783,DGB,SAND_C_A
+312,114.3,,Fleet 6,Zipper,Pecan Tree,West Campus,80.2,0.0,8177.482737200001,10678,DGB,SAND_C_A
+234,114.3,,Fleet 6,Zipper,Pecan Tree,West Campus,80.2,0.0,7787.27263272,10478,DGB,SAND_C_X
+303,106.7,114.9,Fleet 9,Simul,Monarch Butterfly,DKR,80.6,0.0,2467.39895724,6517,DGB,SAND_C_X
+191,102.4,113.7,Fleet 9,Simul,Rodeo,DKR,80.6,0.0,2502.22923328,5183,DGB,SAND_C_X
+207,102.4,113.9,Fleet 9,Simul,Rodeo,DKR,80.6,0.0,2544.55287548,5356,DGB,SAND_C_R
+205,102.4,112.4,Fleet 9,Simul,Rodeo,DKR,80.6,0.0,2500.70280684,5209,DGB,SAND_C_A
+312,90.0,99.9,Fleet 9,Simul,Magnolia,DKR,80.6,0.0,2442.00477192,8145,DGB,SAND_C_X
+404,,,Fleet 9,Simul,Magnolia,DKR,80.65,0.0,2522.3503090800004,8288,DGB,SAND_C_A
+334,,128.1,Fleet 8,Zipper,Pecan Tree,CPE,80.7,0.0,6586.25255652,16374,DGB,SAND_C_X
+386,114.3,134.2,Fleet 8,Zipper,Pecan Tree,CPE,80.7,0.0,6537.684442520001,15633,DGB,SAND_C_X
+447,57.1,74.1,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,16958,Turbine,SAND_C_R
+461,57.1,72.0,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,15997,Turbine,SAND_C_A
+464,,75.9,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,12803,Turbine,SAND_C_A
+532,120.0,136.0,Fleet 2,Simul,Lone Star,CPE,81.1,6123.867836,0.0,0,Grid,SAND_C_R
+483,120.0,137.7,Fleet 2,Simul,Lone Star,CPE,81.1,6479.954392,0.0,0,Grid,SAND_C_X
+515,120.0,139.3,Fleet 2,Simul,Longhorn,CPE,81.1,6565.878788,0.0,0,Grid,SAND_C_A
+490,120.0,134.9,Fleet 2,Simul,Lone Star,CPE,81.1,6328.809616,0.0,0,Grid,SAND_C_R
+526,120.0,135.5,Fleet 2,Simul,Longhorn,CPE,81.1,6359.783752,0.0,0,Grid,SAND_C_A
+312,96.0,111.5,Fleet 2,Simul,Lone Star,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_A
+318,96.0,107.6,Fleet 2,Simul,Lone Star,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_X
+397,96.0,108.2,Fleet 2,Simul,Lone Star,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_X
+357,96.0,114.3,Fleet 2,Simul,Longhorn,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_A
+392,,,Fleet 2,Simul,Longhorn,Guadalupe,81.3,0.0,0.0,13421,Turbine,SAND_C_A
+542,106.7,,Fleet 9,Simul,Monarch Butterfly,Moody Center,81.6,0.0,2559.5396078000003,17004,DGB,SAND_C_A
+509,106.7,114.4,Fleet 9,Simul,Monarch Butterfly,Moody Center,81.6,0.0,3500.78965712,16310,DGB,SAND_C_R
+443,102.4,113.8,Fleet 9,Simul,Rodeo,Moody Center,81.6,0.0,3003.45216976,13924,DGB,SAND_C_A
+497,96.0,113.3,Fleet 9,Simul,Longhorn,Moody Center,81.6,0.0,2556.764287,17868,DGB,SAND_C_X
+504,106.7,114.9,Fleet 9,Simul,Bluebonnet,Moody Center,81.6,0.0,2255.91951228,18294,DGB,SAND_C_X
+501,96.0,110.5,Fleet 9,Simul,Cowboy,Moody Center,81.6,0.0,2307.26294708,17257,DGB,SAND_C_X
+429,85.7,97.7,Fleet 8,Zipper,Longhorn,West Campus,82.1,0.0,5621.134748320001,15235,DGB,SAND_C_X
+480,76.2,86.2,Fleet 8,Zipper,Bluebonnet,West Campus,82.1,0.0,4831.00091656,13101,DGB,SAND_C_A
+357,73.1,81.4,Fleet 8,Zipper,Rodeo,West Campus,82.1,0.0,3272.65828736,10704,DGB,SAND_C_R
+347,70.7,94.8,Fleet 11,Zipper,Longhorn,Guadalupe,82.2,0.0,14131.65598152,0,Diesel,SAND_C_X
+376,70.7,92.7,Fleet 11,Zipper,Longhorn,Guadalupe,82.2,0.0,13605.45515784,0,Diesel,SAND_C_X
+514,85.7,101.2,Fleet 4,Zipper,Lone Star,The Tower,82.6,0.0,0.0,22208,Turbine,SAND_C_X
+477,85.7,100.7,Fleet 4,Zipper,Lone Star,The Tower,82.6,0.0,0.0,22208,Turbine,SAND_C_A
+460,120.0,131.6,Fleet 14,Simul,Cowboy,Turtle Pond,82.7,0.0,18462.26655784,0,Diesel,SAND_C_X
+480,120.0,,Fleet 14,Simul,Cowboy,Turtle Pond,82.7,0.0,17662.97416744,0,Diesel,SAND_C_A
+426,120.0,132.1,Fleet 14,Simul,Cowboy,Turtle Pond,82.7,0.0,18432.57062528,0,Diesel,SAND_C_A
+427,120.0,,Fleet 14,Simul,Lone Star,Turtle Pond,82.7,0.0,18496.541769720003,0,Diesel,SAND_C_X
+427,120.0,135.6,Fleet 14,Simul,Lone Star,Turtle Pond,82.7,0.0,17903.594480800002,0,Diesel,SAND_C_A
+470,,132.5,Fleet 14,Simul,Lone Star,Turtle Pond,82.7,0.0,18139.21921672,0,Diesel,SAND_C_R
+386,,119.1,Fleet 1,Simul,Rodeo,West Campus,82.7,0.0,0.0,14312,Turbine,SAND_C_X
+404,120.0,,Fleet 1,Simul,Longhorn,West Campus,82.7,0.0,0.0,19707,Turbine,SAND_C_R
+472,120.0,137.9,Fleet 1,Simul,Longhorn,West Campus,82.7,0.0,0.0,19727,Turbine,SAND_C_X
+430,106.7,120.0,Fleet 1,Simul,Bluebonnet,West Campus,82.8,0.0,0.0,16553,Turbine,SAND_C_A
+325,,120.3,Fleet 2,Simul,Cowboy,West Campus,82.9,3510.091588,0.0,0,Grid,SAND_C_R
+400,,145.6,Fleet 2,Simul,Monarch Butterfly,West Campus,83.0,2816.21362,0.0,0,Grid,SAND_C_A
+375,106.7,117.2,Fleet 2,Simul,Longhorn,West Campus,83.1,3590.833156,0.0,0,Grid,SAND_C_X
+322,106.7,147.8,Fleet 2,Simul,Rodeo,West Campus,83.1,2467.790416,0.0,0,Grid,SAND_C_X
+329,106.7,125.6,Fleet 2,Simul,Bluebonnet,West Campus,83.1,3494.386152,0.0,0,Grid,SAND_C_A
+273,102.4,,Fleet 2,Simul,Rodeo,West Campus,83.1,2713.696668,0.0,0,Grid,SAND_C_A
+360,78.1,96.8,Fleet 15,Zipper,Longhorn,The Tower,83.4,0.0,13247.16124256,0,Diesel,SAND_C_X
+391,78.1,96.8,Fleet 15,Zipper,Longhorn,The Tower,83.4,0.0,13275.60828076,0,Diesel,SAND_C_X
+381,78.1,95.6,Fleet 15,Zipper,Longhorn,The Tower,83.4,0.0,13038.59588444,0,Diesel,SAND_C_R
+461,,,Fleet 8,Zipper,Rodeo,Moody Center,83.5,0.0,4894.00069872,14658,DGB,SAND_C_R
+537,68.6,85.7,Fleet 8,Zipper,Longhorn,Moody Center,83.5,0.0,6339.249005320001,13876,DGB,SAND_C_R
+549,76.2,91.3,Fleet 8,Zipper,Bluebonnet,Moody Center,83.5,0.0,6871.416768720001,14671,DGB,SAND_C_X
+543,68.6,81.5,Fleet 8,Zipper,Cowboy,Moody Center,83.5,0.0,5965.96835772,13873,DGB,SAND_C_X
+662,,,Fleet 7,Simul,Pecan Tree,Gregory Gym,83.6,0.0,11906.8200622,23549,DGB,SAND_C_R
+678,160.0,173.1,Fleet 7,Simul,Pecan Tree,Gregory Gym,83.6,0.0,12663.511278320002,24372,DGB,SAND_C_X
+510,106.7,,Fleet 7,Simul,Bluebonnet,Gregory Gym,83.6,0.0,7391.92818476,13328,DGB,SAND_C_R
+540,96.0,113.5,Fleet 7,Simul,Longhorn,Gregory Gym,83.6,0.0,8045.09993504,12820,DGB,SAND_C_A
+563,96.0,,Fleet 7,Simul,Longhorn,Gregory Gym,83.6,0.0,8005.13531552,12626,DGB,SAND_C_A
+518,106.7,124.3,Fleet 7,Simul,Lone Star,Gregory Gym,83.6,0.0,7473.66138232,14178,DGB,SAND_C_X
+397,109.3,,Fleet 12,Simul,Longhorn,CPE,83.7,0.0,13751.29826588,0,Diesel,SAND_C_X
+369,120.0,124.4,Fleet 12,Simul,Cowboy,CPE,83.7,0.0,13740.33574872,0,Diesel,SAND_C_A
+324,109.3,122.0,Fleet 12,Simul,Longhorn,CPE,83.7,0.0,12732.20046812,0,Diesel,SAND_C_A
+354,120.0,,Fleet 12,Simul,Cowboy,CPE,83.7,0.0,13444.62531748,0,Diesel,SAND_C_A
+305,,119.7,Fleet 12,Simul,Longhorn,CPE,83.7,0.0,12688.90546364,0,Diesel,SAND_C_X
+305,120.0,127.0,Fleet 12,Simul,Cowboy,CPE,83.7,0.0,13399.2488224,0,Diesel,SAND_C_R
+303,73.1,,Fleet 5,Zipper,Rodeo,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_X
+325,85.7,80.3,Fleet 5,Zipper,Longhorn,West Campus,83.7,0.0,0.0,16740,Turbine,SAND_C_X
+395,,79.8,Fleet 5,Zipper,Longhorn,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_X
+386,62.9,76.4,Fleet 5,Zipper,Monarch Butterfly,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_X
+380,76.2,91.8,Fleet 5,Zipper,Bluebonnet,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_X
+321,76.2,93.4,Fleet 5,Zipper,Cowboy,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_A
+646,,,Fleet 7,Simul,Monarch Butterfly,DKR,84.0,0.0,7063.46896808,12015,DGB,SAND_C_A
+617,80.0,124.0,Fleet 7,Simul,Cowboy,DKR,84.0,0.0,7168.3760943199995,13039,DGB,SAND_C_A
+532,106.7,124.7,Fleet 7,Simul,Bluebonnet,DKR,84.1,0.0,5541.483041359999,10478,DGB,SAND_C_R
+495,106.7,122.3,Fleet 1,Simul,Bluebonnet,Moody Center,84.2,0.0,0.0,19353,Turbine,SAND_C_X
+511,96.0,111.4,Fleet 1,Simul,Longhorn,Moody Center,84.2,0.0,0.0,17788,Turbine,SAND_C_R
+511,106.7,119.8,Fleet 1,Simul,Monarch Butterfly,Moody Center,84.2,0.0,0.0,19916,Turbine,SAND_C_A
+463,96.0,116.0,Fleet 1,Simul,Cowboy,Moody Center,84.2,0.0,0.0,14865,Turbine,SAND_C_A
+382,96.0,116.1,Fleet 2,Simul,Longhorn,Guadalupe,84.45,0.0,386.32465536,13664,DGB,SAND_C_X
+397,96.0,112.4,Fleet 2,Simul,Cowboy,Guadalupe,84.7,0.0,386.32465536,13664,DGB,SAND_C_X
+344,96.0,113.9,Fleet 2,Simul,Cowboy,Guadalupe,84.7,0.0,386.32465536,13664,DGB,SAND_C_X
+306,96.0,110.6,Fleet 2,Simul,Longhorn,Guadalupe,84.7,0.0,386.32465536,13664,DGB,SAND_C_X
+310,96.0,112.9,Fleet 2,Simul,Cowboy,Guadalupe,84.7,0.0,386.32465536,13664,DGB,SAND_C_R
+330,68.6,89.3,Fleet 11,Zipper,Bluebonnet,CPE,84.8,0.0,11203.55377148,0,Diesel,SAND_C_R
+349,68.6,86.6,Fleet 11,Zipper,Bluebonnet,CPE,84.8,0.0,11094.206131960002,0,Diesel,SAND_C_R
+325,68.6,85.1,Fleet 11,Zipper,Bluebonnet,CPE,84.8,0.0,10854.41841484,0,Diesel,SAND_C_X
+448,114.3,137.3,Fleet 4,Zipper,Pecan Tree,West Campus,84.9,0.0,2394.82431832,30737,DGB,SAND_C_R
+495,114.3,138.9,Fleet 4,Zipper,Pecan Tree,West Campus,84.9,0.0,2394.82431832,30975,DGB,SAND_C_R
+399,96.0,107.3,Fleet 12,Simul,Bluebonnet,Guadalupe,84.9,0.0,13279.910028,0,Diesel,SAND_C_X
+420,96.0,103.5,Fleet 12,Simul,Bluebonnet,Guadalupe,84.9,0.0,12979.34278536,0,Diesel,SAND_C_X
+391,96.0,104.5,Fleet 12,Simul,Monarch Butterfly,Guadalupe,84.9,0.0,11101.560732080005,0,Diesel,SAND_C_A
+314,102.4,110.0,Fleet 12,Simul,Rodeo,Guadalupe,84.9,0.0,9917.74764484,0,Diesel,SAND_C_X
+384,102.4,109.9,Fleet 12,Simul,Rodeo,Guadalupe,84.9,0.0,9407.78244784,0,Diesel,SAND_C_X
+557,160.0,181.3,Fleet 2,Simul,Pecan Tree,DKR,84.9,8802.58468,0.0,0,Grid,SAND_C_A
+620,160.0,184.1,Fleet 2,Simul,Pecan Tree,DKR,84.9,8611.884588,0.0,0,Grid,SAND_C_X
+538,160.0,187.0,Fleet 2,Simul,Pecan Tree,DKR,84.92500000000001,8841.263112,0.0,0,Grid,SAND_C_A
+301,,129.6,Fleet 8,Zipper,Pecan Tree,West Campus,84.95,0.0,7183.77912476,10643,DGB,SAND_C_A
+271,114.3,130.6,Fleet 8,Zipper,Pecan Tree,West Campus,84.975,0.0,7087.05919488,10664,DGB,SAND_C_A
+239,,131.0,Fleet 8,Zipper,Pecan Tree,West Campus,85.0,0.0,7096.07898748,10282,DGB,SAND_C_X
+503,106.7,117.6,Fleet 7,Simul,Bluebonnet,DKR,85.0,0.0,6481.20666424,10721,DGB,SAND_C_X
+637,90.0,111.2,Fleet 7,Simul,Longhorn,DKR,85.0,0.0,8132.245008160001,13415,DGB,SAND_C_R
+517,106.7,,Fleet 7,Simul,Cowboy,DKR,85.0,0.0,5768.36551676,10727,DGB,SAND_C_X
+433,,117.2,Fleet 7,Simul,Rodeo,DKR,85.0,0.0,4685.99040476,8483,DGB,SAND_C_A
+465,106.7,118.3,Fleet 7,Simul,Monarch Butterfly,DKR,85.0,0.0,5189.1560658,10080,DGB,SAND_C_X
+512,120.0,136.8,Fleet 7,Simul,Longhorn,DKR,85.0,0.0,6001.35369792,12251,DGB,SAND_C_X
+622,62.9,77.9,Fleet 4,Zipper,Monarch Butterfly,DKR,85.0,0.0,0.0,19288,Turbine,SAND_C_R
+605,62.9,78.0,Fleet 4,Zipper,Monarch Butterfly,DKR,85.0,0.0,0.0,19288,Turbine,SAND_C_X
+575,62.9,76.2,Fleet 4,Zipper,Monarch Butterfly,DKR,85.0,0.0,0.0,19288,Turbine,SAND_C_A
+530,,122.9,Fleet 1,Simul,Bluebonnet,Gregory Gym,85.0,0.0,0.0,18616,Turbine,SAND_C_X
+566,106.7,123.3,Fleet 1,Simul,Bluebonnet,Gregory Gym,85.0,0.0,0.0,18865,Turbine,SAND_C_A
+562,96.0,119.1,Fleet 1,Simul,Longhorn,Gregory Gym,85.0,0.0,0.0,18117,Turbine,SAND_C_X
+569,106.7,121.8,Fleet 1,Simul,Lone Star,Gregory Gym,85.0,0.0,0.0,17989,Turbine,SAND_C_X
+347,76.2,,Fleet 8,Zipper,Bluebonnet,Gregory Gym,85.2,0.0,4671.5587366,10787,DGB,SAND_C_X
+338,76.2,87.4,Fleet 8,Zipper,Bluebonnet,Gregory Gym,85.2,0.0,4998.49152684,10552,DGB,SAND_C_R
+375,76.2,88.1,Fleet 8,Zipper,Bluebonnet,Gregory Gym,85.2,0.0,4661.012517560001,10956,DGB,SAND_C_A
+348,70.7,95.1,Fleet 11,Zipper,Cowboy,Guadalupe,85.2,0.0,13861.61726768,0,Diesel,SAND_C_A
+559,120.0,131.0,Fleet 14,Simul,Cowboy,Turtle Pond,85.2,0.0,21920.871338800003,0,Diesel,SAND_C_A
+517,120.0,130.5,Fleet 14,Simul,Cowboy,Turtle Pond,85.2,0.0,20078.89092384,0,Diesel,SAND_C_A
+555,106.7,123.7,Fleet 14,Simul,Longhorn,Turtle Pond,85.2,0.0,21305.4439514,0,Diesel,SAND_C_A
+508,106.7,126.6,Fleet 14,Simul,Longhorn,Turtle Pond,85.2,0.0,20206.00061648,0,Diesel,SAND_C_X
+536,120.0,131.6,Fleet 14,Simul,Lone Star,Turtle Pond,85.25,0.0,20644.77883496,0,Diesel,SAND_C_R
+567,120.0,133.9,Fleet 14,Simul,Lone Star,Turtle Pond,85.3,0.0,21195.1249496,0,Diesel,SAND_C_R
+480,120.0,,Fleet 14,Simul,Lone Star,Turtle Pond,85.3,0.0,21195.1249496,0,Diesel,SAND_C_R
+575,120.0,134.5,Fleet 14,Simul,Cowboy,Turtle Pond,85.3,0.0,21195.1249496,0,Diesel,SAND_C_R
+493,109.3,123.6,Fleet 14,Simul,Longhorn,Turtle Pond,85.3,0.0,19433.76760388,0,Diesel,SAND_C_X
+532,,125.9,Fleet 14,Simul,Longhorn,Turtle Pond,85.3,0.0,19433.76760388,0,Diesel,SAND_C_R
+290,73.1,86.9,Fleet 4,Zipper,Rodeo,Guadalupe,85.3,0.0,0.0,8041,Turbine,SAND_C_A
+317,76.2,97.7,Fleet 4,Zipper,Longhorn,Guadalupe,85.3,0.0,0.0,13672,Turbine,SAND_C_A
+363,76.2,93.0,Fleet 4,Zipper,Cowboy,Guadalupe,85.3,0.0,0.0,13556,Turbine,SAND_C_X
+362,78.1,94.4,Fleet 10,Zipper,Longhorn,CPE,85.6,0.0,14318.15753928,0,Diesel,SAND_C_A
+348,,95.4,Fleet 10,Zipper,Longhorn,CPE,85.69999999999999,0.0,14936.082715400002,0,Diesel,SAND_C_A
+360,114.3,,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,7166.849667880001,13655,DGB,SAND_C_R
+401,114.3,128.7,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,5355.12024964,11991,DGB,SAND_C_X
+360,,,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,7056.391900040001,13784,DGB,SAND_C_A
+340,,84.7,Fleet 2,Simul,Bluebonnet,Gregory Gym,85.8,0.0,11754.73248236,0,Diesel,SAND_C_R
+263,102.4,,Fleet 2,Simul,Rodeo,Gregory Gym,85.8,0.0,9305.92817448,0,Diesel,SAND_C_R
+496,96.0,85.5,Fleet 2,Simul,Bluebonnet,Turtle Pond,85.9,0.0,17672.13272608,0,Diesel,SAND_C_R
+569,96.0,84.7,Fleet 2,Simul,Bluebonnet,Turtle Pond,85.9,0.0,19134.588021640004,0,Diesel,SAND_C_X
+471,102.4,88.6,Fleet 2,Simul,Rodeo,Turtle Pond,85.9,0.0,15455.484003119998,0,Diesel,SAND_C_X
+378,70.7,103.1,Fleet 11,Zipper,Cowboy,Guadalupe,85.95,0.0,14241.142387080004,0,Diesel,SAND_C_A
+364,70.7,,Fleet 11,Zipper,Cowboy,Guadalupe,86.0,0.0,13816.79583676,0,Diesel,SAND_C_X
+570,76.2,88.8,Fleet 6,Zipper,Longhorn,Turtle Pond,86.03333333333333,0.0,7601.74243724,14214,DGB,SAND_C_X
+550,85.7,99.7,Fleet 6,Zipper,Lone Star,Turtle Pond,86.06666666666666,0.0,8609.183887640002,16388,DGB,SAND_C_X
+495,85.7,100.0,Fleet 6,Zipper,Lone Star,Turtle Pond,86.1,0.0,8595.168517600001,15891,DGB,SAND_C_A
+535,85.7,99.9,Fleet 6,Zipper,Cowboy,Turtle Pond,86.1,0.0,8899.62120936,16217,DGB,SAND_C_A
+307,85.7,98.0,Fleet 15,Zipper,Lone Star,CPE,86.5,0.0,14463.029285039998,0,Diesel,SAND_C_R
+316,85.7,97.9,Fleet 15,Zipper,Lone Star,CPE,86.5,0.0,14528.943154039998,0,Diesel,SAND_C_X
+334,85.7,,Fleet 15,Zipper,Lone Star,CPE,86.5,0.0,13939.18748404,0,Diesel,SAND_C_X
+290,,126.7,Fleet 12,Simul,Bluebonnet,Moody Center,86.6,0.0,10908.95346856,0,Diesel,SAND_C_X
+278,,,Fleet 12,Simul,Bluebonnet,Moody Center,86.6,0.0,11334.96521136,0,Diesel,SAND_C_X
+368,92.0,100.5,Fleet 12,Simul,Monarch Butterfly,Moody Center,86.6,0.0,9695.860746880002,0,Diesel,SAND_C_R
+386,92.0,,Fleet 12,Simul,Monarch Butterfly,Moody Center,86.6,0.0,10852.1981582,0,Diesel,SAND_C_R
+526,96.0,,Fleet 2,Simul,Monarch Butterfly,Guadalupe,86.7,0.0,16816.08502532,0,Diesel,SAND_C_R
+389,102.4,92.9,Fleet 2,Simul,Rodeo,Guadalupe,86.7,0.0,15755.21864952,0,Diesel,SAND_C_X
+523,96.0,102.5,Fleet 2,Simul,Longhorn,Guadalupe,86.7,0.0,19102.25553432,0,Diesel,SAND_C_R
+536,96.0,,Fleet 2,Simul,Bluebonnet,Guadalupe,86.7,0.0,18134.91746948,0,Diesel,SAND_C_X
+519,96.0,90.2,Fleet 2,Simul,Lone Star,Guadalupe,86.7,0.0,18639.33202488,0,Diesel,SAND_C_X
+543,96.0,92.0,Fleet 2,Simul,Longhorn,Guadalupe,86.7,0.0,18042.49928684,0,Diesel,SAND_C_R
+437,114.3,134.1,Fleet 8,Zipper,Pecan Tree,CPE,86.8,0.0,10551.49214952,16186,DGB,SAND_C_X
+450,114.3,133.9,Fleet 8,Zipper,Pecan Tree,CPE,86.8,0.0,10873.42936232,18032,DGB,SAND_C_X
+373,120.0,131.7,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,13129.07134252,0,Diesel,SAND_C_X
+325,120.0,131.0,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,13094.6573646,0,Diesel,SAND_C_X
+323,,131.4,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,12757.87218552,0,Diesel,SAND_C_A
+323,120.0,132.0,Fleet 14,Simul,Cowboy,The Tower,86.8,0.0,13098.40404768,0,Diesel,SAND_C_A
+310,120.0,132.2,Fleet 14,Simul,Cowboy,The Tower,86.8,0.0,13065.37773016,0,Diesel,SAND_C_A
+674,57.1,71.0,Fleet 4,Zipper,Cowboy,Moody Center,87.0,0.0,0.0,22047,Turbine,SAND_C_X
+606,57.1,71.3,Fleet 4,Zipper,Cowboy,Moody Center,87.0,0.0,0.0,21447,Turbine,SAND_C_A
+522,57.1,70.1,Fleet 4,Zipper,Cowboy,Moody Center,87.0,0.0,0.0,12229,Turbine,SAND_C_X
+464,,100.6,Fleet 10,Zipper,Longhorn,Turtle Pond,87.2,0.0,17963.9577082,0,Diesel,SAND_C_R
+437,78.1,100.0,Fleet 10,Zipper,Longhorn,Turtle Pond,87.4,0.0,19275.2967862,0,Diesel,SAND_C_X
+432,78.1,106.1,Fleet 10,Zipper,Longhorn,Turtle Pond,87.4,0.0,19405.59809776,0,Diesel,SAND_C_A
+396,68.6,79.9,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10051.5181074,0,Diesel,SAND_C_A
+350,68.6,80.3,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10330.99291196,0,Diesel,SAND_C_X
+311,,,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10274.37636764,0,Diesel,SAND_C_X
+517,68.6,91.0,Fleet 11,Zipper,Monarch Butterfly,Guadalupe,87.75,0.0,17636.60861984,0,Diesel,SAND_C_A
+442,73.1,94.9,Fleet 11,Zipper,Rodeo,Guadalupe,87.9,0.0,15917.158618200005,0,Diesel,SAND_C_X
+537,68.6,96.0,Fleet 11,Zipper,Lone Star,Guadalupe,87.9,0.0,20133.703509640003,0,Diesel,SAND_C_X
+536,68.6,92.8,Fleet 11,Zipper,Bluebonnet,Guadalupe,87.9,0.0,19641.22283368,0,Diesel,SAND_C_X
+496,68.6,96.8,Fleet 11,Zipper,Longhorn,Guadalupe,87.9,0.0,19689.374649560003,0,Diesel,SAND_C_R
+265,70.7,85.7,Fleet 15,Zipper,Cowboy,Guadalupe,88.0,0.0,11042.16886696,0,Diesel,SAND_C_X
+299,70.7,88.3,Fleet 15,Zipper,Cowboy,Guadalupe,88.0,0.0,10868.711316960002,0,Diesel,SAND_C_R
+296,70.7,84.3,Fleet 15,Zipper,Longhorn,Guadalupe,88.0,0.0,10584.657233080005,0,Diesel,SAND_C_X
+299,70.7,,Fleet 15,Zipper,Longhorn,Guadalupe,88.0,0.0,10872.73553212,0,Diesel,SAND_C_R
+533,,145.9,Fleet 14,Simul,Lone Star,Guadalupe,88.0,0.0,16727.27475972,0,Diesel,SAND_C_X
+540,106.7,129.0,Fleet 14,Simul,Longhorn,Guadalupe,88.0,0.0,18089.26344232,0,Diesel,SAND_C_A
+510,106.7,128.0,Fleet 14,Simul,Lone Star,Guadalupe,88.0,0.0,21362.47679384,0,Diesel,SAND_C_A
+518,,124.7,Fleet 14,Simul,Longhorn,Guadalupe,88.0,0.0,19508.84003152,0,Diesel,SAND_C_A
+518,106.7,125.8,Fleet 14,Simul,Longhorn,Guadalupe,88.05,0.0,18863.57794552,0,Diesel,SAND_C_X
+374,68.6,84.3,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12238.74842988,0,Diesel,SAND_C_A
+368,68.6,85.1,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12276.49279276,0,Diesel,SAND_C_A
+302,,85.7,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12253.180098039998,0,Diesel,SAND_C_R
+551,76.2,97.5,Fleet 6,Zipper,Bluebonnet,Guadalupe,88.13333333333333,0.0,6654.66421424,15469,DGB,SAND_C_A
+565,76.2,,Fleet 6,Zipper,Bluebonnet,Guadalupe,88.16666666666667,0.0,6503.131698560001,15239,DGB,SAND_C_A
+443,73.1,97.9,Fleet 6,Zipper,Rodeo,Guadalupe,88.2,0.0,5414.0958166400005,11918,DGB,SAND_C_A
+445,73.1,,Fleet 6,Zipper,Rodeo,Guadalupe,88.2,0.0,5514.42366356,11992,DGB,SAND_C_R
+302,96.0,102.9,Fleet 14,Simul,Monarch Butterfly,Guadalupe,88.2,0.0,9297.46344604,0,Diesel,SAND_C_X
+377,96.0,103.6,Fleet 14,Simul,Monarch Butterfly,Guadalupe,88.2,0.0,9353.10862808,0,Diesel,SAND_C_X
+261,102.4,107.0,Fleet 14,Simul,Rodeo,Guadalupe,88.2,0.0,8500.530078320002,0,Diesel,SAND_C_R
+298,,,Fleet 14,Simul,Rodeo,Guadalupe,88.2,0.0,8387.85205384,0,Diesel,SAND_C_A
+388,96.0,104.7,Fleet 14,Simul,Bluebonnet,Guadalupe,88.2,0.0,9314.11537084,0,Diesel,SAND_C_R
+318,,105.3,Fleet 14,Simul,Bluebonnet,Guadalupe,88.2,0.0,9338.2606618,0,Diesel,SAND_C_R
+385,76.2,,Fleet 4,Zipper,Bluebonnet,Gregory Gym,88.4,0.0,0.0,13975,Turbine,SAND_C_R
+320,76.2,91.3,Fleet 4,Zipper,Bluebonnet,Gregory Gym,88.4,0.0,0.0,13532,Turbine,SAND_C_R
+350,76.2,92.5,Fleet 4,Zipper,Lone Star,Gregory Gym,88.4,0.0,0.0,13887,Turbine,SAND_C_R
+391,85.7,,Fleet 4,Zipper,Longhorn,Gregory Gym,88.4,0.0,0.0,15583,Turbine,SAND_C_X
+332,85.7,,Fleet 4,Zipper,Longhorn,Gregory Gym,88.4,0.0,0.0,15554,Turbine,SAND_C_R
+369,76.2,93.8,Fleet 4,Zipper,Lone Star,Gregory Gym,88.4,0.0,0.0,13932,Turbine,SAND_C_R
+444,96.0,112.3,Fleet 1,Simul,Cowboy,Moody Center,88.7,0.0,0.0,18555,Turbine,SAND_C_X
+434,106.7,117.6,Fleet 1,Simul,Monarch Butterfly,Moody Center,88.7,0.0,0.0,19741,Turbine,SAND_C_X
+490,96.0,114.9,Fleet 1,Simul,Longhorn,Moody Center,88.7,0.0,0.0,18455,Turbine,SAND_C_X
+493,106.7,116.4,Fleet 1,Simul,Bluebonnet,Moody Center,88.7,0.0,0.0,19950,Turbine,SAND_C_X
+411,102.4,115.0,Fleet 1,Simul,Rodeo,Moody Center,88.7,0.0,0.0,13868,Turbine,SAND_C_A
+408,102.4,116.7,Fleet 1,Simul,Rodeo,Moody Center,88.80000000000001,0.0,0.0,15950,Turbine,SAND_C_X
+475,133.3,145.4,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,8574.21484556,15795,DGB,SAND_C_X
+535,,129.9,Fleet 9,Simul,Longhorn,Gregory Gym,88.9,0.0,7502.663484680001,13731,DGB,SAND_C_X
+520,120.0,131.3,Fleet 9,Simul,Longhorn,Gregory Gym,88.9,0.0,8796.240509559999,13868,DGB,SAND_C_X
+480,,,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,9843.64657948,15656,DGB,SAND_C_R
+477,120.0,,Fleet 9,Simul,Longhorn,Gregory Gym,88.9,0.0,7207.508117600001,14729,DGB,SAND_C_R
+548,133.3,136.6,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,10198.19381168,14717,DGB,SAND_C_X
+509,85.7,97.5,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8928.345779640002,15526,DGB,SAND_C_R
+557,76.2,97.6,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8258.52210456,13961,DGB,SAND_C_X
+530,,97.9,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8743.648180400001,15274,DGB,SAND_C_X
+498,76.2,84.5,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8162.496004880001,13963,DGB,SAND_C_X
+480,85.7,97.2,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8371.616427160001,15737,DGB,SAND_C_A
+488,,91.0,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8088.672471600002,14169,DGB,SAND_C_X
+444,64.3,,Fleet 4,Zipper,Longhorn,CPE,89.1,0.0,0.0,16803,Turbine,SAND_C_A
+444,64.3,,Fleet 4,Zipper,Longhorn,CPE,89.1,0.0,0.0,17044,Turbine,SAND_C_X
+576,106.7,127.0,Fleet 1,Simul,Bluebonnet,DKR,89.4,0.0,0.0,26007,Turbine,SAND_C_A
+540,133.3,146.7,Fleet 1,Simul,Cowboy,DKR,89.4,0.0,0.0,28659,Turbine,SAND_C_A
+599,120.0,137.9,Fleet 1,Simul,Longhorn,DKR,89.4,0.0,0.0,30587,Turbine,SAND_C_R
+652,120.0,,Fleet 1,Simul,Longhorn,DKR,89.4,0.0,0.0,27337,Turbine,SAND_C_R
+582,106.7,132.0,Fleet 1,Simul,Monarch Butterfly,DKR,89.4,0.0,0.0,25208,Turbine,SAND_C_A
+513,102.4,121.1,Fleet 1,Simul,Rodeo,DKR,89.4,0.0,0.0,19633,Turbine,SAND_C_X
+337,73.1,133.9,Fleet 5,Zipper,Rodeo,West Campus,89.4,0.0,0.0,15128,Turbine,SAND_C_A
+420,62.9,132.9,Fleet 5,Zipper,Monarch Butterfly,West Campus,89.4,0.0,0.0,15128,Turbine,SAND_C_A
+480,85.7,134.5,Fleet 5,Zipper,Longhorn,West Campus,89.4,0.0,0.0,15128,Turbine,SAND_C_X
+431,120.0,132.1,Fleet 14,Simul,Lone Star,The Tower,89.5,0.0,17571.9436452,0,Diesel,SAND_C_A
+480,90.0,107.3,Fleet 14,Simul,Longhorn,The Tower,89.5,0.0,18784.203770640004,0,Diesel,SAND_C_X
+478,120.0,,Fleet 14,Simul,Lone Star,The Tower,89.5,0.0,19750.70923924,0,Diesel,SAND_C_X
+415,,129.5,Fleet 14,Simul,Lone Star,The Tower,89.5,0.0,18049.298822800003,0,Diesel,SAND_C_R
+529,,,Fleet 4,Zipper,Monarch Butterfly,DKR,89.5,0.0,0.0,22025,Turbine,SAND_C_A
+553,76.2,,Fleet 4,Zipper,Bluebonnet,DKR,89.5,0.0,0.0,22684,Turbine,SAND_C_R
+576,95.2,120.2,Fleet 4,Zipper,Cowboy,DKR,89.63333333333334,0.0,0.0,28961,Turbine,SAND_C_X
+313,106.7,144.3,Fleet 9,Simul,Lone Star,Gregory Gym,89.76666666666667,0.0,4261.505088399999,7919,DGB,SAND_C_X
+389,106.7,140.6,Fleet 9,Simul,Lone Star,Gregory Gym,89.9,0.0,4600.788056200001,7410,DGB,SAND_C_X
+350,106.7,,Fleet 9,Simul,Lone Star,Gregory Gym,89.9,0.0,4293.4212776,7400,DGB,SAND_C_R
+327,120.0,147.2,Fleet 9,Simul,Longhorn,Gregory Gym,89.9,0.0,5191.5150884800005,7911,DGB,SAND_C_A
+357,120.0,,Fleet 9,Simul,Longhorn,Gregory Gym,89.9,0.0,5168.75745792,8206,DGB,SAND_C_X
+370,120.0,132.5,Fleet 9,Simul,Longhorn,Gregory Gym,89.9,0.0,4494.07697144,8174,DGB,SAND_C_A
+322,106.7,118.2,Fleet 14,Simul,Monarch Butterfly,Moody Center,90.1,0.0,9885.831455640002,0,Diesel,SAND_C_X
+312,106.7,118.1,Fleet 14,Simul,Monarch Butterfly,Moody Center,90.1,0.0,9020.62519624,0,Diesel,SAND_C_R
+296,106.7,118.2,Fleet 14,Simul,Monarch Butterfly,Moody Center,90.1,0.0,9142.73931144,0,Diesel,SAND_C_X
+322,106.7,117.7,Fleet 14,Simul,Monarch Butterfly,Moody Center,90.1,0.0,10601.58668996,0,Diesel,SAND_C_A
+369,106.7,118.2,Fleet 14,Simul,Monarch Butterfly,Moody Center,90.1,0.0,9774.40232552,0,Diesel,SAND_C_A
