@@ -8,7 +8,6 @@ my_data = my_data.iloc[:,1:]
 
 # Select only numeric columns for correlation
 numeric_data = my_data.select_dtypes(include=[np.number])
-
 def plot_corr(dataframe,size=10):                       # plots a correlation matrix as a heat map 
     corr = dataframe.corr()
     fig, ax = plt.subplots(figsize=(size, size))
@@ -22,3 +21,4 @@ def plot_corr(dataframe,size=10):                       # plots a correlation ma
 
 # Plot correlation using only numeric columns
 plot_corr(numeric_data)
+
