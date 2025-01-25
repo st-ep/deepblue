@@ -6,7 +6,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 76.2,90.8,Fleet 8,Zipper,Longhorn,Gregory Gym,38.1,0.0,9388.77150036,14975,DGB,SAND_C_X
 88.0,97.2,Fleet 12,Simul,Monarch Butterfly,DKR,38.7,0.0,7378.884177,0,Diesel,SAND_C_A
 102.4,108.4,Fleet 12,Simul,Rodeo,DKR,38.7,0.0,6919.01352044,0,Diesel,SAND_C_R
-100.97523641342221,100.5,Fleet 12,Simul,Cowboy,DKR,38.7,0.0,6697.40415456,0,Diesel,SAND_C_A
+100.97523641342222,100.5,Fleet 12,Simul,Cowboy,DKR,38.7,0.0,6697.40415456,0,Diesel,SAND_C_A
 80.0,104.6,Fleet 12,Simul,Longhorn,DKR,38.7,0.0,6789.683571160001,0,Diesel,SAND_C_A
 100.54882566101342,104.9,Fleet 12,Simul,Bluebonnet,DKR,38.7,0.0,7758.27053036,0,Diesel,SAND_C_A
 80.0,98.2,Fleet 12,Simul,Longhorn,DKR,38.7,0.0,7608.125675080001,0,Diesel,SAND_C_R
@@ -19,14 +19,14 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 120.0,131.2,Fleet 9,Simul,Lone Star,CPE,39.6,0.0,5104.92507952,4235,DGB,SAND_C_X
 120.0,129.0,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,5790.8456152399995,4222,DGB,SAND_C_A
 120.0,131.4,Fleet 9,Simul,Lone Star,CPE,39.6,0.0,6192.85083312,4235,DGB,SAND_C_X
-102.47379567562142,,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,6518.6734950400005,4132,DGB,SAND_C_A
+102.47379567562146,,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,6518.6734950400005,4132,DGB,SAND_C_A
 120.0,133.3,Fleet 9,Simul,Lone Star,CPE,39.6,0.0,6525.611797040001,4249,DGB,SAND_C_R
 120.0,129.7,Fleet 9,Simul,Longhorn,CPE,39.6,0.0,5550.91913208,4112,DGB,SAND_C_R
 57.1,75.5,Fleet 8,Zipper,Longhorn,DKR,40.1,0.0,3398.3803196000003,6411,DGB,SAND_C_X
 57.1,70.8,Fleet 8,Zipper,Cowboy,DKR,40.1,0.0,3424.60710116,6014,DGB,SAND_C_X
 73.1,86.0,Fleet 8,Zipper,Rodeo,DKR,40.1,0.0,3219.7884261199997,5682,DGB,SAND_C_X
 95.2,,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,15192.7998894,0,Diesel,SAND_C_A
-81.31931579691646,111.1,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,14672.427239400002,0,Diesel,SAND_C_X
+81.31931579691644,111.1,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,14672.427239400002,0,Diesel,SAND_C_X
 85.7,108.1,Fleet 10,Zipper,Longhorn,DKR,40.1,0.0,14340.360105680002,0,Diesel,SAND_C_R
 95.2,111.4,Fleet 10,Zipper,Cowboy,DKR,40.1,0.0,15118.69882404,0,Diesel,SAND_C_X
 85.7,,Fleet 10,Zipper,Longhorn,DKR,40.1,0.0,14659.2444656,0,Diesel,SAND_C_X
@@ -39,29 +39,29 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 96.0,122.3,Fleet 12,Simul,Rodeo,DKR,40.5,0.0,9906.368829560002,0,Diesel,SAND_C_X
 96.0,108.1,Fleet 12,Simul,Rodeo,DKR,40.5,0.0,8605.02090644,0,Diesel,SAND_C_A
 96.0,109.7,Fleet 12,Simul,Rodeo,DKR,40.5,0.0,10557.736621320002,0,Diesel,SAND_C_A
-102.43199836707537,75.0,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,10672.218604320002,0,Diesel,SAND_C_A
+102.4319983670754,75.0,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,10672.218604320002,0,Diesel,SAND_C_A
 106.7,19.2,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,10522.351281120002,0,Diesel,SAND_C_A
 106.7,117.4,Fleet 12,Simul,Bluebonnet,DKR,40.5,0.0,11364.52237788,0,Diesel,SAND_C_X
 71.67307083628974,87.5,Fleet 15,Zipper,Bluebonnet,West Campus,41.7,0.0,12081.80403864,0,Diesel,SAND_C_R
 76.2,90.0,Fleet 15,Zipper,Bluebonnet,West Campus,41.7,0.0,11993.27130512,0,Diesel,SAND_C_X
 76.2,,Fleet 15,Zipper,Bluebonnet,West Campus,41.7,0.0,11952.75162144,0,Diesel,SAND_C_X
-103.03434283821011,123.6,Fleet 1,Simul,Cowboy,Moody Center,41.8,0.0,0.0,10439,Turbine,SAND_C_R
+103.03434283821014,123.6,Fleet 1,Simul,Cowboy,Moody Center,41.8,0.0,0.0,10439,Turbine,SAND_C_R
 106.7,121.9,Fleet 1,Simul,Bluebonnet,Moody Center,41.8,0.0,0.0,9780,Turbine,SAND_C_X
 106.7,122.3,Fleet 1,Simul,Bluebonnet,Moody Center,41.8,0.0,0.0,9894,Turbine,SAND_C_R
 102.4,124.9,Fleet 1,Simul,Rodeo,Moody Center,41.8,0.0,0.0,8639,Turbine,SAND_C_A
-102.55476150394527,,Fleet 1,Simul,Monarch Butterfly,Moody Center,41.8,0.0,0.0,9469,Turbine,SAND_C_A
+102.55476150394529,,Fleet 1,Simul,Monarch Butterfly,Moody Center,41.8,0.0,0.0,9469,Turbine,SAND_C_A
 120.0,141.0,Fleet 12,Simul,Longhorn,The Tower,42.2,0.0,14960.08924032,0,Diesel,SAND_C_A
 133.3,,Fleet 12,Simul,Cowboy,The Tower,42.2,0.0,15090.1130198,0,Diesel,SAND_C_A
 133.3,117.7,Fleet 12,Simul,Lone Star,The Tower,42.2,0.0,14143.17356284,0,Diesel,SAND_C_X
-119.16221880974254,140.7,Fleet 12,Simul,Cowboy,The Tower,42.45,0.0,14506.18552348,0,Diesel,SAND_C_X
+119.16221880974253,140.7,Fleet 12,Simul,Cowboy,The Tower,42.45,0.0,14506.18552348,0,Diesel,SAND_C_X
 72.0,84.4,Fleet 14,Simul,Rodeo,DKR,42.7,0.0,14691.160654800002,0,Diesel,SAND_C_A
-104.11951856183512,89.3,Fleet 14,Simul,Bluebonnet,DKR,42.7,0.0,12053.35700044,0,Diesel,SAND_C_X
+104.1195185618351,89.3,Fleet 14,Simul,Bluebonnet,DKR,42.7,0.0,12053.35700044,0,Diesel,SAND_C_X
 80.0,100.1,Fleet 14,Simul,Bluebonnet,DKR,42.7,0.0,11061.7348786,0,Diesel,SAND_C_X
 90.0,99.7,Fleet 14,Simul,Longhorn,DKR,42.7,0.0,10327.662527,0,Diesel,SAND_C_X
 100.0,87.3,Fleet 14,Simul,Cowboy,DKR,42.7,0.0,14045.065972560002,0,Diesel,SAND_C_X
 100.0,,Fleet 14,Simul,Cowboy,DKR,42.7,0.0,14509.65467448,0,Diesel,SAND_C_X
 102.4,116.3,Fleet 2,Simul,Rodeo,Guadalupe,42.7,0.0,0.0,7081,Turbine,SAND_C_R
-106.12284157472772,116.9,Fleet 2,Simul,Rodeo,Guadalupe,42.7,0.0,0.0,5951,Turbine,SAND_C_X
+106.12284157472773,116.9,Fleet 2,Simul,Rodeo,Guadalupe,42.7,0.0,0.0,5951,Turbine,SAND_C_X
 106.7,118.6,Fleet 2,Simul,Longhorn,Guadalupe,42.7,0.0,0.0,7631,Turbine,SAND_C_X
 106.7,125.3,Fleet 2,Simul,Longhorn,Guadalupe,42.7,0.0,0.0,7855,Turbine,SAND_C_R
 106.7,,Fleet 2,Simul,Bluebonnet,Guadalupe,42.7,0.0,0.0,7771,Turbine,SAND_C_R
@@ -74,7 +74,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 120.0,124.0,Fleet 14,Simul,Lone Star,Gregory Gym,42.9,0.0,13674.0055816,0,Diesel,SAND_C_A
 120.0,124.7,Fleet 14,Simul,Lone Star,Gregory Gym,42.9,0.0,14966.05618004,0,Diesel,SAND_C_R
 112.47226016735674,124.5,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,15452.708682320002,0,Diesel,SAND_C_A
-112.42391616512221,126.0,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,14737.92481028,0,Diesel,SAND_C_X
+112.42391616512225,126.0,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,14737.92481028,0,Diesel,SAND_C_X
 106.7,125.6,Fleet 14,Simul,Longhorn,Gregory Gym,42.9,0.0,15624.3622738,0,Diesel,SAND_C_A
 73.1,91.2,Fleet 6,Zipper,Rodeo,West Campus,43.1,0.0,8375.36311024,0,Diesel,SAND_C_X
 76.2,,Fleet 6,Zipper,Bluebonnet,West Campus,43.1,0.0,10868.850083,0,Diesel,SAND_C_A
@@ -85,7 +85,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 68.6,,Fleet 15,Zipper,Lone Star,Gregory Gym,43.2,0.0,18408.286568280004,0,Diesel,SAND_C_X
 76.2,,Fleet 15,Zipper,Bluebonnet,Gregory Gym,43.2,0.0,18144.07602812,0,Diesel,SAND_C_A
 102.4,110.2,Fleet 2,Simul,Rodeo,Guadalupe,43.3,0.0,0.0,8887,Turbine,SAND_C_X
-96.01657341141492,108.8,Fleet 2,Simul,Cowboy,Guadalupe,43.3,0.0,0.0,10862,Turbine,SAND_C_X
+96.01657341141491,108.8,Fleet 2,Simul,Cowboy,Guadalupe,43.3,0.0,0.0,10862,Turbine,SAND_C_X
 96.0,,Fleet 2,Simul,Longhorn,Guadalupe,43.3,0.0,0.0,11762,Turbine,SAND_C_R
 76.2,91.7,Fleet 4,Zipper,Longhorn,West Campus,43.4,0.0,0.0,14545,Turbine,SAND_C_A
 76.2,100.6,Fleet 4,Zipper,Longhorn,West Campus,43.4,0.0,0.0,15796,Turbine,SAND_C_A
@@ -100,9 +100,9 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 85.7,0.0,Fleet 11,Zipper,Longhorn,West Campus,44.0,0.0,14423.06466552,0,Diesel,SAND_C_A
 76.2,94.0,Fleet 6,Zipper,Cowboy,Guadalupe,44.5,0.0,11544.77946384,3653,DGB,SAND_C_A
 76.2,92.1,Fleet 6,Zipper,Cowboy,Guadalupe,44.5,0.0,11477.894232560002,3547,DGB,SAND_C_A
-79.06334084525217,94.7,Fleet 6,Zipper,Longhorn,Guadalupe,44.5,0.0,11526.87864468,3645,DGB,SAND_C_R
+79.06334084525213,94.7,Fleet 6,Zipper,Longhorn,Guadalupe,44.5,0.0,11526.87864468,3645,DGB,SAND_C_R
 76.2,95.1,Fleet 6,Zipper,Longhorn,Guadalupe,44.5,0.0,11663.285662,3529,DGB,SAND_C_X
-107.16734112419851,138.2,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,18054.8494644,0,Diesel,SAND_C_A
+107.1673411241985,138.2,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,18054.8494644,0,Diesel,SAND_C_A
 120.0,,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,18610.6074546,0,Diesel,SAND_C_R
 120.0,138.0,Fleet 12,Simul,Longhorn,CPE,44.6,0.0,19964.270174800004,0,Diesel,SAND_C_X
 133.3,139.8,Fleet 12,Simul,Lone Star,CPE,44.6,0.0,20421.78180868,0,Diesel,SAND_C_R
@@ -120,23 +120,23 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 72.0,84.8,Fleet 14,Simul,Rodeo,DKR,45.4,0.0,13396.4735016,0,Diesel,SAND_C_R
 72.0,85.0,Fleet 14,Simul,Rodeo,DKR,45.4,0.0,13392.72681852,0,Diesel,SAND_C_A
 72.0,71.8,Fleet 14,Simul,Rodeo,DKR,45.4,0.0,13664.56949088,0,Diesel,SAND_C_X
-106.06186446942311,88.2,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,13020.69506528,0,Diesel,SAND_C_X
+106.0618644694231,88.2,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,13020.69506528,0,Diesel,SAND_C_X
 80.0,-6883214.2,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,12416.50772712,0,Diesel,SAND_C_X
 80.0,91.5,Fleet 14,Simul,Bluebonnet,DKR,45.4,0.0,13183.051332080002,0,Diesel,SAND_C_R
-79.19831854067336,105.0,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
+79.19831854067334,105.0,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
 85.7,,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
 85.7,101.3,Fleet 4,Zipper,Longhorn,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_X
 95.2,109.4,Fleet 4,Zipper,Lone Star,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_R
 95.2,108.8,Fleet 4,Zipper,Lone Star,CPE,45.4,0.0,0.0,15898,Turbine,SAND_C_A
 95.2,,Fleet 4,Zipper,Lone Star,CPE,45.4,0.0,0.0,15899,Turbine,SAND_C_R
-103.66247357618533,111.3,Fleet 2,Simul,Rodeo,Guadalupe,45.4,0.0,0.0,7693,Turbine,SAND_C_A
-102.7883299882068,108.1,Fleet 2,Simul,Magnolia,Guadalupe,45.4,0.0,0.0,9511,Turbine,SAND_C_A
+103.66247357618532,111.3,Fleet 2,Simul,Rodeo,Guadalupe,45.4,0.0,0.0,7693,Turbine,SAND_C_A
+102.78832998820681,108.1,Fleet 2,Simul,Magnolia,Guadalupe,45.4,0.0,0.0,9511,Turbine,SAND_C_A
 106.7,114.1,Fleet 2,Simul,Bluebonnet,Guadalupe,45.4,0.0,0.0,10169,Turbine,SAND_C_X
 96.0,111.0,Fleet 2,Simul,Cowboy,Guadalupe,45.4,0.0,0.0,9275,Turbine,SAND_C_X
 96.0,,Fleet 2,Simul,Cowboy,Guadalupe,45.4,0.0,0.0,9365,Turbine,SAND_C_X
 106.16911447108825,120.1,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12290.36939676,0,Diesel,SAND_C_X
 106.7,,Fleet 14,Simul,Longhorn,Guadalupe,45.5,0.0,11702.00138716,0,Diesel,SAND_C_X
-106.00737949407859,,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12297.03016668,0,Diesel,SAND_C_X
+106.00737949407856,,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12297.03016668,0,Diesel,SAND_C_X
 106.7,,Fleet 14,Simul,Cowboy,Guadalupe,45.5,0.0,12622.43653048,0,Diesel,SAND_C_R
 106.7,119.9,Fleet 14,Simul,Longhorn,Guadalupe,45.5,0.0,12260.257166080002,0,Diesel,SAND_C_X
 68.6,86.9,Fleet 15,Zipper,Bluebonnet,West Campus,45.65,0.0,11931.7979494,0,Diesel,SAND_C_X
@@ -153,8 +153,8 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 106.7,119.0,Fleet 14,Simul,Bluebonnet,Gregory Gym,46.8,0.0,16490.67866152,0,Diesel,SAND_C_A
 106.7,99.4,Fleet 2,Simul,Bluebonnet,Gregory Gym,46.9,0.0,15569.27215592,0,Diesel,SAND_C_X
 106.7,95.3,Fleet 2,Simul,Bluebonnet,Gregory Gym,46.9,0.0,13422.145219,0,Diesel,SAND_C_A
-119.59540613287442,124.1,Fleet 2,Simul,Longhorn,Gregory Gym,46.9,0.0,14938.858036200005,0,Diesel,SAND_C_X
-105.58888724381963,113.4,Fleet 2,Simul,Longhorn,Gregory Gym,46.9,0.0,13342.771044120002,0,Diesel,SAND_C_X
+119.5954061328744,124.1,Fleet 2,Simul,Longhorn,Gregory Gym,46.9,0.0,14938.858036200005,0,Diesel,SAND_C_X
+105.58888724381961,113.4,Fleet 2,Simul,Longhorn,Gregory Gym,46.9,0.0,13342.771044120002,0,Diesel,SAND_C_X
 106.7,93.8,Fleet 2,Simul,Lone Star,Gregory Gym,46.9,0.0,14944.13114572,0,Diesel,SAND_C_A
 71.58286202207164,99.9,Fleet 8,Zipper,Longhorn,CPE,47.2,0.0,7680.145249840001,15396,DGB,SAND_C_R
 85.7,99.8,Fleet 8,Zipper,Longhorn,CPE,47.2,0.0,7968.084782840001,14943,DGB,SAND_C_X
@@ -172,12 +172,12 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 133.3,149.5,Fleet 12,Simul,Lone Star,CPE,47.6,0.0,24943.05692396,0,Diesel,SAND_C_X
 85.7,111.7,Fleet 11,Zipper,Longhorn,CPE,47.650000000000006,0.0,26126.176181,0,Diesel,SAND_C_A
 85.7,111.8,Fleet 11,Zipper,Longhorn,CPE,47.7,0.0,25470.78417408,0,Diesel,SAND_C_X
-92.30257027518024,111.8,Fleet 11,Zipper,Longhorn,CPE,47.7,0.0,25689.34068708,0,Diesel,SAND_C_R
+92.30257027518027,111.8,Fleet 11,Zipper,Longhorn,CPE,47.7,0.0,25689.34068708,0,Diesel,SAND_C_R
 96.0,85.3,Fleet 2,Simul,Rodeo,West Campus,48.1,0.0,11096.56515464,0,Diesel,SAND_C_A
 106.7,78.9,Fleet 2,Simul,Monarch Butterfly,West Campus,48.1,0.0,11464.295160640002,0,Diesel,SAND_C_X
 106.7,97.3,Fleet 2,Simul,Monarch Butterfly,West Campus,48.1,0.0,11971.3462708,0,Diesel,SAND_C_A
 106.7,119.9,Fleet 1,Simul,Monarch Butterfly,Moody Center,48.2,0.0,0.0,10395,Turbine,SAND_C_R
-102.22221277487449,121.8,Fleet 1,Simul,Monarch Butterfly,Moody Center,48.2,0.0,0.0,10222,Turbine,SAND_C_X
+102.2222127748745,121.8,Fleet 1,Simul,Monarch Butterfly,Moody Center,48.2,0.0,0.0,10222,Turbine,SAND_C_X
 102.4,120.5,Fleet 1,Simul,Rodeo,Moody Center,48.2,0.0,0.0,7151,Turbine,SAND_C_X
 106.7,123.0,Fleet 1,Simul,Bluebonnet,Moody Center,48.2,0.0,0.0,9223,Turbine,SAND_C_X
 106.7,123.0,Fleet 1,Simul,Cowboy,Moody Center,48.2,0.0,0.0,10426,Turbine,SAND_C_A
@@ -188,12 +188,12 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 106.7,123.8,Fleet 12,Simul,Bluebonnet,DKR,48.5,0.0,10648.212079400002,0,Diesel,SAND_C_A
 106.7,120.9,Fleet 12,Simul,Bluebonnet,DKR,48.5,0.0,11306.6569392,0,Diesel,SAND_C_X
 106.7,122.1,Fleet 12,Simul,Cowboy,DKR,48.5,0.0,12267.05670204,0,Diesel,SAND_C_A
-107.27809354342723,121.8,Fleet 12,Simul,Cowboy,DKR,48.5,0.0,12254.01269428,0,Diesel,SAND_C_X
+107.27809354342726,121.8,Fleet 12,Simul,Cowboy,DKR,48.5,0.0,12254.01269428,0,Diesel,SAND_C_X
 102.4,,Fleet 12,Simul,Rodeo,DKR,48.5,0.0,8713.67471576,0,Diesel,SAND_C_R
 106.7,121.1,Fleet 12,Simul,Monarch Butterfly,DKR,48.5,0.0,10248.982182320002,0,Diesel,SAND_C_X
 106.7,119.3,Fleet 12,Simul,Monarch Butterfly,DKR,48.5,0.0,10027.9278806,0,Diesel,SAND_C_X
 77.1,92.5,Fleet 8,Zipper,Longhorn,Guadalupe,49.0,0.0,4532.376398480001,8772,DGB,SAND_C_R
-81.22862890627438,93.7,Fleet 8,Zipper,Bluebonnet,Guadalupe,49.0,0.0,5057.46709384,9726,DGB,SAND_C_X
+81.22862890627437,93.7,Fleet 8,Zipper,Bluebonnet,Guadalupe,49.0,0.0,5057.46709384,9726,DGB,SAND_C_X
 77.1,86.2,Fleet 8,Zipper,Cowboy,Guadalupe,49.0,0.0,4681.133593359999,8884,DGB,SAND_C_X
 73.1,86.6,Fleet 8,Zipper,Rodeo,Guadalupe,49.0,0.0,3903.62747124,7571,DGB,SAND_C_R
 76.2,85.2,Fleet 8,Zipper,Monarch Butterfly,Guadalupe,49.0,0.0,4764.1156852799995,9024,DGB,SAND_C_A
@@ -202,12 +202,12 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 90.0,106.7,Fleet 12,Simul,Longhorn,Gregory Gym,49.0,0.0,12649.49590828,0,Diesel,SAND_C_A
 90.0,,Fleet 12,Simul,Longhorn,Gregory Gym,49.0,0.0,13332.50235716,0,Diesel,SAND_C_A
 90.0,100.0,Fleet 12,Simul,Longhorn,Gregory Gym,49.0,0.0,14627.88334056,0,Diesel,SAND_C_X
-114.36717086584397,111.8,Fleet 12,Simul,Lone Star,Gregory Gym,49.0,0.0,13657.21489076,0,Diesel,SAND_C_A
+114.36717086584402,111.8,Fleet 12,Simul,Lone Star,Gregory Gym,49.0,0.0,13657.21489076,0,Diesel,SAND_C_A
 73.1,90.5,Fleet 4,Zipper,Rodeo,Guadalupe,49.2,0.0,0.0,9436,Turbine,SAND_C_X
 70.7201631985108,91.8,Fleet 4,Zipper,Longhorn,Guadalupe,49.2,0.0,0.0,12120,Turbine,SAND_C_A
-72.99710445981766,90.0,Fleet 4,Zipper,Cowboy,Guadalupe,49.2,0.0,0.0,11830,Turbine,SAND_C_A
+72.99710445981763,90.0,Fleet 4,Zipper,Cowboy,Guadalupe,49.2,0.0,0.0,11830,Turbine,SAND_C_A
 114.3,,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,4942.98511084,11677,DGB,SAND_C_R
-79.11155625939658,103.6,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,4754.4020624800005,12178,DGB,SAND_C_A
+79.1115562593966,103.6,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,4754.4020624800005,12178,DGB,SAND_C_A
 114.3,113.1,Fleet 8,Zipper,Cowboy,The Tower,49.5,0.0,5263.950961359999,11616,DGB,SAND_C_A
 102.4,120.4,Fleet 1,Simul,Rodeo,Gregory Gym,49.5,0.0,0.0,10313,Turbine,SAND_C_R
 106.7,125.4,Fleet 1,Simul,Longhorn,Gregory Gym,49.5,0.0,0.0,15059,Turbine,SAND_C_R
@@ -219,7 +219,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 100.78729430605611,119.0,Fleet 2,Simul,Bluebonnet,Guadalupe,49.6,0.0,0.0,11119,Turbine,SAND_C_A
 96.0,112.6,Fleet 2,Simul,Longhorn,Guadalupe,49.6,0.0,0.0,10643,Turbine,SAND_C_A
 96.0,112.5,Fleet 2,Simul,Cowboy,Guadalupe,49.6,0.0,0.0,10343,Turbine,SAND_C_A
-103.05043823800912,111.5,Fleet 2,Simul,Rodeo,Guadalupe,49.7,0.0,0.0,8416,Turbine,SAND_C_A
+103.05043823800914,111.5,Fleet 2,Simul,Rodeo,Guadalupe,49.7,0.0,0.0,8416,Turbine,SAND_C_A
 102.4,,Fleet 2,Simul,Rodeo,Guadalupe,49.7,0.0,0.0,8552,Turbine,SAND_C_R
 106.7,123.8,Fleet 2,Simul,Longhorn,Guadalupe,49.7,0.0,0.0,11327,Turbine,SAND_C_A
 106.7,119.8,Fleet 2,Simul,Bluebonnet,Guadalupe,49.7,0.0,0.0,11508,Turbine,SAND_C_R
@@ -250,8 +250,8 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 114.3,126.3,Fleet 4,Zipper,Lone Star,Gregory Gym,51.0,0.0,0.0,19614,Turbine,SAND_C_X
 114.3,130.2,Fleet 4,Zipper,Lone Star,Gregory Gym,51.0,0.0,0.0,19640,Turbine,SAND_C_X
 76.2,,Fleet 4,Zipper,Longhorn,Gregory Gym,51.0,0.0,0.0,15348,Turbine,SAND_C_A
-113.50707425852042,131.1,Fleet 6,Zipper,Pecan Tree,DKR,51.2,0.0,10956.68898632,15062,DGB,SAND_C_X
-114.42764635413967,131.0,Fleet 6,Zipper,Pecan Tree,DKR,51.2,0.0,10522.76757924,15222,DGB,SAND_C_R
+113.5070742585204,131.1,Fleet 6,Zipper,Pecan Tree,DKR,51.2,0.0,10956.68898632,15062,DGB,SAND_C_X
+114.4276463541397,131.0,Fleet 6,Zipper,Pecan Tree,DKR,51.2,0.0,10522.76757924,15222,DGB,SAND_C_R
 72.66549062208799,84.3,Fleet 10,Zipper,Bluebonnet,DKR,51.3,0.0,12653.24259136,0,Diesel,SAND_C_A
 68.6,88.4,Fleet 10,Zipper,Rodeo,DKR,51.3,0.0,12189.902783800002,0,Diesel,SAND_C_A
 133.3,98.3,Fleet 9,Simul,Cowboy,DKR,51.349999999999994,0.0,4487.97126568,10335,DGB,SAND_C_A
@@ -260,7 +260,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 102.4,105.1,Fleet 9,Simul,Rodeo,DKR,51.4,0.0,2614.21342756,6531,DGB,SAND_C_A
 106.7,90.4,Fleet 9,Simul,Monarch Butterfly,DKR,51.4,0.0,3280.01288748,8905,DGB,SAND_C_A
 73.1,84.7,Fleet 8,Zipper,Rodeo,West Campus,51.8,0.0,6004.96161496,12483,DGB,SAND_C_A
-75.80247698685936,84.8,Fleet 8,Zipper,Rodeo,West Campus,51.8,0.0,5899.221892480001,12706,DGB,SAND_C_R
+75.80247698685935,84.8,Fleet 8,Zipper,Rodeo,West Campus,51.8,0.0,5899.221892480001,12706,DGB,SAND_C_R
 76.2,92.8,Fleet 8,Zipper,Lone Star,West Campus,51.8,0.0,8453.21085868,16479,DGB,SAND_C_R
 76.2,87.4,Fleet 8,Zipper,Bluebonnet,West Campus,51.8,0.0,8309.03294312,15702,DGB,SAND_C_R
 85.7,100.6,Fleet 8,Zipper,Longhorn,West Campus,51.8,0.0,8405.47534092,18180,DGB,SAND_C_X
@@ -277,14 +277,14 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 79.13759470681123,90.2,Fleet 4,Zipper,Bluebonnet,Gregory Gym,52.3,0.0,0.0,20676,Turbine,SAND_C_X
 76.2,90.1,Fleet 4,Zipper,Bluebonnet,Gregory Gym,52.3,0.0,0.0,20787,Turbine,SAND_C_A
 76.2,90.5,Fleet 4,Zipper,Lone Star,Gregory Gym,52.3,0.0,0.0,20823,Turbine,SAND_C_R
-98.17540692613197,88.6,Fleet 4,Zipper,Lone Star,Gregory Gym,52.3,0.0,0.0,21103,Turbine,SAND_C_X
+98.17540692613194,88.6,Fleet 4,Zipper,Lone Star,Gregory Gym,52.3,0.0,0.0,21103,Turbine,SAND_C_X
 76.2,92.9,Fleet 4,Zipper,Longhorn,Gregory Gym,52.3,0.0,0.0,21659,Turbine,SAND_C_A
 76.2,97.4,Fleet 4,Zipper,Longhorn,Gregory Gym,52.3,0.0,0.0,22219,Turbine,SAND_C_A
 133.3,144.3,Fleet 14,Simul,Lone Star,West Campus,52.6,0.0,11227.00523224,0,Diesel,SAND_C_X
 133.3,140.6,Fleet 14,Simul,Lone Star,West Campus,52.6,0.0,9625.36759856,0,Diesel,SAND_C_X
 120.0,137.1,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,10332.79687048,0,Diesel,SAND_C_X
 133.3,147.2,Fleet 14,Simul,Lone Star,West Campus,52.6,0.0,10805.29523668,0,Diesel,SAND_C_A
-102.2340838129246,147.8,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,9035.7506946,0,Diesel,SAND_C_X
+102.23408381292461,147.8,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,9035.7506946,0,Diesel,SAND_C_X
 120.0,132.5,Fleet 14,Simul,Longhorn,West Campus,52.6,0.0,10041.8044846,0,Diesel,SAND_C_X
 76.2,92.0,Fleet 8,Zipper,Bluebonnet,Guadalupe,53.6,0.0,5925.448674040001,13436,DGB,SAND_C_X
 77.1,92.7,Fleet 8,Zipper,Armadillo,Guadalupe,53.6,0.0,5210.94233408,11678,DGB,SAND_C_X
@@ -309,7 +309,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 133.3,143.8,Fleet 14,Simul,Cowboy,DKR,54.3,0.0,22632.87989004,0,Diesel,SAND_C_X
 108.69831676513246,132.7,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,20881.92999732,0,Diesel,SAND_C_X
 133.3,139.7,Fleet 14,Simul,Cowboy,DKR,54.6,0.0,22190.63252056,0,Diesel,SAND_C_X
-108.02734353457855,132.2,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,20841.54907968,0,Diesel,SAND_C_A
+108.02734353457856,132.2,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,20841.54907968,0,Diesel,SAND_C_A
 120.0,,Fleet 14,Simul,Longhorn,DKR,54.6,0.0,22334.67167008,0,Diesel,SAND_C_R
 73.1,83.1,Fleet 6,Zipper,Rodeo,West Campus,55.7,0.0,3146.10365888,8124,DGB,SAND_C_X
 76.2,89.1,Fleet 6,Zipper,Bluebonnet,West Campus,55.7,0.0,5027.354863160001,9790,DGB,SAND_C_R
@@ -331,28 +331,28 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 133.3,97.6,Fleet 9,Simul,Monarch Butterfly,Moody Center,56.2,0.0,4447.451582,12179,DGB,SAND_C_X
 133.3,84.5,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,4172.83358884,12050,DGB,SAND_C_A
 133.3,97.2,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,2786.0057850800004,12199,DGB,SAND_C_R
-119.16221880974254,91.0,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,2528.3172488,11950,DGB,SAND_C_A
+119.16221880974253,91.0,Fleet 9,Simul,Bluebonnet,Moody Center,56.2,0.0,2528.3172488,11950,DGB,SAND_C_A
 76.2,91.6,Fleet 6,Zipper,Longhorn,Moody Center,56.4,0.0,4908.987431040001,10085,DGB,SAND_C_X
 76.2,98.3,Fleet 6,Zipper,Longhorn,Moody Center,56.4,0.0,4988.639138,10367,DGB,SAND_C_A
 76.2,92.3,Fleet 6,Zipper,Cowboy,Moody Center,56.4,0.0,4775.35573452,10149,DGB,SAND_C_A
 76.2,94.9,Fleet 6,Zipper,Cowboy,Moody Center,56.4,0.0,5093.407498200001,10240,DGB,SAND_C_X
 178.7,187.7,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,21651.6652212,0,Diesel,SAND_C_A
 178.7,198.0,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,21673.59025552,0,Diesel,SAND_C_X
-137.29613681104965,196.3,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,22275.27980496,0,Diesel,SAND_C_A
+137.29613681104968,196.3,Fleet 12,Simul,Lone Star,Gregory Gym,56.7,0.0,22275.27980496,0,Diesel,SAND_C_A
 120.0,,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14032.57702896,0,Diesel,SAND_C_X
-108.49178644110397,141.6,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14710.86543248,0,Diesel,SAND_C_X
+108.491786441104,141.6,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14710.86543248,0,Diesel,SAND_C_X
 120.0,137.0,Fleet 12,Simul,Longhorn,Gregory Gym,56.7,0.0,14528.24932384,0,Diesel,SAND_C_X
 85.7,110.7,Fleet 4,Zipper,Longhorn,CPE,56.8,0.0,0.0,16311,Turbine,SAND_C_X
-87.68188996317869,105.7,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16322,Turbine,SAND_C_A
+87.6818899631787,105.7,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16322,Turbine,SAND_C_A
 85.7,107.6,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16311,Turbine,SAND_C_R
 85.7,107.7,Fleet 4,Zipper,Lone Star,CPE,56.8,0.0,0.0,16311,Turbine,SAND_C_R
 85.7,117.7,Fleet 4,Zipper,Longhorn,CPE,56.9,0.0,0.0,16311,Turbine,SAND_C_A
-104.93845882709913,115.6,Fleet 1,Simul,Armadillo,Guadalupe,57.5,0.0,0.0,14596,Turbine,SAND_C_R
+104.9384588270991,115.6,Fleet 1,Simul,Armadillo,Guadalupe,57.5,0.0,0.0,14596,Turbine,SAND_C_R
 106.7,119.1,Fleet 1,Simul,Bluebonnet,Guadalupe,57.5,0.0,0.0,14148,Turbine,SAND_C_X
 96.0,113.5,Fleet 1,Simul,Lone Star,Guadalupe,57.5,0.0,0.0,13220,Turbine,SAND_C_X
-101.99985159036213,116.8,Fleet 1,Simul,Rodeo,Guadalupe,57.5,0.0,0.0,11294,Turbine,SAND_C_A
+101.99985159036211,116.8,Fleet 1,Simul,Rodeo,Guadalupe,57.5,0.0,0.0,11294,Turbine,SAND_C_A
 102.4,116.7,Fleet 1,Simul,Rodeo,Guadalupe,57.5,0.0,0.0,11696,Turbine,SAND_C_X
-107.44738568157076,,Fleet 1,Simul,Armadillo,Guadalupe,57.5,0.0,0.0,12928,Turbine,SAND_C_X
+107.44738568157075,,Fleet 1,Simul,Armadillo,Guadalupe,57.5,0.0,0.0,12928,Turbine,SAND_C_X
 133.3,,Fleet 12,Simul,Cowboy,CPE,57.7,0.0,21636.95602096,0,Diesel,SAND_C_R
 133.3,148.0,Fleet 12,Simul,Cowboy,CPE,57.7,0.0,21709.53065988,0,Diesel,SAND_C_X
 133.3,149.6,Fleet 12,Simul,Lone Star,CPE,57.7,0.0,22181.47396192,0,Diesel,SAND_C_A
@@ -376,7 +376,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 114.3,125.1,Fleet 6,Zipper,Lone Star,Gregory Gym,59.2,0.0,5457.39082112,9628,DGB,SAND_C_R
 133.3,153.3,Fleet 9,Simul,Cowboy,DKR,59.2,0.0,4437.46042712,12706,DGB,SAND_C_A
 133.3,,Fleet 9,Simul,Cowboy,DKR,59.2,0.0,4135.227992,12856,DGB,SAND_C_X
-110.96846466813614,126.1,Fleet 9,Simul,Bluebonnet,DKR,59.2,0.0,4715.82510336,9881,DGB,SAND_C_X
+110.96846466813615,126.1,Fleet 9,Simul,Bluebonnet,DKR,59.2,0.0,4715.82510336,9881,DGB,SAND_C_X
 102.4,114.0,Fleet 9,Simul,Rodeo,DKR,59.2,0.0,3636.50284424,7453,DGB,SAND_C_X
 106.7,117.3,Fleet 9,Simul,Monarch Butterfly,DKR,59.2,0.0,4412.20500784,8953,DGB,SAND_C_A
 120.0,128.7,Fleet 9,Simul,Longhorn,DKR,59.2,0.0,4608.6977204800005,9910,DGB,SAND_C_R
@@ -394,7 +394,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 76.2,93.3,Fleet 10,Zipper,Bluebonnet,DKR,59.3,0.0,21482.09312032,0,Diesel,SAND_C_A
 76.2,93.4,Fleet 11,Zipper,Bluebonnet,Gregory Gym,59.5,0.0,12676.69405212,0,Diesel,SAND_C_A
 76.2,94.3,Fleet 11,Zipper,Cowboy,Gregory Gym,59.5,0.0,13168.75842996,0,Diesel,SAND_C_A
-79.66193224103544,78.1,Fleet 11,Zipper,Longhorn,Gregory Gym,59.5,0.0,14496.05560256,0,Diesel,SAND_C_X
+79.66193224103542,78.1,Fleet 11,Zipper,Longhorn,Gregory Gym,59.5,0.0,14496.05560256,0,Diesel,SAND_C_X
 85.7,102.2,Fleet 11,Zipper,Longhorn,Gregory Gym,59.5,0.0,14344.106788760002,0,Diesel,SAND_C_A
 106.7,112.8,Fleet 1,Simul,Monarch Butterfly,Guadalupe,59.5,0.0,0.0,15622,Turbine,SAND_C_R
 105.38011306607487,,Fleet 1,Simul,Cowboy,Guadalupe,59.5,0.0,0.0,16650,Turbine,SAND_C_X
@@ -405,7 +405,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 102.4,113.7,Fleet 2,Simul,Rodeo,West Campus,60.1,0.0,0.0,8360,Turbine,SAND_C_A
 106.7,119.8,Fleet 2,Simul,Bluebonnet,West Campus,60.1,0.0,0.0,10559,Turbine,SAND_C_X
 120.0,134.5,Fleet 2,Simul,Longhorn,West Campus,60.1,0.0,0.0,11891,Turbine,SAND_C_A
-106.70624160594953,134.3,Fleet 2,Simul,Longhorn,West Campus,60.1,0.0,0.0,12096,Turbine,SAND_C_X
+106.70624160594956,134.3,Fleet 2,Simul,Longhorn,West Campus,60.1,0.0,0.0,12096,Turbine,SAND_C_X
 106.7,120.4,Fleet 2,Simul,Cowboy,West Campus,60.1,0.0,0.0,10731,Turbine,SAND_C_R
 115.2,129.5,Fleet 14,Simul,Rodeo,DKR,60.4,0.0,10203.32815516,0,Diesel,SAND_C_X
 106.7,,Fleet 14,Simul,Bluebonnet,DKR,60.4,0.0,13370.107954,0,Diesel,SAND_C_X
@@ -421,7 +421,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 114.3,83.0,Fleet 8,Zipper,Pecan Tree,DKR,61.0,0.0,11522.29936536,13891,DGB,SAND_C_X
 120.0,131.0,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,5025.55090464,9915,DGB,SAND_C_R
 120.0,130.5,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,4690.15338596,10088,DGB,SAND_C_X
-118.32852468825116,132.2,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,4532.7926966,9617,DGB,SAND_C_A
+118.32852468825115,132.2,Fleet 9,Simul,Lone Star,CPE,61.1,0.0,4532.7926966,9617,DGB,SAND_C_A
 120.0,,Fleet 9,Simul,Longhorn,CPE,61.1,0.0,5085.914132040001,9544,DGB,SAND_C_A
 120.0,139.7,Fleet 9,Simul,Longhorn,CPE,61.1,0.0,4906.489642320001,9880,DGB,SAND_C_R
 120.0,,Fleet 9,Simul,Longhorn,CPE,61.1,0.0,4786.59578376,9534,DGB,SAND_C_X
@@ -439,30 +439,30 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 106.7,97.3,Fleet 2,Simul,Cowboy,West Campus,63.8,0.0,13261.45414468,0,Diesel,SAND_C_R
 133.3,143.6,Fleet 9,Simul,Rodeo,Moody Center,63.9,0.0,3491.7698645200003,15017,DGB,SAND_C_X
 133.3,143.5,Fleet 9,Simul,Rodeo,Moody Center,63.9,0.0,3747.79320832,15943,DGB,SAND_C_X
-109.0425174848958,146.9,Fleet 9,Simul,Magnolia,Moody Center,63.9,0.0,2361.38170268,16479,DGB,SAND_C_X
+109.04251748489581,146.9,Fleet 9,Simul,Magnolia,Moody Center,63.9,0.0,2361.38170268,16479,DGB,SAND_C_X
 133.3,145.6,Fleet 9,Simul,Magnolia,Moody Center,63.9,0.0,2256.89087456,16162,DGB,SAND_C_A
 133.3,145.2,Fleet 9,Simul,Rodeo,Moody Center,63.9,0.0,2395.7956806,15972,DGB,SAND_C_R
 133.3,147.1,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,20039.62013452,0,Diesel,SAND_C_R
 133.3,140.6,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,19590.01816492,0,Diesel,SAND_C_R
-119.87503584881537,147.1,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,19155.2641616,0,Diesel,SAND_C_A
+119.87503584881536,147.1,Fleet 14,Simul,Lone Star,Gregory Gym,64.0,0.0,19155.2641616,0,Diesel,SAND_C_A
 120.0,133.1,Fleet 14,Simul,Longhorn,Gregory Gym,64.0,0.0,20238.333103800003,0,Diesel,SAND_C_X
 120.0,139.6,Fleet 14,Simul,Longhorn,Gregory Gym,64.0,0.0,19252.95545376,0,Diesel,SAND_C_A
-103.1460044770179,,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,18594,Turbine,SAND_C_R
+103.14600447701788,,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,18594,Turbine,SAND_C_R
 103.36819571847047,109.6,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,17575,Turbine,SAND_C_R
 103.85168608328108,110.0,Fleet 3,Simul,Bluebonnet,Moody Center,64.0,0.0,0.0,18444,Turbine,SAND_C_R
 104.35221464423654,87.6,Fleet 3,Simul,Monarch Butterfly,Moody Center,64.0,0.0,0.0,14671,Turbine,SAND_C_A
-109.21161797883371,86.9,Fleet 3,Simul,Monarch Butterfly,Moody Center,64.0,0.0,0.0,14200,Turbine,SAND_C_A
+109.2116179788337,86.9,Fleet 3,Simul,Monarch Butterfly,Moody Center,64.0,0.0,0.0,14200,Turbine,SAND_C_A
 120.0,141.8,Fleet 12,Simul,Longhorn,DKR,64.1,0.0,24021.23412024,0,Diesel,SAND_C_X
 106.7,124.2,Fleet 12,Simul,Bluebonnet,DKR,64.1,0.0,20680.441707240003,0,Diesel,SAND_C_X
 106.7,122.4,Fleet 12,Simul,Bluebonnet,DKR,64.1,0.0,19920.97517032,0,Diesel,SAND_C_X
 133.3,150.9,Fleet 12,Simul,Cowboy,DKR,64.1,0.0,25425.68521108,0,Diesel,SAND_C_R
 106.7,120.1,Fleet 12,Simul,Monarch Butterfly,DKR,64.1,0.0,18128.256699560003,0,Diesel,SAND_C_R
-110.63925273653776,121.1,Fleet 12,Simul,Monarch Butterfly,DKR,64.1,0.0,18577.44237104,0,Diesel,SAND_C_A
+110.63925273653777,121.1,Fleet 12,Simul,Monarch Butterfly,DKR,64.1,0.0,18577.44237104,0,Diesel,SAND_C_A
 99.92809910857042,87.4,Fleet 2,Simul,Monarch Butterfly,DKR,64.4,0.0,0.0,10722,Turbine,SAND_C_R
 102.4,,Fleet 2,Simul,Rodeo,DKR,64.4,0.0,0.0,9246,Turbine,SAND_C_X
 120.0,89.0,Fleet 2,Simul,Longhorn,DKR,64.4,0.0,0.0,12705,Turbine,SAND_C_A
 106.7,92.0,Fleet 2,Simul,Bluebonnet,DKR,64.4,0.0,0.0,13493,Turbine,SAND_C_A
-104.93845882709913,90.4,Fleet 2,Simul,Cowboy,DKR,64.4,0.0,0.0,14595,Turbine,SAND_C_R
+104.9384588270991,90.4,Fleet 2,Simul,Cowboy,DKR,64.4,0.0,0.0,14595,Turbine,SAND_C_R
 133.3,147.5,Fleet 2,Simul,Cowboy,DKR,64.4,0.0,0.0,14748,Turbine,SAND_C_A
 62.9,,Fleet 8,Zipper,Monarch Butterfly,DKR,64.6,0.0,8696.05142868,14518,DGB,SAND_C_A
 76.2,100.7,Fleet 6,Zipper,Longhorn,Gregory Gym,64.8,0.0,7800.31664048,14665,DGB,SAND_C_R
@@ -472,7 +472,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 85.7,98.7,Fleet 6,Zipper,Lone Star,Gregory Gym,64.8,0.0,8163.606133200001,17303,DGB,SAND_C_X
 85.7,99.0,Fleet 6,Zipper,Lone Star,Gregory Gym,64.8,0.0,8973.72227472,16384,DGB,SAND_C_X
 106.7,119.9,Fleet 2,Simul,Monarch Butterfly,Moody Center,65.1,0.0,0.0,11277,Turbine,SAND_C_R
-107.01604327530544,121.3,Fleet 2,Simul,Monarch Butterfly,Moody Center,65.1,0.0,0.0,12007,Turbine,SAND_C_A
+107.01604327530546,121.3,Fleet 2,Simul,Monarch Butterfly,Moody Center,65.1,0.0,0.0,12007,Turbine,SAND_C_A
 102.4,117.4,Fleet 2,Simul,Rodeo,Moody Center,65.1,0.0,0.0,9724,Turbine,SAND_C_R
 102.4,117.7,Fleet 2,Simul,Rodeo,Moody Center,65.1,0.0,0.0,9781,Turbine,SAND_C_A
 106.7,120.8,Fleet 2,Simul,Longhorn,Moody Center,65.1,0.0,0.0,11609,Turbine,SAND_C_A
@@ -490,7 +490,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 73.1,86.3,Fleet 4,Zipper,Rodeo,CPE,66.7,0.0,0.0,10307,Turbine,SAND_C_X
 73.1,85.6,Fleet 4,Zipper,Rodeo,CPE,66.7,0.0,0.0,10247,Turbine,SAND_C_A
 84.0,92.9,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,13404.52193192,0,Diesel,SAND_C_A
-108.6448924340092,96.3,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,13855.23402984,0,Diesel,SAND_C_X
+108.64489243400917,96.3,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,13855.23402984,0,Diesel,SAND_C_X
 84.0,98.7,Fleet 12,Simul,Longhorn,Gregory Gym,66.8,0.0,10943.92251064,0,Diesel,SAND_C_X
 92.0,,Fleet 12,Simul,Lone Star,Gregory Gym,66.8,0.0,13997.3304548,0,Diesel,SAND_C_X
 92.0,,Fleet 12,Simul,Lone Star,Gregory Gym,66.8,0.0,10988.60517552,0,Diesel,SAND_C_A
@@ -507,7 +507,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 120.0,127.1,Fleet 9,Simul,Longhorn,Gregory Gym,67.0,0.0,4067.51016448,5458,DGB,SAND_C_R
 96.0,108.0,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,8733.518259479999,0,Diesel,SAND_C_X
 96.0,105.7,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9361.98965464,0,Diesel,SAND_C_R
-102.2340838129246,103.7,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9035.47316252,0,Diesel,SAND_C_X
+102.23408381292461,103.7,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9035.47316252,0,Diesel,SAND_C_X
 96.0,,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9664.49962184,0,Diesel,SAND_C_X
 96.0,104.9,Fleet 14,Simul,Monarch Butterfly,DKR,67.0,0.0,9126.6424508,0,Diesel,SAND_C_X
 57.1,75.3,Fleet 6,Zipper,Longhorn,Moody Center,67.4,0.0,4997.936462680001,10823,DGB,SAND_C_X
@@ -530,7 +530,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 133.3,138.6,Fleet 9,Simul,Bluebonnet,Moody Center,68.2,0.0,9518.101449640002,13636,DGB,SAND_C_X
 133.3,146.9,Fleet 9,Simul,Bluebonnet,Moody Center,68.2,0.0,8866.03982768,15625,DGB,SAND_C_A
 73.52892645732344,107.2,Fleet 3,Zipper,Rodeo,CPE,68.3,0.0,0.0,17010,Turbine,SAND_C_X
-73.20207677854158,106.7,Fleet 3,Zipper,Rodeo,CPE,68.4,0.0,0.0,17647,Turbine,SAND_C_X
+73.20207677854157,106.7,Fleet 3,Zipper,Rodeo,CPE,68.4,0.0,0.0,17647,Turbine,SAND_C_X
 106.7,122.1,Fleet 12,Simul,Bluebonnet,DKR,68.5,0.0,20938.13024352,0,Diesel,SAND_C_R
 117.12850296065606,136.5,Fleet 12,Simul,Longhorn,DKR,68.5,0.0,23368.8949662,0,Diesel,SAND_C_X
 126.6194236562482,,Fleet 12,Simul,Cowboy,DKR,68.5,0.0,27359.1124464,0,Diesel,SAND_C_A
@@ -549,17 +549,17 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 110.36077599641752,109.8,Fleet 9,Simul,Bluebonnet,West Campus,69.6,0.0,3130.14556428,16293,DGB,SAND_C_A
 96.0,111.7,Fleet 9,Simul,Bluebonnet,West Campus,69.6,0.0,3466.65321128,17394,DGB,SAND_C_X
 96.0,108.6,Fleet 9,Simul,Longhorn,West Campus,69.6,0.0,1773.56875724,17486,DGB,SAND_C_A
-108.79435081022609,107.4,Fleet 9,Simul,Cowboy,West Campus,69.6,0.0,1727.49843196,17386,DGB,SAND_C_R
+108.7943508102261,107.4,Fleet 9,Simul,Cowboy,West Campus,69.6,0.0,1727.49843196,17386,DGB,SAND_C_R
 96.0,110.1,Fleet 9,Simul,Cowboy,West Campus,69.6,0.0,3360.2196586000005,17813,DGB,SAND_C_A
 96.0,84.7,Fleet 2,Simul,Lone Star,West Campus,69.9,0.0,12447.313788,0,Diesel,SAND_C_R
 96.0,86.8,Fleet 2,Simul,Longhorn,West Campus,69.9,0.0,24315.9731892,0,Diesel,SAND_C_X
-108.72309853118948,84.5,Fleet 2,Simul,Lone Star,West Campus,69.9,0.0,12055.9935552,0,Diesel,SAND_C_R
+108.72309853118946,84.5,Fleet 2,Simul,Lone Star,West Campus,69.9,0.0,12055.9935552,0,Diesel,SAND_C_R
 96.0,85.0,Fleet 2,Simul,Longhorn,West Campus,69.9,0.0,11522.29936536,0,Diesel,SAND_C_R
 96.0,84.6,Fleet 2,Simul,Longhorn,West Campus,69.9,0.0,11680.908949080002,0,Diesel,SAND_C_R
-102.30302876984067,115.6,Fleet 7,Simul,Rodeo,Moody Center,70.5,0.0,2481.1367951999996,6135,DGB,SAND_C_A
+102.30302876984071,115.6,Fleet 7,Simul,Rodeo,Moody Center,70.5,0.0,2481.1367951999996,6135,DGB,SAND_C_A
 102.4,84.3,Fleet 7,Simul,Rodeo,Moody Center,70.5,0.0,2513.0529844,6093,DGB,SAND_C_X
 105.34033181982504,119.7,Fleet 7,Simul,Monarch Butterfly,Moody Center,70.5,0.0,3037.03355144,8124,DGB,SAND_C_R
-102.28039279245979,85.7,Fleet 7,Simul,Monarch Butterfly,Moody Center,70.5,0.0,2958.4919728,7581,DGB,SAND_C_A
+102.28039279245982,85.7,Fleet 7,Simul,Monarch Butterfly,Moody Center,70.5,0.0,2958.4919728,7581,DGB,SAND_C_A
 96.0,88.3,Fleet 7,Simul,Longhorn,Moody Center,70.5,0.0,3345.78799044,8441,DGB,SAND_C_R
 96.0,110.4,Fleet 7,Simul,Longhorn,Moody Center,70.5,0.0,3321.3651674,8394,DGB,SAND_C_R
 103.221793808438,119.0,Fleet 7,Simul,Bluebonnet,Moody Center,70.5,0.0,3152.0705986000003,8503,DGB,SAND_C_X
@@ -574,11 +574,11 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 96.0,,Fleet 14,Simul,Bluebonnet,DKR,71.1,0.0,9850.72364752,0,Diesel,SAND_C_X
 96.0,104.9,Fleet 14,Simul,Bluebonnet,DKR,71.1,0.0,9860.437270320002,0,Diesel,SAND_C_X
 96.0,103.9,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,10300.88068128,0,Diesel,SAND_C_X
-102.70238411204585,,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,9990.59981584,0,Diesel,SAND_C_X
+102.70238411204586,,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,9990.59981584,0,Diesel,SAND_C_X
 96.0,106.4,Fleet 14,Simul,Rodeo,DKR,71.1,0.0,9973.39282688,0,Diesel,SAND_C_R
 120.0,127.9,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,15475.32754684,0,Diesel,SAND_C_R
 120.0,125.2,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,15060.278321200003,0,Diesel,SAND_C_X
-107.1525872470696,129.3,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,17001.476454760003,0,Diesel,SAND_C_X
+107.15258724706962,129.3,Fleet 12,Simul,Lone Star,CPE,71.5,0.0,17001.476454760003,0,Diesel,SAND_C_X
 109.3,115.8,Fleet 12,Simul,Longhorn,CPE,71.5,0.0,11789.42399236,0,Diesel,SAND_C_R
 109.3,133.6,Fleet 12,Simul,Longhorn,CPE,71.5,0.0,14738.47987444,0,Diesel,SAND_C_R
 103.24029083599932,121.6,Fleet 12,Simul,Longhorn,CPE,71.5,0.0,14064.07692004,0,Diesel,SAND_C_A
@@ -643,14 +643,14 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 76.2,93.7,Fleet 15,Zipper,Monarch Butterfly,DKR,74.2,0.0,12545.421378280002,0,Diesel,SAND_C_R
 76.2,94.5,Fleet 15,Zipper,Monarch Butterfly,DKR,74.30000000000001,0.0,13173.476475320002,0,Diesel,SAND_C_A
 114.32013849834416,,Fleet 7,Simul,Bluebonnet,DKR,74.4,0.0,4587.18898428,13916,DGB,SAND_C_X
-110.96450027911212,,Fleet 7,Simul,Bluebonnet,DKR,74.4,0.0,4798.529663200001,15205,DGB,SAND_C_A
+110.96450027911209,,Fleet 7,Simul,Bluebonnet,DKR,74.4,0.0,4798.529663200001,15205,DGB,SAND_C_A
 102.4,,Fleet 7,Simul,Rodeo,DKR,74.4,0.0,3620.96104776,12104,DGB,SAND_C_A
 120.0,,Fleet 7,Simul,Longhorn,DKR,74.4,0.0,4737.888903720001,16136,DGB,SAND_C_X
 106.7,,Fleet 7,Simul,Cowboy,DKR,74.4,0.0,4643.52799652,15913,DGB,SAND_C_A
 106.7,,Fleet 7,Simul,Cowboy,DKR,74.4,0.0,4615.219724359999,15517,DGB,SAND_C_A
-138.29355898258171,145.4,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,23946.57799072,0,Diesel,SAND_C_A
+138.2935589825817,145.4,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,23946.57799072,0,Diesel,SAND_C_A
 160.0,143.7,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,25548.2156244,0,Diesel,SAND_C_X
-143.07973617560796,144.8,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,25208.65512452,0,Diesel,SAND_C_X
+143.07973617560802,144.8,Fleet 2,Simul,Pecan Tree,West Campus,74.4,0.0,25208.65512452,0,Diesel,SAND_C_X
 47.1,55.8,Fleet 4,Zipper,Rodeo,DKR,74.4,0.0,0.0,14111,Turbine,SAND_C_A
 73.1,82.3,Fleet 4,Zipper,Rodeo,DKR,74.4,0.0,0.0,7883,Turbine,SAND_C_A
 76.2,86.7,Fleet 4,Zipper,Cowboy,DKR,74.4,0.0,0.0,18641,Turbine,SAND_C_A
@@ -658,7 +658,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 64.3,79.7,Fleet 4,Zipper,Longhorn,DKR,74.4,0.0,0.0,21183,Turbine,SAND_C_X
 160.0,184.2,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,6064.075948,7257,DGB,SAND_C_A
 120.0,135.5,Fleet 9,Simul,Longhorn,Turtle Pond,74.5,0.0,4528.21341728,7202,DGB,SAND_C_X
-120.40316966233802,175.4,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,5520.25183724,8873,DGB,SAND_C_R
+120.403169662338,175.4,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,5520.25183724,8873,DGB,SAND_C_R
 103.22621597824931,138.5,Fleet 9,Simul,Longhorn,Turtle Pond,74.5,0.0,4310.350734480001,7338,DGB,SAND_C_X
 160.0,164.6,Fleet 9,Simul,Lone Star,Turtle Pond,74.5,0.0,5948.62260272,8639,DGB,SAND_C_R
 96.0,112.3,Fleet 2,Simul,Cowboy,West Campus,74.5,4816.10624,0.0,0,Grid,SAND_C_X
@@ -669,7 +669,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 160.0,84.2,Fleet 9,Simul,Lone Star,The Tower,74.6,0.0,4593.01715796,22270,DGB,SAND_C_X
 120.0,84.1,Fleet 9,Simul,Longhorn,The Tower,74.6,0.0,4371.13026,18782,DGB,SAND_C_X
 85.7,111.4,Fleet 10,Zipper,Lone Star,Gregory Gym,74.6,0.0,15733.84867936,0,Diesel,SAND_C_A
-87.83882702803129,110.2,Fleet 10,Zipper,Lone Star,Gregory Gym,74.6,0.0,15734.26497748,0,Diesel,SAND_C_A
+87.8388270280313,110.2,Fleet 10,Zipper,Lone Star,Gregory Gym,74.6,0.0,15734.26497748,0,Diesel,SAND_C_A
 78.1,101.4,Fleet 10,Zipper,Longhorn,Gregory Gym,74.6,0.0,14438.46769596,0,Diesel,SAND_C_X
 78.1,108.5,Fleet 10,Zipper,Longhorn,Gregory Gym,74.6,0.0,14429.5866694,0,Diesel,SAND_C_R
 114.3,133.8,Fleet 4,Zipper,Pecan Tree,Guadalupe,74.6,0.0,0.0,23740,Turbine,SAND_C_A
@@ -682,11 +682,11 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 85.7,103.2,Fleet 5,Zipper,Longhorn,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_A
 62.9,75.8,Fleet 5,Zipper,Monarch Butterfly,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_R
 76.2,90.8,Fleet 5,Zipper,Cowboy,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_X
-75.93055146962917,88.3,Fleet 5,Zipper,Bluebonnet,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_X
+75.93055146962915,88.3,Fleet 5,Zipper,Bluebonnet,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_X
 73.1,83.3,Fleet 5,Zipper,Rodeo,West Campus,74.6,0.0,0.0,16105,Turbine,SAND_C_R
 160.0,,Fleet 1,Simul,Lone Star,The Tower,74.6,0.0,0.0,24394,Turbine,SAND_C_R
 108.18997532124749,,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,20454,Turbine,SAND_C_X
-102.66643162580014,,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,21337,Turbine,SAND_C_X
+102.66643162580013,,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,21337,Turbine,SAND_C_X
 120.0,137.6,Fleet 1,Simul,Longhorn,The Tower,74.6,0.0,0.0,19401,Turbine,SAND_C_R
 160.0,,Fleet 1,Simul,Lone Star,The Tower,74.6,0.0,0.0,25593,Turbine,SAND_C_R
 76.2,91.8,Fleet 15,Zipper,Bluebonnet,CPE,74.7,0.0,13250.907925640002,0,Diesel,SAND_C_A
@@ -703,7 +703,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 78.1,97.6,Fleet 15,Zipper,Longhorn,CPE,75.5,0.0,17214.482326160003,0,Diesel,SAND_C_X
 78.1,,Fleet 15,Zipper,Longhorn,CPE,75.5,0.0,17335.347547,0,Diesel,SAND_C_X
 106.7,,Fleet 2,Simul,Longhorn,West Campus,75.7,0.0,18150.73679804,0,Diesel,SAND_C_R
-107.20085055816078,101.9,Fleet 2,Simul,Bluebonnet,West Campus,75.7,0.0,17977.97307824,0,Diesel,SAND_C_A
+107.20085055816077,101.9,Fleet 2,Simul,Bluebonnet,West Campus,75.7,0.0,17977.97307824,0,Diesel,SAND_C_A
 106.7,100.4,Fleet 2,Simul,Cowboy,West Campus,75.7,0.0,17856.275261160004,0,Diesel,SAND_C_A
 106.7,106.3,Fleet 2,Simul,Longhorn,West Campus,75.7,0.0,16661.222124680004,0,Diesel,SAND_C_A
 102.4,96.1,Fleet 2,Simul,Rodeo,West Campus,75.7,0.0,16623.89405992,0,Diesel,SAND_C_X
@@ -734,7 +734,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 76.2,94.2,Fleet 10,Zipper,Bluebonnet,West Campus,76.4,0.0,17783.5618562,0,Diesel,SAND_C_X
 76.2,95.1,Fleet 10,Zipper,Longhorn,West Campus,76.4,0.0,18317.94987624,0,Diesel,SAND_C_X
 76.2,94.1,Fleet 10,Zipper,Cowboy,West Campus,76.4,0.0,18402.87469272,0,Diesel,SAND_C_R
-80.38192566126904,91.8,Fleet 10,Zipper,Rodeo,West Campus,76.4,0.0,14333.838101800002,0,Diesel,SAND_C_A
+80.381925661269,91.8,Fleet 10,Zipper,Rodeo,West Campus,76.4,0.0,14333.838101800002,0,Diesel,SAND_C_A
 85.7,,Fleet 4,Zipper,Longhorn,CPE,76.6,0.0,1420.68671752,21030,DGB,SAND_C_A
 85.7,104.4,Fleet 4,Zipper,Longhorn,CPE,76.6,0.0,1420.68671752,21053,DGB,SAND_C_A
 85.7,105.9,Fleet 4,Zipper,Longhorn,CPE,76.6,0.0,1420.68671752,20752,DGB,SAND_C_X
@@ -784,10 +784,10 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 76.2,87.3,Fleet 8,Zipper,Monarch Butterfly,DKR,78.5,0.0,3178.29738016,7279,DGB,SAND_C_X
 73.1,83.0,Fleet 8,Zipper,Rodeo,DKR,78.5,0.0,2676.65814556,5901,DGB,SAND_C_X
 160.0,169.5,Fleet 9,Simul,Pecan Tree,CPE,78.6,0.0,7933.11574076,16317,DGB,SAND_C_R
-143.70366149237566,,Fleet 9,Simul,Pecan Tree,CPE,78.6,0.0,9617.8742324,16551,DGB,SAND_C_X
-123.9671029383911,,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,7198.765857080001,12389,DGB,SAND_C_X
+143.7036614923757,,Fleet 9,Simul,Pecan Tree,CPE,78.6,0.0,9617.8742324,16551,DGB,SAND_C_X
+123.96710293839108,,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,7198.765857080001,12389,DGB,SAND_C_X
 120.0,130.6,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,6222.685531720001,12381,DGB,SAND_C_R
-120.99077446816246,133.5,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,6189.104150040001,13139,DGB,SAND_C_A
+120.99077446816244,133.5,Fleet 9,Simul,Lone Star,CPE,78.6,0.0,6189.104150040001,13139,DGB,SAND_C_A
 109.3,98.5,Fleet 2,Simul,Longhorn,Turtle Pond,78.8,0.0,21432.83117612,0,Diesel,SAND_C_R
 120.0,106.5,Fleet 2,Simul,Lone Star,Turtle Pond,78.8,0.0,22864.480410800003,0,Diesel,SAND_C_A
 120.0,110.9,Fleet 2,Simul,Cowboy,Turtle Pond,78.8,0.0,22449.70871724,0,Diesel,SAND_C_A
@@ -828,12 +828,12 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 102.4,113.9,Fleet 9,Simul,Rodeo,DKR,80.6,0.0,2544.55287548,5356,DGB,SAND_C_R
 102.4,112.4,Fleet 9,Simul,Rodeo,DKR,80.6,0.0,2500.70280684,5209,DGB,SAND_C_A
 90.0,99.9,Fleet 9,Simul,Magnolia,DKR,80.6,0.0,2442.00477192,8145,DGB,SAND_C_X
-101.97328570315774,,Fleet 9,Simul,Magnolia,DKR,80.65,0.0,2522.3503090800004,8288,DGB,SAND_C_A
+101.97328570315779,,Fleet 9,Simul,Magnolia,DKR,80.65,0.0,2522.3503090800004,8288,DGB,SAND_C_A
 104.55812072319259,128.1,Fleet 8,Zipper,Pecan Tree,CPE,80.7,0.0,6586.25255652,16374,DGB,SAND_C_X
 114.3,134.2,Fleet 8,Zipper,Pecan Tree,CPE,80.7,0.0,6537.684442520001,15633,DGB,SAND_C_X
 57.1,74.1,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,16958,Turbine,SAND_C_R
 57.1,72.0,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,15997,Turbine,SAND_C_A
-69.52735970519383,75.9,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,12803,Turbine,SAND_C_A
+69.52735970519385,75.9,Fleet 4,Zipper,Cowboy,Moody Center,80.7,0.0,0.0,12803,Turbine,SAND_C_A
 120.0,136.0,Fleet 2,Simul,Lone Star,CPE,81.1,6123.867836,0.0,0,Grid,SAND_C_R
 120.0,137.7,Fleet 2,Simul,Lone Star,CPE,81.1,6479.954392,0.0,0,Grid,SAND_C_X
 120.0,139.3,Fleet 2,Simul,Longhorn,CPE,81.1,6565.878788,0.0,0,Grid,SAND_C_A
@@ -843,7 +843,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 96.0,107.6,Fleet 2,Simul,Lone Star,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_X
 96.0,108.2,Fleet 2,Simul,Lone Star,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_X
 96.0,114.3,Fleet 2,Simul,Longhorn,Guadalupe,81.3,0.0,0.0,13633,Turbine,SAND_C_A
-104.40876324650068,,Fleet 2,Simul,Longhorn,Guadalupe,81.3,0.0,0.0,13421,Turbine,SAND_C_A
+104.4087632465007,,Fleet 2,Simul,Longhorn,Guadalupe,81.3,0.0,0.0,13421,Turbine,SAND_C_A
 106.7,,Fleet 9,Simul,Monarch Butterfly,Moody Center,81.6,0.0,2559.5396078000003,17004,DGB,SAND_C_A
 106.7,114.4,Fleet 9,Simul,Monarch Butterfly,Moody Center,81.6,0.0,3500.78965712,16310,DGB,SAND_C_R
 102.4,113.8,Fleet 9,Simul,Rodeo,Moody Center,81.6,0.0,3003.45216976,13924,DGB,SAND_C_A
@@ -863,12 +863,12 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 120.0,,Fleet 14,Simul,Lone Star,Turtle Pond,82.7,0.0,18496.541769720003,0,Diesel,SAND_C_X
 120.0,135.6,Fleet 14,Simul,Lone Star,Turtle Pond,82.7,0.0,17903.594480800002,0,Diesel,SAND_C_A
 112.2106339757667,132.5,Fleet 14,Simul,Lone Star,Turtle Pond,82.7,0.0,18139.21921672,0,Diesel,SAND_C_R
-111.2736360302983,119.1,Fleet 1,Simul,Rodeo,West Campus,82.7,0.0,0.0,14312,Turbine,SAND_C_X
+111.27363603029832,119.1,Fleet 1,Simul,Rodeo,West Campus,82.7,0.0,0.0,14312,Turbine,SAND_C_X
 120.0,,Fleet 1,Simul,Longhorn,West Campus,82.7,0.0,0.0,19707,Turbine,SAND_C_R
 120.0,137.9,Fleet 1,Simul,Longhorn,West Campus,82.7,0.0,0.0,19727,Turbine,SAND_C_X
 106.7,120.0,Fleet 1,Simul,Bluebonnet,West Campus,82.8,0.0,0.0,16553,Turbine,SAND_C_A
-105.84185348948986,120.3,Fleet 2,Simul,Cowboy,West Campus,82.9,3510.091588,0.0,0,Grid,SAND_C_R
-96.61318565135427,145.6,Fleet 2,Simul,Monarch Butterfly,West Campus,83.0,2816.21362,0.0,0,Grid,SAND_C_A
+105.84185348948988,120.3,Fleet 2,Simul,Cowboy,West Campus,82.9,3510.091588,0.0,0,Grid,SAND_C_R
+96.61318565135424,145.6,Fleet 2,Simul,Monarch Butterfly,West Campus,83.0,2816.21362,0.0,0,Grid,SAND_C_A
 106.7,117.2,Fleet 2,Simul,Longhorn,West Campus,83.1,3590.833156,0.0,0,Grid,SAND_C_X
 106.7,147.8,Fleet 2,Simul,Rodeo,West Campus,83.1,2467.790416,0.0,0,Grid,SAND_C_X
 106.7,125.6,Fleet 2,Simul,Bluebonnet,West Campus,83.1,3494.386152,0.0,0,Grid,SAND_C_A
@@ -898,7 +898,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 62.9,76.4,Fleet 5,Zipper,Monarch Butterfly,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_X
 76.2,91.8,Fleet 5,Zipper,Bluebonnet,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_X
 76.2,93.4,Fleet 5,Zipper,Cowboy,West Campus,83.7,0.0,0.0,13581,Turbine,SAND_C_A
-108.71852059443775,,Fleet 7,Simul,Monarch Butterfly,DKR,84.0,0.0,7063.46896808,12015,DGB,SAND_C_A
+108.71852059443779,,Fleet 7,Simul,Monarch Butterfly,DKR,84.0,0.0,7063.46896808,12015,DGB,SAND_C_A
 80.0,124.0,Fleet 7,Simul,Cowboy,DKR,84.0,0.0,7168.3760943199995,13039,DGB,SAND_C_A
 106.7,124.7,Fleet 7,Simul,Bluebonnet,DKR,84.1,0.0,5541.483041359999,10478,DGB,SAND_C_R
 106.7,122.3,Fleet 1,Simul,Bluebonnet,Moody Center,84.2,0.0,0.0,19353,Turbine,SAND_C_X
@@ -925,7 +925,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 160.0,187.0,Fleet 2,Simul,Pecan Tree,DKR,84.92500000000001,8841.263112,0.0,0,Grid,SAND_C_A
 110.24000640288071,129.6,Fleet 8,Zipper,Pecan Tree,West Campus,84.95,0.0,7183.77912476,10643,DGB,SAND_C_A
 114.3,130.6,Fleet 8,Zipper,Pecan Tree,West Campus,84.975,0.0,7087.05919488,10664,DGB,SAND_C_A
-107.36908313727706,131.0,Fleet 8,Zipper,Pecan Tree,West Campus,85.0,0.0,7096.07898748,10282,DGB,SAND_C_X
+107.36908313727707,131.0,Fleet 8,Zipper,Pecan Tree,West Campus,85.0,0.0,7096.07898748,10282,DGB,SAND_C_X
 106.7,117.6,Fleet 7,Simul,Bluebonnet,DKR,85.0,0.0,6481.20666424,10721,DGB,SAND_C_X
 90.0,111.2,Fleet 7,Simul,Longhorn,DKR,85.0,0.0,8132.245008160001,13415,DGB,SAND_C_R
 106.7,,Fleet 7,Simul,Cowboy,DKR,85.0,0.0,5768.36551676,10727,DGB,SAND_C_X
@@ -935,7 +935,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 62.9,77.9,Fleet 4,Zipper,Monarch Butterfly,DKR,85.0,0.0,0.0,19288,Turbine,SAND_C_R
 62.9,78.0,Fleet 4,Zipper,Monarch Butterfly,DKR,85.0,0.0,0.0,19288,Turbine,SAND_C_X
 62.9,76.2,Fleet 4,Zipper,Monarch Butterfly,DKR,85.0,0.0,0.0,19288,Turbine,SAND_C_A
-103.10411540288358,122.9,Fleet 1,Simul,Bluebonnet,Gregory Gym,85.0,0.0,0.0,18616,Turbine,SAND_C_X
+103.10411540288356,122.9,Fleet 1,Simul,Bluebonnet,Gregory Gym,85.0,0.0,0.0,18616,Turbine,SAND_C_X
 106.7,123.3,Fleet 1,Simul,Bluebonnet,Gregory Gym,85.0,0.0,0.0,18865,Turbine,SAND_C_A
 96.0,119.1,Fleet 1,Simul,Longhorn,Gregory Gym,85.0,0.0,0.0,18117,Turbine,SAND_C_X
 106.7,121.8,Fleet 1,Simul,Lone Star,Gregory Gym,85.0,0.0,0.0,17989,Turbine,SAND_C_X
@@ -957,10 +957,10 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 76.2,97.7,Fleet 4,Zipper,Longhorn,Guadalupe,85.3,0.0,0.0,13672,Turbine,SAND_C_A
 76.2,93.0,Fleet 4,Zipper,Cowboy,Guadalupe,85.3,0.0,0.0,13556,Turbine,SAND_C_X
 78.1,94.4,Fleet 10,Zipper,Longhorn,CPE,85.6,0.0,14318.15753928,0,Diesel,SAND_C_A
-79.54707436826132,95.4,Fleet 10,Zipper,Longhorn,CPE,85.69999999999999,0.0,14936.082715400002,0,Diesel,SAND_C_A
+79.54707436826126,95.4,Fleet 10,Zipper,Longhorn,CPE,85.69999999999999,0.0,14936.082715400002,0,Diesel,SAND_C_A
 114.3,,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,7166.849667880001,13655,DGB,SAND_C_R
 114.3,128.7,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,5355.12024964,11991,DGB,SAND_C_X
-111.86113488138206,,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,7056.391900040001,13784,DGB,SAND_C_A
+111.86113488138201,,Fleet 8,Zipper,Pecan Tree,CPE,85.8,0.0,7056.391900040001,13784,DGB,SAND_C_A
 103.32228568150501,84.7,Fleet 2,Simul,Bluebonnet,Gregory Gym,85.8,0.0,11754.73248236,0,Diesel,SAND_C_R
 102.4,,Fleet 2,Simul,Rodeo,Gregory Gym,85.8,0.0,9305.92817448,0,Diesel,SAND_C_R
 96.0,85.5,Fleet 2,Simul,Bluebonnet,Turtle Pond,85.9,0.0,17672.13272608,0,Diesel,SAND_C_R
@@ -975,7 +975,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 85.7,98.0,Fleet 15,Zipper,Lone Star,CPE,86.5,0.0,14463.029285039998,0,Diesel,SAND_C_R
 85.7,97.9,Fleet 15,Zipper,Lone Star,CPE,86.5,0.0,14528.943154039998,0,Diesel,SAND_C_X
 85.7,,Fleet 15,Zipper,Lone Star,CPE,86.5,0.0,13939.18748404,0,Diesel,SAND_C_X
-100.61895761744663,126.7,Fleet 12,Simul,Bluebonnet,Moody Center,86.6,0.0,10908.95346856,0,Diesel,SAND_C_X
+100.61895761744664,126.7,Fleet 12,Simul,Bluebonnet,Moody Center,86.6,0.0,10908.95346856,0,Diesel,SAND_C_X
 105.11960074060457,,Fleet 12,Simul,Bluebonnet,Moody Center,86.6,0.0,11334.96521136,0,Diesel,SAND_C_X
 92.0,100.5,Fleet 12,Simul,Monarch Butterfly,Moody Center,86.6,0.0,9695.860746880002,0,Diesel,SAND_C_R
 92.0,,Fleet 12,Simul,Monarch Butterfly,Moody Center,86.6,0.0,10852.1981582,0,Diesel,SAND_C_R
@@ -989,7 +989,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 114.3,133.9,Fleet 8,Zipper,Pecan Tree,CPE,86.8,0.0,10873.42936232,18032,DGB,SAND_C_X
 120.0,131.7,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,13129.07134252,0,Diesel,SAND_C_X
 120.0,131.0,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,13094.6573646,0,Diesel,SAND_C_X
-110.47280114171231,131.4,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,12757.87218552,0,Diesel,SAND_C_A
+110.47280114171232,131.4,Fleet 14,Simul,Lone Star,The Tower,86.8,0.0,12757.87218552,0,Diesel,SAND_C_A
 120.0,132.0,Fleet 14,Simul,Cowboy,The Tower,86.8,0.0,13098.40404768,0,Diesel,SAND_C_A
 120.0,132.2,Fleet 14,Simul,Cowboy,The Tower,86.8,0.0,13065.37773016,0,Diesel,SAND_C_A
 57.1,71.0,Fleet 4,Zipper,Cowboy,Moody Center,87.0,0.0,0.0,22047,Turbine,SAND_C_X
@@ -1000,7 +1000,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 78.1,106.1,Fleet 10,Zipper,Longhorn,Turtle Pond,87.4,0.0,19405.59809776,0,Diesel,SAND_C_A
 68.6,79.9,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10051.5181074,0,Diesel,SAND_C_A
 68.6,80.3,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10330.99291196,0,Diesel,SAND_C_X
-70.80243579631005,,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10274.37636764,0,Diesel,SAND_C_X
+70.80243579631006,,Fleet 15,Zipper,Monarch Butterfly,DKR,87.6,0.0,10274.37636764,0,Diesel,SAND_C_X
 68.6,91.0,Fleet 11,Zipper,Monarch Butterfly,Guadalupe,87.75,0.0,17636.60861984,0,Diesel,SAND_C_A
 73.1,94.9,Fleet 11,Zipper,Rodeo,Guadalupe,87.9,0.0,15917.158618200005,0,Diesel,SAND_C_X
 68.6,96.0,Fleet 11,Zipper,Lone Star,Guadalupe,87.9,0.0,20133.703509640003,0,Diesel,SAND_C_X
@@ -1017,7 +1017,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 106.7,125.8,Fleet 14,Simul,Longhorn,Guadalupe,88.05,0.0,18863.57794552,0,Diesel,SAND_C_X
 68.6,84.3,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12238.74842988,0,Diesel,SAND_C_A
 68.6,85.1,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12276.49279276,0,Diesel,SAND_C_A
-74.87311933351056,85.7,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12253.180098039998,0,Diesel,SAND_C_R
+74.87311933351059,85.7,Fleet 10,Zipper,Bluebonnet,Turtle Pond,88.1,0.0,12253.180098039998,0,Diesel,SAND_C_R
 76.2,97.5,Fleet 6,Zipper,Bluebonnet,Guadalupe,88.13333333333333,0.0,6654.66421424,15469,DGB,SAND_C_A
 76.2,,Fleet 6,Zipper,Bluebonnet,Guadalupe,88.16666666666667,0.0,6503.131698560001,15239,DGB,SAND_C_A
 73.1,97.9,Fleet 6,Zipper,Rodeo,Guadalupe,88.2,0.0,5414.0958166400005,11918,DGB,SAND_C_A
@@ -1025,7 +1025,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 96.0,102.9,Fleet 14,Simul,Monarch Butterfly,Guadalupe,88.2,0.0,9297.46344604,0,Diesel,SAND_C_X
 96.0,103.6,Fleet 14,Simul,Monarch Butterfly,Guadalupe,88.2,0.0,9353.10862808,0,Diesel,SAND_C_X
 102.4,107.0,Fleet 14,Simul,Rodeo,Guadalupe,88.2,0.0,8500.530078320002,0,Diesel,SAND_C_R
-101.95576020125907,,Fleet 14,Simul,Rodeo,Guadalupe,88.2,0.0,8387.85205384,0,Diesel,SAND_C_A
+101.95576020125908,,Fleet 14,Simul,Rodeo,Guadalupe,88.2,0.0,8387.85205384,0,Diesel,SAND_C_A
 96.0,104.7,Fleet 14,Simul,Bluebonnet,Guadalupe,88.2,0.0,9314.11537084,0,Diesel,SAND_C_R
 101.9833115961853,105.3,Fleet 14,Simul,Bluebonnet,Guadalupe,88.2,0.0,9338.2606618,0,Diesel,SAND_C_R
 76.2,,Fleet 4,Zipper,Bluebonnet,Gregory Gym,88.4,0.0,0.0,13975,Turbine,SAND_C_R
@@ -1043,15 +1043,15 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 133.3,145.4,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,8574.21484556,15795,DGB,SAND_C_X
 107.94921276398543,129.9,Fleet 9,Simul,Longhorn,Gregory Gym,88.9,0.0,7502.663484680001,13731,DGB,SAND_C_X
 120.0,131.3,Fleet 9,Simul,Longhorn,Gregory Gym,88.9,0.0,8796.240509559999,13868,DGB,SAND_C_X
-140.69956250939023,,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,9843.64657948,15656,DGB,SAND_C_R
+140.69956250939026,,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,9843.64657948,15656,DGB,SAND_C_R
 120.0,,Fleet 9,Simul,Longhorn,Gregory Gym,88.9,0.0,7207.508117600001,14729,DGB,SAND_C_R
 133.3,136.6,Fleet 9,Simul,Lone Star,Gregory Gym,88.9,0.0,10198.19381168,14717,DGB,SAND_C_X
 85.7,97.5,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8928.345779640002,15526,DGB,SAND_C_R
 76.2,97.6,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8258.52210456,13961,DGB,SAND_C_X
-88.80621540392478,97.9,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8743.648180400001,15274,DGB,SAND_C_X
+88.80621540392475,97.9,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8743.648180400001,15274,DGB,SAND_C_X
 76.2,84.5,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8162.496004880001,13963,DGB,SAND_C_X
 85.7,97.2,Fleet 6,Zipper,Lone Star,Gregory Gym,89.0,0.0,8371.616427160001,15737,DGB,SAND_C_A
-78.27404235889514,91.0,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8088.672471600002,14169,DGB,SAND_C_X
+78.27404235889513,91.0,Fleet 6,Zipper,Longhorn,Gregory Gym,89.0,0.0,8088.672471600002,14169,DGB,SAND_C_X
 64.3,,Fleet 4,Zipper,Longhorn,CPE,89.1,0.0,0.0,16803,Turbine,SAND_C_A
 64.3,,Fleet 4,Zipper,Longhorn,CPE,89.1,0.0,0.0,17044,Turbine,SAND_C_X
 106.7,127.0,Fleet 1,Simul,Bluebonnet,DKR,89.4,0.0,0.0,26007,Turbine,SAND_C_A
@@ -1067,7 +1067,7 @@ Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Tar
 90.0,107.3,Fleet 14,Simul,Longhorn,The Tower,89.5,0.0,18784.203770640004,0,Diesel,SAND_C_X
 120.0,,Fleet 14,Simul,Lone Star,The Tower,89.5,0.0,19750.70923924,0,Diesel,SAND_C_X
 112.23387296947739,129.5,Fleet 14,Simul,Lone Star,The Tower,89.5,0.0,18049.298822800003,0,Diesel,SAND_C_R
-75.32466590691868,,Fleet 4,Zipper,Monarch Butterfly,DKR,89.5,0.0,0.0,22025,Turbine,SAND_C_A
+75.32466590691871,,Fleet 4,Zipper,Monarch Butterfly,DKR,89.5,0.0,0.0,22025,Turbine,SAND_C_A
 76.2,,Fleet 4,Zipper,Bluebonnet,DKR,89.5,0.0,0.0,22684,Turbine,SAND_C_R
 95.2,120.2,Fleet 4,Zipper,Cowboy,DKR,89.63333333333334,0.0,0.0,28961,Turbine,SAND_C_X
 106.7,144.3,Fleet 9,Simul,Lone Star,Gregory Gym,89.76666666666667,0.0,4261.505088399999,7919,DGB,SAND_C_X
