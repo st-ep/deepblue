@@ -20,5 +20,22 @@ def plot_corr(dataframe,size=10):                       # plots a correlation ma
     plt.tight_layout()  # Adjust layout to prevent label cutoff
     plt.show()
 
+def pair_plot_generator(dataframe, field_element_string, categorical_string):
+    df_subset = dataframe[dataframe["Field Area"] == field_element_string]
+    df_subset.drop('Field Area', axis=1, inplace=True)
+    pair_plot_fig = sns.pairplot(dataframe[['Well Name', '# Stages', '# Clusters ', 'Estimated Average Stage Time',
+       'Actual Average Stage Time', 'Frac Fleet', 'Fleet Type',
+       'Target Formation', 'Ambient Temperature', 'Grid',
+       'Diesel', 'CNG', 'Fuel Type', 'Sand Provider ']], hue=categorical_string, corner=True);
+    
+    return pair_plot_fig
+    
+def field_area_subset(dataframe, string, formationtype):
+    df_subset = dataframe[dataframe["Field Area"] == string]
+    df_subset.drop('Field Area', axis=1, inplace=True)
+    groupSubset = df_subset.groupby(['Target Formation']).value_counts()[formationtype]
+    countsSubset = groupSubset.sum()
+    return countsSubset
+
 # Plot correlation using only numeric columns
 plot_corr(numeric_data)
