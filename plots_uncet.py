@@ -29,42 +29,13 @@ plt.title("Mean ± 2*STD for Grid Predictions (Bootstrap Realizations)")
 plt.xlabel("Test Sample Index")
 plt.ylabel("Predicted Grid")
 plt.tight_layout()
-plt.show()
+plt.savefig('bootstrap_errorbar_plot_Grid.png', dpi=300, bbox_inches='tight')
+plt.close()
 
 row_index = 0  # or any other test sample index
 sample_preds = pred_matrix[row_index, :]  # All 100 predictions for that row
 
-plt.figure()
-plt.hist(sample_preds, bins=15, alpha=0.7, color='blue')
-plt.title(f"Distribution of 100 Bootstrap Predictions for Row {row_index}")
-plt.xlabel("Predicted Grid")
-plt.ylabel("Frequency")
-plt.show()
 
-# Choose how many samples you want to visualize
-num_samples_to_plot = 20
-sample_indices = range(num_samples_to_plot)
 
-plt.figure(figsize=(12, 6))
-# Note: seaborn boxplot requires columns as variables,
-# so transpose pred_matrix[sample_indices, :] to shape (100, num_samples_to_plot)
-sns.boxplot(data=pred_matrix[sample_indices, :].T, orient='v')
-plt.xlabel("Test Sample Index")
-plt.ylabel("Predicted Grid (Bootstrap Distribution)")
-plt.title("Boxplots of Grid Predictions for the First 20 Rows")
-plt.tight_layout()
-plt.show()
-
-if "Grid" in df.columns:
-    grid_baseline = df["Grid"].values
-    plt.figure(figsize=(10, 5))
-    plt.errorbar(range(len(pred_mean)), pred_mean, yerr=2*pred_std, fmt='o', label='Bootstrap Mean ± 2 STD')
-    plt.plot(range(len(grid_baseline)), grid_baseline, 'r-', label='Single Model Prediction')
-    plt.title("Comparing Bootstrap Mean vs. Baseline Prediction")
-    plt.xlabel("Test Sample Index")
-    plt.ylabel("Predicted Grid")
-    plt.legend()
-    plt.tight_layout()
-    plt.show()
 
 
