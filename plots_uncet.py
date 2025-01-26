@@ -7,9 +7,9 @@ import seaborn as sns
 df = pd.read_csv("test_uncert_predictions.csv")
 
 # Identify the columns that store our 100 bootstrap realizations
-g_cols = [c for c in df.columns if c.startswith('G')]
+c_cols = [c for c in df.columns if c.startswith('C')]
 # Extract them as a NumPy array of shape (num_samples_in_test, 100)
-pred_matrix = df[g_cols].values
+pred_matrix = df[c_cols].values
 
 # Compute summary statistics across the 100 realizations
 pred_mean = np.mean(pred_matrix, axis=1)  # shape = (num_samples_in_test,)
@@ -55,8 +55,8 @@ plt.title("Boxplots of Grid Predictions for the First 20 Rows")
 plt.tight_layout()
 plt.show()
 
-if "Grid" in df.columns:
-    grid_baseline = df["Grid"].values
+if "CNG" in df.columns:
+    grid_baseline = df["CNG"].values
     plt.figure(figsize=(10, 5))
     plt.errorbar(range(len(pred_mean)), pred_mean, yerr=2*pred_std, fmt='o', label='Bootstrap Mean ± 2 STD')
     plt.plot(range(len(grid_baseline)), grid_baseline, 'r-', label='Single Model Prediction')
