@@ -5,6 +5,10 @@ import seaborn as sns           # for commented out plot
 import os
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import GridSearchCV
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from xgboost import XGBRegressor
+from sklearn.metrics import mean_squared_error, r2_score
 
 os.chdir("/Users/Step_by-stepa/Documents/PGE_HACK/deepblue")  # set correct working directory
 my_data = pd.read_csv("TrainData_recovered_forest_main.csv")         # load the correct data file
@@ -55,75 +59,69 @@ print("\nShape of dataset after normalization:", my_data_encoded.shape)
 print("\nFirst few rows of normalized dataset:")
 print(my_data_encoded.head())
 
-# Create temperature bins with just 2 categories (Cold/Hot)
-temp_bins = pd.qcut(my_data_encoded['Ambient Temperature'], q=2, labels=['Cold', 'Hot'])
-print("\nTemperature range for each bin:")
-print(pd.qcut(my_data_encoded['Ambient Temperature'], q=2, retbins=True)[1])
+# Remove the binning code and keep Ambient Temperature as continuous
+y = my_data_encoded['Ambient Temperature']
 
-# Convert target to categorical
-y = temp_bins
-
-# Prepare features - just drop Ambient Temperature
+# Prepare features - drop Ambient Temperature
 X = my_data_encoded.drop('Ambient Temperature', axis=1)
 
-# Import necessary modules
-from sklearn.model_selection import GridSearchCV
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, confusion_matrix
+# Split the data
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Define the parameter grid
-param_grid = {
-    'n_estimators': [100, 200, 300],
-    'max_depth': [None, 10, 20, 30],
-    'min_samples_split': [2, 5, 10],
-    'min_samples_leaf': [1, 2, 4],
-    'max_features': ['sqrt', 'log2']
-}
-
-# Initialize GridSearchCV
-grid_search = GridSearchCV(
-    estimator=RandomForestClassifier(random_state=42),
-    param_grid=param_grid,
-    cv=5,
-    n_jobs=-1,
-    scoring='accuracy',
-    verbose=0
+# Create base models
+rf_model = RandomForestRegressor(
+    n_estimators=500,
+    max_depth=30,
+    min_samples_split=3,
+    min_samples_leaf=1,
+    max_features='sqrt',
+    random_state=42,
+    n_jobs=-1
 )
 
-# Fit the grid search
-print("\nPerforming grid search...")
-grid_search.fit(X, y)
+xgb_model = XGBRegressor(
+    n_estimators=500,
+    max_depth=7,
+    learning_rate=0.05,
+    subsample=0.8,
+    colsample_bytree=0.8,
+    random_state=42,
+    n_jobs=-1
+)
 
-# Print results
-print("\nBest parameters:", grid_search.best_params_)
-print(f"Best accuracy score: {grid_search.best_score_:.3f}")
+# Train models
+print("Training Random Forest...")
+rf_model.fit(X_train, y_train)
+print("Training XGBoost...")
+xgb_model.fit(X_train, y_train)
 
-# Print classification report for best model
-y_pred = grid_search.predict(X)
-print("\nClassification Report:")
-print(classification_report(y, y_pred))
+# Make predictions on validation set
+rf_pred = rf_model.predict(X_val)
+xgb_pred = xgb_model.predict(X_val)
 
-# Get feature importance
-feature_importance = pd.DataFrame({
-    'feature': X.columns,
-    'importance': grid_search.best_estimator_.feature_importances_
-}).sort_values('importance', ascending=False)
+# Combine predictions with weighted average
+weights = [0.5, 0.5]  # RF, XGB
+ensemble_pred_val = weights[0] * rf_pred + weights[1] * xgb_pred
 
-print("\nTop 10 most important features:")
-print(feature_importance.head(10))
+# Evaluate ensemble on validation set
+print("\nValidation Set Performance:")
+print(f"Random Forest R²: {r2_score(y_val, rf_pred):.3f}")
+print(f"XGBoost R²: {r2_score(y_val, xgb_pred):.3f}")
+print(f"Ensemble R²: {r2_score(y_val, ensemble_pred_val):.3f}")
+print(f"Ensemble RMSE: {np.sqrt(mean_squared_error(y_val, ensemble_pred_val)):.3f}")
 
-# Calculate mean temperature for each bin
-temp_bins_with_values = pd.qcut(my_data_encoded['Ambient Temperature'], q=2, labels=['Cold', 'Hot'])
-bin_means = my_data_encoded.groupby(temp_bins_with_values)['Ambient Temperature'].mean()
-print("\nMean temperature for each bin:")
-print(bin_means)
+# Make predictions on full dataset
+rf_pred_full = rf_model.predict(X)
+xgb_pred_full = xgb_model.predict(X)
+
+ensemble_pred = weights[0] * rf_pred_full + weights[1] * xgb_pred_full
 
 # Load the test data
 test_data = pd.read_csv("testing_with_predictions.csv")
 
 # Prepare test data the same way as training data
 # One-hot encode categorical columns
-test_encoded = pd.get_dummies(test_data, columns=categorical_columns, drop_first=True)
+test_encoded = pd.get_dummies(test_data, columns=categorical_columns)
 
 # Ensure test data has same columns as training data
 for col in X.columns:
@@ -133,17 +131,71 @@ for col in X.columns:
 # Keep only the columns that were used in training
 X_test = test_encoded[X.columns]
 
-# Make predictions
-predictions = grid_search.predict(X_test)
+# Make ensemble predictions on test data
+rf_test_pred = rf_model.predict(X_test)
+xgb_test_pred = xgb_model.predict(X_test)
 
-# Convert categorical predictions to numeric using bin means
-numeric_predictions = pd.Series(predictions).map(bin_means)
+ensemble_test_pred = (
+    weights[0] * rf_test_pred + 
+    weights[1] * xgb_test_pred
+)
 
-# Fill only the missing values with predictions
-test_data.loc[test_data['Ambient Temperature'].isna(), 'Ambient Temperature'] = numeric_predictions[test_data['Ambient Temperature'].isna()]
+# Fill missing values with ensemble predictions
+test_data.loc[test_data['Ambient Temperature'].isna(), 'Ambient Temperature'] = \
+    ensemble_test_pred[test_data['Ambient Temperature'].isna()]
 
-# Save the results
+# Save results
 test_data.to_csv('testing_with_filled_temperatures.csv', index=False)
 
 print("\nPredictions completed and saved to 'testing_with_filled_temperatures.csv'")
 print("Number of temperatures predicted:", sum(test_data['Ambient Temperature'].isna()))
+
+# After making predictions, add these visualizations
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Remove the problematic style line and use a basic style
+plt.style.use('default')
+
+# 1. Actual vs Predicted Plot
+plt.figure(figsize=(10, 6))
+plt.scatter(y, ensemble_pred, alpha=0.5)
+plt.plot([y.min(), y.max()], [y.min(), y.max()], 'r--', lw=2)
+plt.xlabel('Actual Temperature')
+plt.ylabel('Predicted Temperature')
+plt.title('Actual vs Predicted Temperature (Ensemble Model)')
+plt.tight_layout()
+plt.show()
+
+# 2. Feature Importance Plot
+plt.figure(figsize=(12, 6))
+sns.barplot(x='importance', y='feature', data=pd.DataFrame({
+    'feature': X.columns,
+    'importance': rf_model.feature_importances_
+}).sort_values('importance', ascending=False).head(15))
+plt.title('Top 15 Most Important Features (Random Forest)')
+plt.xlabel('Feature Importance')
+plt.tight_layout()
+plt.show()
+
+# 3. Residuals Plot
+residuals = y - ensemble_pred
+plt.figure(figsize=(10, 6))
+plt.scatter(ensemble_pred, residuals, alpha=0.5)
+plt.axhline(y=0, color='r', linestyle='--')
+plt.xlabel('Predicted Temperature')
+plt.ylabel('Residuals')
+plt.title('Residuals vs Predicted Temperature')
+plt.tight_layout()
+plt.show()
+
+# 4. Residuals Distribution
+plt.figure(figsize=(10, 6))
+sns.histplot(residuals, kde=True)
+plt.xlabel('Residual Value')
+plt.ylabel('Count')
+plt.title('Distribution of Residuals')
+plt.tight_layout()
+plt.show()
+
+print("\nAll plots have been displayed")

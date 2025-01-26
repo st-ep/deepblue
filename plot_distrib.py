@@ -22,26 +22,25 @@ for idx, fuel in enumerate(fuel_types):
         
     plt.figure(figsize=(12, 7))
     
-    # Get data for current fuel type
-    fuel_data = df[df['Fuel Type'] == fuel][r_columns]
-    flat_data = fuel_data.values.flatten()
+    # Get data for current fuel type - just the first row
+    fuel_data = df[df['Fuel Type'] == fuel].iloc[0][r_columns]
     
     # Plot distribution with improved styling
-    sns.histplot(flat_data, kde=True, color='steelblue', alpha=0.6)
+    sns.histplot(fuel_data, kde=True, color='steelblue', alpha=0.6)
     
     # Add mean and median lines
-    plt.axvline(np.mean(flat_data), color='red', linestyle='dashed', linewidth=2, label=f'Mean: {np.mean(flat_data):.3f}')
-    plt.axvline(np.median(flat_data), color='green', linestyle='dashed', linewidth=2, label=f'Median: {np.median(flat_data):.3f}')
+    plt.axvline(np.mean(fuel_data), color='red', linestyle='dashed', linewidth=2, label=f'Mean: {np.mean(fuel_data):.3f}')
+    plt.axvline(np.median(fuel_data), color='green', linestyle='dashed', linewidth=2, label=f'Median: {np.median(fuel_data):.3f}')
     
     # Add statistical information
     plt.text(0.02, 0.95, 
-             f'Std Dev: {np.std(flat_data):.3f}\n'
-             f'95% CI: [{np.percentile(flat_data, 2.5):.3f}, {np.percentile(flat_data, 97.5):.3f}]',
+             f'Std Dev: {np.std(fuel_data):.3f}\n'
+             f'95% CI: [{np.percentile(fuel_data, 2.5):.3f}, {np.percentile(fuel_data, 97.5):.3f}]',
              transform=plt.gca().transAxes,
              bbox=dict(facecolor='white', alpha=0.8))
     
-    plt.title(f'Distribution of R Values for {fuel}', fontsize=14, pad=20)
-    plt.xlabel('R Value', fontsize=12)
+    plt.title(f'Distribution of Fuel Values for {fuel}', fontsize=14, pad=20)
+    plt.xlabel('Fuel Value', fontsize=12)
     plt.ylabel('Count', fontsize=12)
     plt.legend()
     
@@ -50,8 +49,7 @@ for idx, fuel in enumerate(fuel_types):
     plt.tight_layout()
     
     # Save the plot instead of displaying it
-    # Create a valid filename by replacing spaces with underscores
     filename = f'distribution_{fuel.replace(" ", "_")}.png'
     plt.savefig(filename, dpi=300, bbox_inches='tight')
-    plt.close()  # Close the figure to free memory
+    plt.close()
 
