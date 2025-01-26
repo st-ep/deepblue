@@ -44,7 +44,7 @@ for index, row in df_solution.iterrows():
 print("Updated solution.csv head:")
 print(df_solution.head())
 
-df_uncert_CD = pd.read_csv("test_uncert_predictions_CD.csv")
+df_uncert_CD = pd.read_csv("test_uncert_predictions_CD2.csv")
 # Copy the well names to df_uncert the same way as df_test
 df_uncert_CD['Masked Well Name'] = df['Well Name'].values
 
@@ -87,7 +87,7 @@ print(f"Number of rows modified: {rows_modified}")
 print("Updated solution.csv with uncertainty values:")
 print(df_solution.head())
 
-df_uncert_G = pd.read_csv("test_uncert_predictions_G.csv")
+df_uncert_G = pd.read_csv("test_uncert_predictions_G3.csv")
 # Copy the well names to df_uncert the same way as df_test
 df_uncert_G['Masked Well Name'] = df['Well Name'].values
 

@@ -20,4 +20,4 @@ for index, row in df.iterrows():
         df.loc[index, numeric_columns] = row[numeric_columns] * (1000000/(40.67 * 3412))
 
 # Save the scaled results
-df.to_csv("solution_1.csv", index=False)
+df.to_csv("solution_3.csv", index=False)

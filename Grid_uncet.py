@@ -203,16 +203,10 @@ print("\nSample of predictions:")
 print(test_data[['Grid'] + [f'G{i}' for i in range(1,6)]].head())
 
 # ----------------------------------------------------------------------
-# 6. [NEW] Bootstrap Realizations: G1..G100
-#    We re-fit the classifier and regressor inside each iteration,
-#    then predict on test_data. Finally, store in G1..G100.
+# 6. [MODIFIED] Bootstrap Realizations: G1..G100 (Regression-only uncertainty)
 # ----------------------------------------------------------------------
 n_bootstrap = 100
 rng = np.random.default_rng(seed=123)
-
-# Convert your classification TRAIN sets to arrays
-X_train_binary_arr = X_train_binary.to_numpy()   # shape = (n_train_class, n_features)
-y_train_binary_arr = y_train_binary.to_numpy()   # shape = (n_train_class,)
 
 # Convert your regression TRAIN sets (already log-transformed) to arrays
 X_train_reg_arr = X_train_reg.to_numpy()         # shape = (n_train_reg, n_features)
@@ -221,79 +215,50 @@ y_train_reg_arr = y_train_reg.to_numpy().ravel() # shape = (n_train_reg,)
 # We'll store the predictions for each bootstrap iteration here
 bootstrap_preds = np.zeros((len(test_data), n_bootstrap))
 
-# We'll need to re-process test_data each time for the model (already done above),
-# but let's keep a stable version:
-test_encoded_boot = test_encoded.copy()
+# Get deterministic binary predictions once
+test_binary_preds = clf.predict(test_encoded)
 
-# Function to do inverse transform of log1p predictions
 def inverse_log1p(pred_log):
     return np.expm1(pred_log)
 
+# Only do regression bootstrapping where binary classifier predicted non-zero
+idx_non_zero = np.where(test_binary_preds == 1)[0]
+test_reg_subset = test_encoded.iloc[idx_non_zero]
+
 for i in range(n_bootstrap):
-    # ---------------------------
-    # (A) Bootstrap classification training
-    # ---------------------------
-    n_train_class = len(X_train_binary_arr)
-    bootstrap_idx_class = rng.integers(0, n_train_class, size=n_train_class)
+    # Skip classification - use the original deterministic predictions
+    test_preds_boot = np.zeros(len(test_encoded))
     
-    X_train_class_boot = X_train_binary_arr[bootstrap_idx_class, :]
-    y_train_class_boot = y_train_binary_arr[bootstrap_idx_class]
-
-    # Train a new RandomForestClassifier on the bootstrap sample
-    clf_boot = RandomForestClassifier(
-        n_estimators=100,
-        class_weight='balanced',
-        random_state=None  # vary each iteration
-    )
-    clf_boot.fit(X_train_class_boot, y_train_class_boot)
-
-    # ---------------------------
-    # (B) Bootstrap regression training (on non-zero portion, log1p)
-    # ---------------------------
-    n_train_reg = len(X_train_reg_arr)
-    bootstrap_idx_reg = rng.integers(0, n_train_reg, size=n_train_reg)
-    
-    X_train_reg_boot = X_train_reg_arr[bootstrap_idx_reg, :]
-    y_train_reg_boot = y_train_reg_arr[bootstrap_idx_reg]
-    
-    # Train a new RandomForestRegressor on the bootstrap sample
-    reg_boot = RandomForestRegressor(
-        n_estimators=100,
-        max_depth=None,
-        max_features='log2',
-        min_samples_leaf=1,
-        min_samples_split=4,
-        bootstrap=False,
-        random_state=None
-    )
-    reg_boot.fit(X_train_reg_boot, y_train_reg_boot)
-
-    # ---------------------------
-    # (C) Predict on external test_data
-    # ---------------------------
-    test_binary_preds_boot = clf_boot.predict(test_encoded_boot)
-    test_preds_boot = np.zeros(len(test_encoded_boot))
-
-    idx_non_zero = np.where(test_binary_preds_boot == 1)[0]
     if len(idx_non_zero) > 0:
-        test_reg_preds_log = reg_boot.predict(test_encoded_boot.iloc[idx_non_zero])
+        # Bootstrap only for regression
+        n_train_reg = len(X_train_reg_arr)
+        bootstrap_idx_reg = rng.integers(0, n_train_reg, size=n_train_reg)
+        
+        X_train_reg_boot = X_train_reg_arr[bootstrap_idx_reg, :]
+        y_train_reg_boot = y_train_reg_arr[bootstrap_idx_reg]
+        
+        # Train a new RandomForestRegressor on the bootstrap sample
+        reg_boot = RandomForestRegressor(
+            n_estimators=100,
+            max_depth=None,
+            max_features='log2',
+            min_samples_leaf=1,
+            min_samples_split=4,
+            bootstrap=False,
+            random_state=None
+        )
+        reg_boot.fit(X_train_reg_boot, y_train_reg_boot)
+
+        # Predict regression values
+        test_reg_preds_log = reg_boot.predict(test_reg_subset)
         test_reg_preds = inverse_log1p(test_reg_preds_log)
         test_preds_boot[idx_non_zero] = test_reg_preds
     
-    # ---------------------------
-    # (D) (Optional) Add noise, if desired
-    #     e.g., measure residuals in the bootstrap training set
-    # ---------------------------
-    # Example (commented out):
-    # residuals_boot = y_train_reg_boot - reg_boot.predict(X_train_reg_boot)
-    # sigma_est = np.std(residuals_boot) if len(residuals_boot) > 1 else 0.0
-    # noise = rng.normal(loc=0, scale=sigma_est, size=len(test_preds_boot))
-    # test_preds_boot = np.where(test_binary_preds_boot == 1, test_preds_boot + noise, 0.0)
-
     # Store
     bootstrap_preds[:, i] = test_preds_boot
     
-    print(f"Bootstrap iteration {i+1}/{n_bootstrap} complete.")
+    if (i + 1) % 10 == 0:
+        print(f"Bootstrap iteration {i+1}/{n_bootstrap} complete.")
 
 # ----------------------------------------------------------------------
 # 7. Write the bootstrap predictions into G1..G100 columns
