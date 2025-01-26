@@ -11,7 +11,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import StandardScaler
 
-os.chdir("/Users/Step_by-stepa/Documents/PGE_HACK/deepblue")  # set correct working directory
+#os.chdir("/Users/Step_by-stepa/Documents/PGE_HACK/deepblue")  # set correct working directory
 my_data = pd.read_csv("HackathonData2025+Fleet_Type_units.csv")         # load the correct data file
 my_data = my_data.iloc[:,1:]  
 

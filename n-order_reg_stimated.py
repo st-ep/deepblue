@@ -18,7 +18,7 @@ from sklearn.linear_model import Ridge, Lasso, ElasticNet
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import GridSearchCV
 
-os.chdir("/Users/Step_by-stepa/Documents/PGE_HACK/deepblue")  # set correct working directory
+#os.chdir("/Users/Step_by-stepa/Documents/PGE_HACK/deepblue")  # set correct working directory
 my_data = pd.read_csv("HackathonData2025+Fleet_Type_units_AT.csv")         # load the correct data file
 my_data = my_data.iloc[:,1:]  
 
