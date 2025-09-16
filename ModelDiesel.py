@@ -161,3 +161,47 @@ existing_predictions.to_csv("test_main_predictions.csv", index=False)
 print("\nDiesel Predictions added to 'test_main_predictions.csv'")
 print("\nSample of predictions:")
 print(existing_predictions[['Grid', 'CNG', 'Diesel']].head())
+
+# Create visualization of results
+plt.figure(figsize=(12, 8))
+
+# Scatter plot of actual vs predicted values
+plt.scatter(y_test_combined, y_pred_combined, alpha=0.5, label='Predictions')
+plt.plot([0, max(y_test_combined)], [0, max(y_test_combined)], 'r--', label='Perfect Prediction')
+
+plt.xlabel('Actual Diesel Consumption')
+plt.ylabel('Predicted Diesel Consumption')
+plt.title('Actual vs Predicted Diesel Consumption\n' + 
+          f'R² = {combined_r2:.3f}, RMSE = {combined_rmse:.3f}')
+plt.legend()
+
+# Add text box with metrics
+metrics_text = (f'R² Score: {combined_r2:.3f}\n'
+               f'RMSE: {combined_rmse:.3f}\n'
+               f'MAPE: {mape:.1f}%')
+plt.text(0.05, 0.95, metrics_text, transform=plt.gca().transAxes, 
+         bbox=dict(facecolor='white', alpha=0.8), 
+         verticalalignment='top')
+
+plt.grid(True, alpha=0.3)
+plt.tight_layout()
+
+# Save the plot
+plt.savefig('diesel_prediction_results.png', dpi=300, bbox_inches='tight')
+plt.show()
+
+# Create residual plot
+plt.figure(figsize=(12, 6))
+residuals = y_test_combined - y_pred_combined
+
+plt.scatter(y_pred_combined, residuals, alpha=0.5)
+plt.axhline(y=0, color='r', linestyle='--')
+plt.xlabel('Predicted Diesel Consumption')
+plt.ylabel('Residuals')
+plt.title('Residual Plot for Diesel Consumption Predictions')
+plt.grid(True, alpha=0.3)
+plt.tight_layout()
+
+# Save the residual plot
+plt.savefig('diesel_residuals_plot.png', dpi=300, bbox_inches='tight')
+plt.show()
